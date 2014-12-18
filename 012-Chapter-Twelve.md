@@ -38,6 +38,28 @@ Abigail shot to the surface, spraying water backwards, and she waved to the drya
 
 She grinned.
 
-Here in the water… She was free.
+Here in the water... She was free.
 
 ---
+
+Fiona was far more used to sneaking around, with a bow or a wand. 
+
+Walking between marching soldiers that made the ground shake with their every step... It was unnerving. 
+
+It was terrifying, really. 
+
+She was running away, and the soldiers knew it, but they simply didn't care. They had their duty, and they would carry it through to the very end. 
+
+But she had a different duty, a different sense of responsibility.
+
+Her duty was to her people, and she had removed the greatest threat they had ever faced, and now... Now she was in a damn awkward position.
+
+Every time she thought of Kyle, she found herself fighting back thoughts and emotions, but in all honesty, what could be more dangerous to the Elvish people than an Aimimancer turned Necromancer?
+
+One who managed to cure her of vampirism?
+
+She... Owed him.
+
+But she had sworn an unbreakable oath to her people.
+
+She was utterly confused.
