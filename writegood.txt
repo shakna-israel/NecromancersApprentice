@@ -2827,6 +2827,26 @@ ed to the dryad swimming calmly, barely in sight. He waved back.
 e dryad swimming calmly, barely in sight. He waved back.
                          ^^^^^^
 "barely" can weaken meaning on line 37 at column 99
+-------------
+with their every step... It was unnerving. 
+                         ^^^^^^
+"It was" is wordy or unneeded on line 47 at column 86
+-------------
+It was terrifying, really. 
+^^^^^^
+"It was" is wordy or unneeded on line 49 at column 0
+-------------
+It was terrifying, really. 
+                   ^^^^^^
+"really" can weaken meaning on line 49 at column 19
+-------------
+ldiers knew it, but they simply didn't care. They had their duty, and they would
+                         ^^^^^^
+"simply" can weaken meaning on line 51 at column 57
+-------------
+ carry it through to the very end. 
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 51 at column 137
 In README.md
 =============
 So, in the spirit of this friendship, I'm going to release, as I write it, the l
