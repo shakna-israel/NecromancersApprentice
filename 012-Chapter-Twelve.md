@@ -42,24 +42,172 @@ Here in the water... She was free.
 
 ---
 
-Fiona was far more used to sneaking around, with a bow or a wand. 
+Fiona was far more used to sneaking around, with a bow or a wand.
 
-Walking between marching soldiers that made the ground shake with their every step... It was unnerving. 
+Walking between marching soldiers that made the ground shake with their every step... It was unnerving.
 
-It was terrifying, really. 
+It was terrifying, really.
 
-She was running away, and the soldiers knew it, but they simply didn't care. They had their duty, and they would carry it through to the very end. 
+She was running away, and the soldiers knew it, but they simply didn't care. They had their duty, and they would carry it through to the very end.
 
 But she had a different duty, a different sense of responsibility.
 
-Her duty was to her people, and she had removed the greatest threat they had ever faced, and now... Now she was in a damn awkward position.
+She was the heir to the throne of her father's kingdom, and the threat he posed to the Elvish people was gone. And now… Now she had to go and prepare them for a coming war.
 
-Every time she thought of Kyle, she found herself fighting back thoughts and emotions, but in all honesty, what could be more dangerous to the Elvish people than an Aimimancer turned Necromancer?
+A power race.
 
-One who managed to cure her of vampirism?
+Kyle had proven that anyone could become a Necromancer, with the right amount of preparation.
 
-She... Owed him.
+He had terrified the vampires, shown he had power over them.
 
-But she had sworn an unbreakable oath to her people.
+And if the statues that used to be trolls were anything to go by, then he had cursed an entire species.
 
-She was utterly confused.
+Though thinking about him made her ears turn pink, Kyle was becoming a serious problem. He was on the verge of becoming the sort of dictator that the world had feared since magic had emerged as a mainstream industry.
+
+Kyle as a crazy evil wizard made Fiona conjure up pictures of the world burning to a crisp.
+
+With many, many dead vampires.
+
+… Could he make them extinct?
+
+Would he?
+
+---
+
+Adrian Duke waded through the waters, slowly and carefully, as was the way of his ancient people.
+
+The dryads were a curious race to most - simply because when they looked at a tree they saw something old and stupid. No true life or essence.
+
+They were… Wrong.
+
+When the cold came, the trees prepared for it, creating cavities for the water to freeze in, expelling the rest as mist.
+
+When the heat came, they lowered the amount of sap in their systems, bleeding out into the air.
+
+When a river tried to uproot, a tree would play a game of tug of war.
+
+Trees were resilient, more than resilient enough to survive the ice age that had decimated their world.
+
+His own people were simply those trees that had decided to ignore the rules of nature, and walk among men.
+
+He and his own kind was a paradox, creatures that should have simply weathered the test of time, and watched on uncaring, but had instead arose in impatience and tried to change the world for the better.
+
+He shuddered at the memory of the war he had fought, long before he had even known that magic existed.
+
+Yet here he was, yet again, watching the world falling apart.
+
+He waded in the water, knowing that the wisdom of the wise had yet again been abandoned, and a few young people had begun to change the world.
+
+If only they had known the cost of their few actions.
+
+The world could never be the same again, and so they would have to fight to bring it in to the conclusion, they would have to find some sort of bravery within their soul.
+
+Would history remember them as heroes or traitorous fools?
+
+Who could tell?
+
+Duke was lost within his dark brooding thoughts as he slowly crossed the river.
+
+---
+
+Abigail emerged dripping from the water, breathing hard, and she paused her breath frosted in the air.
+
+Her eyes darted around, spotting a nearby cave, their destination, and she saw the dozens of frozen bones lying scattered in front of it.
+
+This was not a good place.
+
+She steadied herself, readying herself for a fight, knowing that here, her magic may be more dangerous than any other tool she could bring to bear - but it was all she had.
+
+The young nymph crouched, eyes flickering as she examined the various spectrums of light.
+
+The cave was sucking the warmth from the world, freezing temperatures surrounding it, and penetrating deep into the rock strata.
+
+There was more than a small of element of magic to it, giant streams echoed from it.
+
+Abigail swallowed, clenching her fists.
+
+She did not know if the creature that inhabited that place was home, and if it wasn't, then it would likely kill her before she saw it.
+
+Whatever it was… That was a creature of destruction.
+
+A monster of evil.
+
+A bastardisation of the laws of nature, corrupted when the Ice Age first began to overtake the world in its hardest fury.
+
+Abigail winced as a blast of frozen air blew snow into her face, and she spun around behind, swearing violently and dropping to the ground as a fist as large as her body ripped through the space she had inhabited.
+
+She used her wrists to flip backwards through the air, wincing as she felt the cold of the cave behind her.
+
+It was hunting her, driving it towards a place she had no hope of escaping.
+
+She gritted her teeth, concentrating and forcing the incantations out in her mind, gripping the ground beneath the beast of ice and snow.
+
+Moaning faces emerged, accompanied by groaning arms, seizing hold of the creature.
+
+She twisted a fist and pushed it down, the ground beneath the beast opening into a yawing mouth, but it shook off her attack, kicking as it strode forward, shattering the souls she had embedded into the ground.
+
+Abigail stared at the beast, towering high above her.
+
+Icicles laid across it like scales, snow spilling down between them like puss from rotting meat. It's eyes were little more than empty sockets carved into a dome of ice, empty and lifeless.
+
+Abigail's face twitched into a smile, and she spun a ball of vitamancy, pushing it forward with all her might.
+
+It struck the beast at speed, and slammed to a stop, the force knocking Abigail backwards a foot across the ground, she clenched her teeth and stood her ground, fighting to push the essence of life into the creature.
+
+Something dark latched onto the vitamancy, trying to push back.
+
+Abigail felt herself tumbling to the ground, except it was now gone, and she was falling head over heels down a dark abyss.
+
+Her every thought became a nightmare, taking flight and attacking her, tearing at her soul, trying to rip her apart and end her life.
+
+She was gone.
+
+Her soul was almost destroyed.
+
+She was becoming death.
+
+And the Reaper from ancient terrors rose up, taking hold of her, and she took hold of it, wresting the scythe away.
+
+She stood in shadow, feeling a dark surety settling over her.
+
+She was Death.
+
+Abigail let out a yell of fury, and the creature in front of her exploded, sending icicles slamming into the ground and air.
+
+She collapsed to her knees, hands on the frozen ground, breathing hard.
+
+What the crap had just happened?
+
+---
+
+Fiona trudged through the snow, surrounding her up to her waist.
+
+She could feel small crystals of water forming on the ends of her hair, the frost pasted across her face, hidden by little more than a scrap of cloth.
+
+She pushed forward through it all, and felt no fear.
+
+The elements might be conspiring against her, but she had a duty to perform.
+
+She had to return to her people.
+
+Keep them safe.
+
+The whole world was about to erupt into chaos.
+
+The moment the sun set, the vampires would come out, seeking revenge and destruction.
+
+It was an impossible deadline for her, nearly a week from her kingdom, but she needed to cover as much ground as possible, and take cover for the night.
+
+A thundering voice spoke from nearby, "You are about to succumb to the cold. Your health is beginning to fail."
+
+She rolled her eyes.
+
+As if she hadn't noticed the way she trembled, or the way her breath rasped.
+
+"There's nowhere to take cover, yet." She set her jaw, "We keep going."
+
+A rocky hand grabbed her shoulder, and Fiona's eyes bulged as she felt herself simply jerk to a stop. She looked up at the owner of the hand and he shook his head, "There is a system of caverns beneath us."
+
+He turned and signalled to the other soldiers, and they immediately began to pummel the ground, throwing up snow and stone, and Fiona looked in astonishment as they began to get lower, somehow managing to dig.
+
+---
