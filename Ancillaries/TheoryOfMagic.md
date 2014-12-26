@@ -21,7 +21,7 @@ Currently, it is taught across our world that varying magic can be deployed, dep
 
 From my own studies, I believe this to be false.
 
-*Experiment 1*
+### Experiment 1
 
 Eight mages from each of the eight schools, were selected at random.
 
@@ -66,7 +66,9 @@ PH 			| Pyromancy | Generating Rain | B
 
 2/8 Mages were able to excel at the task.
 
-Conclusion: Pyromancers are equally able to perform a simple aquamancy spell - but at greater difficulty.
+### Conclusion
+
+Pyromancers are equally able to perform a simple aquamancy spell - but at greater difficulty.
 
 *Results*
 
@@ -89,7 +91,9 @@ PH		| Pyromancy	| Formation of Water	| C
 
 1/8 Mages were able to excel at the task.
 
-Conclusion: Pyromancers are equally able to perform a simple aquamancy spell - but at greater difficulty.
+### Conclusion
+
+Pyromancers are equally able to perform a simple aquamancy spell - but at greater difficulty.
 
 *Results*
 
@@ -114,7 +118,9 @@ PH		| Pyromancy	| Breathing Underwater |	Fail
 
 0/8 Mages were able to excel at the task.
 
-Conclusion: Though Pyromancers apear equally able to perform simple aquamancy spells, at greater difficulty, when their life is put at risk, they return to their more natural channel of magic.
+### Conclusion
+
+Though Pyromancers apear equally able to perform simple aquamancy spells, at greater difficulty, when their life is put at risk, they return to their more natural channel of magic.
 
 *Results*
 
@@ -137,7 +143,9 @@ AH		| Aquamancy	| Flame Generation	| Pass
 
 2/8 Mages were able to excel at the task.
 
-Conclusion: Aquamancers appear to equally be able to perform simple pyromancy spells, with no added difficulty.
+### Conclusion
+
+Aquamancers appear to equally be able to perform simple pyromancy spells, with no added difficulty.
 
 *Results*
 
@@ -160,7 +168,9 @@ AH		| Aquamancy	| Formation of Flame	| Fail
 
 1/8 Mages were able to excel at the task.
 
-Conclusion: Though Aquamancers seem able to make use of basic pyromancy spells, there is more difficulty when it comes to making use of it in a practical or directed way.
+### Conclusion
+
+Though Aquamancers seem able to make use of basic pyromancy spells, there is more difficulty when it comes to making use of it in a practical or directed way.
 
 *Results*
 
@@ -185,7 +195,9 @@ AH		| Aquamancy	| Flame Restardant	| Fail
 
 0/8 Mages were able to excel at the task.
 
-Conclusion: When their life is threatened, aquamancers find it difficult if not impossible to make use of a spell outside their school.
+### Conclusion
+
+When their life is threatened, aquamancers find it difficult if not impossible to make use of a spell outside their school.
 
 *Results*
 
@@ -252,7 +264,9 @@ WH			| Ventusamancy	| Impact Resistance	| Fail
 
 0/8 Mages were able to excel at the task.
 
-Conclusion: Ventusamancers have shown ability, but no aptitude for developing skill in their opposite school ofmagic. When placed in a challenging situation, the use of terramancy is akin to suicide.
+### Conclusion
+
+Ventusamancers have shown ability, but no aptitude for developing skill in their opposite school ofmagic. When placed in a challenging situation, the use of terramancy is akin to suicide.
 
 *Results*
 
@@ -317,7 +331,9 @@ TH		| Terramancy	| High Wind Resistance	| Pass
 
 0/8 Mages were able to excel at the task.
 
-Conclusion: Terramancers have a surprising aptitude for ventusamancy, able to make use of the spells of this school, even when their life is in danger.
+### Conclusion
+
+Terramancers have a surprising aptitude for ventusamancy, able to make use of the spells of this school, even when their life is in danger.
 
 *Results*
 
@@ -384,7 +400,9 @@ SH		| Sanamancy	| Transfering Damage	| Fail
 
 0/8 Mages were able to excel at the task.
 
-Conclusion: Sanamancers have no particular talent for aimimancy, though in some areas they are able to make use of it. However, when their life is at risk, their limited ability suffers.
+### Conclusion
+
+Sanamancers have no particular talent for aimimancy, though in some areas they are able to make use of it. However, when their life is at risk, their limited ability suffers.
 
 *Results*
 
