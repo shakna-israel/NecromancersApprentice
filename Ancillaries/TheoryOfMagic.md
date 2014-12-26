@@ -48,6 +48,7 @@ Each mage was privately tutored in the spells, but not the methods, associated w
 *Results*
 
 Subject 	| School 	| Spell 	| Result
+:-----  | :------:  | :------:  | ------:
 PA			| Pyromancy | Generating Rain | Pass
 PB 			| Pyromancy | Generating Rain | Fail
 PC 			| Pyromancy | Generating Rain | Pass
@@ -70,6 +71,7 @@ Conclusion: Pyromancers are equally able to perform a simple aquamancy spell - b
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 PA		| Pyromancy | Formation of Water | Fail
 PB		| Pyromancy	| Formation of Water	| Pass
 PC		| Pyromancy | Formation of Water | Pass
@@ -92,6 +94,7 @@ Conclusion: Pyromancers are equally able to perform a simple aquamancy spell - b
 *Results*
 
 Subject	| School 	| Spell 	| Result
+:-----  | :------:  | :------:  | ------:
 PA		| Pyromancy	| Breathing Underwater |	Fail
 PB		| Pyromancy | Breathing Underwater | 	Fail
 PC		| Pyromancy | Breathing Underwater | 	Pass
@@ -116,6 +119,7 @@ Conclusion: Though Pyromancers apear equally able to perform simple aquamancy sp
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 AA		| Aquamancy	| Flame Generation	| Pass
 AB		| Aquamancy	| Flame Generation	| Pass
 AC		| Aquamancy	| Flame Generation	| Pass
@@ -138,6 +142,7 @@ Conclusion: Aquamancers appear to equally be able to perform simple pyromancy sp
 *Results*
 
 Subject	|	School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 AA		| Aquamancy	| Formation of Flame	| Pass
 AB		| Aquamancy	| Formation of Flame	| Pass
 AC		| Aquamancy	| Formation of Flame	| Pass
@@ -160,6 +165,7 @@ Conclusion: Though Aquamancers seem able to make use of basic pyromancy spells, 
 *Results*
 
 Subject	|	School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 AA		| Aquamancy	| Flame Retardant	| Fail
 AB		| Aquamancy	| Flame Restardant	| Fail
 AC		| Aquamancy	| Flame Restardant	| Fail
@@ -184,6 +190,7 @@ Conclusion: When their life is threatened, aquamancers find it difficult if not 
 *Results*
 
 Subject	|	School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 WA		| Ventusamancy	| Manipulating Stone	| Pass
 WB		| Ventusamancy	| Manipulating Stone	| C
 WC		| Ventusamancy	| Manipulating Stone	| D
@@ -204,6 +211,7 @@ WH		| Ventusamancy	| Manipulating Stone	| Pass
 *Results*
 
 Subject	|	School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 WA		|	Ventusamancy	| Stone Levitation 	| A
 WB		| Ventusamancy		| Stone Levitation	| D
 WC		| Ventusamancy		| Stone Levitation	| Pass
@@ -224,6 +232,7 @@ WH		| Ventusamancy		| Stone Levitation	| Fail
 *Results*
 
 Subject		| School		| Spell		| Result
+:-----  | :------:  | :------:  | ------:
 WA			| Ventusamancy	| Impact Resistance	| Fail
 WB			| Ventusamancy	| Impact Resistance	| Fail
 WC			| Ventusamancy	| Impact Resistance	| Fail
@@ -248,6 +257,7 @@ Conclusion: Ventusamancers have shown ability, but no aptitude for developing sk
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 TA		| Terramancy	| Manipulating Air	| Pass
 TB		| Terramancy	| Manipulating Air	| Pass
 TC		| Terramancy	| Manipulating Air	| Pass
@@ -268,6 +278,7 @@ TH		| Terramancy	| Manipulating Air	| Pass
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 TA		| Terramancy	| Creating Wind	| Pass
 TB		| Terramancy	| Creating Wind	| Pass
 TC		| Terramancy	| Creating Wind	| Pass
@@ -288,6 +299,7 @@ TH		| Terramancy	| Creating Wind	| Pass
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 TA		| Terramancy	| High Wind Resistance	| Pass
 TB		| Terramancy	| High Wind Resistance	| Pass
 TC		| Terramancy	| High Wind Resistance	| Pass
@@ -310,6 +322,7 @@ Conclusion: Terramancers have a surprising aptitude for ventusamancy, able to ma
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 SA		| Sanamancy	| Blood Channeling	| Fail
 SB		| Sanamancy	| Blood Channeling	| Fail
 SC		| Sanamancy	| Blood Channeling	| Fail
@@ -330,6 +343,7 @@ SH		| Sanamancy	| Blood Channeling	| Fail
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 SA		| Sanamancy	| Life Force Binding	| A
 SB		| Sanamancy	| Life Force Binding	| A
 SC		| Sanamancy	| Life Force Binding	| A
@@ -350,6 +364,7 @@ SH		| Sanamancy	| Life Force Binding	| A
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 SA		| Sanamancy	| Transfering Damage	| Fail
 SB		| Sanamancy	| Transfering Damage	| Fail
 SC		| Sanamancy	| Transfering Damage	| Fail
@@ -374,6 +389,7 @@ Conclusion: Sanamancers have no particular talent for aimimancy, though in some 
 *Results*
 
 Subject	| School	| Spell	| Result
+:-----  | :------:  | :------:  | ------:
 BA		| Aimimancy	| Life Channel	| A
 BB		| Aimimancy	| Life Channel	| A
 BC		| Aimimancy	| Life Channel	| A
@@ -390,4 +406,3 @@ BH		| Aimimancy	| Life Channel	| A
 0/8 Mages were able to marginally perform the task.
 
 8/8 Mages were able to excel at the task.
-
