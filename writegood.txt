@@ -2806,47 +2806,244 @@ In 012-Chapter-Twelve.md
 =============
 t the weight of the past few days fading as her feet touched the water.
                          ^^^
-"few" is a weasel word on line 3 at column 36
+"few" is a weasel word on line 1 at column 36
 -------------
  she could see the world clearly, she felt the focus she could bring to bear.
                          ^^^^^^^
-"clearly" is a weasel word and can weaken meaning on line 7 at column 58
+"clearly" is a weasel word and can weaken meaning on line 5 at column 58
 -------------
 n ways most people could only dream of.
                          ^^^^
-"only" can weaken meaning on line 17 at column 186
+"only" can weaken meaning on line 15 at column 186
 -------------
 parating, and she smiled softly at the creature staring at her in disgust.
                          ^^^^^^
-"softly" can weaken meaning on line 23 at column 61
+"softly" can weaken meaning on line 21 at column 61
 -------------
 ed to the dryad swimming calmly, barely in sight. He waved back.
                          ^^^^^^
-"calmly" can weaken meaning on line 37 at column 91
+"calmly" can weaken meaning on line 35 at column 91
 -------------
 e dryad swimming calmly, barely in sight. He waved back.
                          ^^^^^^
-"barely" can weaken meaning on line 37 at column 99
+"barely" can weaken meaning on line 35 at column 99
 -------------
-with their every step... It was unnerving. 
+with their every step... It was unnerving.
                          ^^^^^^
-"It was" is wordy or unneeded on line 47 at column 86
+"It was" is wordy or unneeded on line 45 at column 86
 -------------
-It was terrifying, really. 
+It was terrifying, really.
 ^^^^^^
-"It was" is wordy or unneeded on line 49 at column 0
+"It was" is wordy or unneeded on line 47 at column 0
 -------------
-It was terrifying, really. 
+It was terrifying, really.
                    ^^^^^^
-"really" can weaken meaning on line 49 at column 19
+"really" can weaken meaning on line 47 at column 19
 -------------
 ldiers knew it, but they simply didn't care. They had their duty, and they would
                          ^^^^^^
-"simply" can weaken meaning on line 51 at column 57
+"simply" can weaken meaning on line 49 at column 57
 -------------
- carry it through to the very end. 
+ carry it through to the very end.
                          ^^^^
-"very" is a weasel word and can weaken meaning on line 51 at column 137
+"very" is a weasel word and can weaken meaning on line 49 at column 137
+-------------
+sed to the Elvish people was gone. And now… Now she had to go and prepare them f
+                         ^^^^^^^^
+"was gone" is passive voice on line 53 at column 101
+-------------
+With many, many dead vampires.
+     ^^^^
+"many" is a weasel word and can weaken meaning on line 67 at column 5
+-------------
+With many, many dead vampires.
+           ^^^^
+"many" is a weasel word and can weaken meaning on line 67 at column 11
+-------------
+aded through the waters, slowly and carefully, as was the way of his ancient peo
+                         ^^^^^^
+"slowly" can weaken meaning on line 75 at column 38
+-------------
+h the waters, slowly and carefully, as was the way of his ancient people.
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 75 at column 49
+-------------
+a curious race to most - simply because when they looked at a tree they saw some
+                         ^^^^^^
+"simply" can weaken meaning on line 77 at column 41
+-------------
+His own people were simply those trees that had decided to ignore the rules of n
+                    ^^^^^^
+"simply" can weaken meaning on line 89 at column 20
+-------------
+eatures that should have simply weathered the test of time, and watched on uncar
+                         ^^^^^^
+"simply" can weaken meaning on line 91 at column 62
+-------------
+f the wise had yet again been abandoned, and a few young people had begun to cha
+                         ^^^^^^^^^^^^^^
+"been abandoned" is passive voice on line 97 at column 73
+-------------
+in been abandoned, and a few young people had begun to change the world.
+                         ^^^
+"few" is a weasel word on line 97 at column 95
+-------------
+If only they had known the cost of their few actions.
+   ^^^^
+"only" can weaken meaning on line 99 at column 3
+-------------
+ known the cost of their few actions.
+                         ^^^
+"few" is a weasel word on line 99 at column 41
+-------------
+Duke was lost within his dark brooding thoughts as he slowly crossed the river.
+     ^^^^^^^^
+"was lost" is passive voice on line 107 at column 5
+-------------
+ brooding thoughts as he slowly crossed the river.
+                         ^^^^^^
+"slowly" can weaken meaning on line 107 at column 54
+-------------
+ould bring to bear - but it was all she had.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 117 at column 153
+-------------
+ring as she examined the various spectrums of light.
+                         ^^^^^^^
+"various" is a weasel word on line 119 at column 62
+-------------
+it wasn't, then it would likely kill her before she saw it.
+                         ^^^^^^
+"likely" can weaken meaning on line 127 at column 101
+-------------
+Whatever it was… That was a creature of destruction.
+         ^^^^^^
+"it was" is wordy or unneeded on line 129 at column 9
+-------------
+ around behind, swearing violently and dropping to the ground as a fist as large
+                         ^^^^^^^^^
+"violently" can weaken meaning on line 135 at column 102
+-------------
+It was hunting her, driving it towards a place she had no hope of escaping.
+^^^^^^
+"It was" is wordy or unneeded on line 139 at column 0
+-------------
+ng to the ground, except it was now gone, and she was falling head over heels do
+                         ^^^^^^
+"it was" is wordy or unneeded on line 157 at column 52
+-------------
+one, and she was falling head over heels down a dark abyss.
+                         ^^^^^^^^^^^^^^^
+"head over heels" is a cliche on line 157 at column 89
+-------------
+She was gone.
+    ^^^^^^^^
+"was gone" is passive voice on line 161 at column 4
+-------------
+It was an impossible deadline for her, nearly a week from her kingdom, but she n
+^^^^^^
+"It was" is wordy or unneeded on line 197 at column 0
+-------------
+lged as she felt herself simply jerk to a stop. She looked up at the owner of th
+                         ^^^^^^
+"simply" can weaken meaning on line 207 at column 79
+-------------
+other soldiers, and they immediately began to pummel the ground, throwing up sno
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 209 at column 56
+-------------
+It was a charter, that he and the others had been arguing and discussing for nea
+^^^^^^
+"It was" is wordy or unneeded on line 221 at column 0
+-------------
+ nearly a full day - but it was nearly complete.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 221 at column 101
+-------------
+ueezing his fist so that several drops struck the paper.
+                         ^^^^^^^
+"several" is a weasel word on line 225 at column 91
+-------------
+His spell immediately took hold, and Kyle winced as he felt the unbreakable vow 
+          ^^^^^^^^^^^
+"immediately" can weaken meaning on line 227 at column 10
+-------------
+He looked up, and smiled softly, "Who's next?"
+                         ^^^^^^
+"softly" can weaken meaning on line 229 at column 25
+In 013-Chapter-Thirteen.md
+=============
+ed on the cave. He spoke loudly, hoping the girl on her hands and knees could co
+                         ^^^^^^
+"loudly" can weaken meaning on line 1 at column 121
+-------------
+dea." The nymph shivered violently, "Think I gave myself a hallucination." 
+                         ^^^^^^^^^
+"violently" can weaken meaning on line 13 at column 86
+-------------
+e creature..." She spoke nervously, trying to hide her anxiety. 
+                         ^^^^^^^^^
+"nervously" can weaken meaning on line 17 at column 87
+-------------
+Fiona yawned, sitting up slowly, instinctively reaching for a bow that was no lo
+                         ^^^^^^
+"slowly" can weaken meaning on line 27 at column 25
+-------------
+The school really as gone - destroyed in a war to find, capture and eliminate th
+           ^^^^^^
+"really" can weaken meaning on line 33 at column 11
+-------------
+war to find, capture and eliminate the threat that a kid she had known for a cou
+                         ^^^^^^^^^
+"eliminate" is wordy or unneeded on line 33 at column 68
+-------------
+to save a world that had been destroyed by a thousand generations of the past? 
+                         ^^^^^^^^^^^^^^
+"been destroyed" is passive voice on line 41 at column 112
+-------------
+the form of the creature simply stepped through the shrapnel, moving at impossib
+                         ^^^^^^
+"simply" can weaken meaning on line 55 at column 145
+-------------
+Peace has been found. 
+          ^^^^^^^^^^
+"been found" is passive voice on line 66 at column 10
+-------------
+at pissy with me, due to being cursed. No sunlight for them. As to the vampires?
+                         ^^^^^^^^^^^^
+"being cursed" is passive voice on line 70 at column 231
+-------------
+d. No sunlight for them. As to the vampires? We have declared war on their homel
+                         ^^^^^
+"As to" is wordy or unneeded on line 70 at column 267
+-------------
+However, to finish this treaty, we need a representative from your homeland. 
+^^^^^^^
+"However" is wordy or unneeded on line 72 at column 0
+-------------
+ quick, these people are really angry, and ready to lash out. 
+                         ^^^^^^
+"really" can weaken meaning on line 80 at column 36
+-------------
+So it's the war march soon. 
+^^
+"So" adds no meaning on line 82 at column 0
+-------------
+he letter and lowered it slowly, "Tell Kyle... Tell him I have a priority to pro
+                         ^^^^^^
+"slowly" can weaken meaning on line 89 at column 42
+-------------
+ampire laughed, and then it was gone. 
+                         ^^^^^^
+"it was" is wordy or unneeded on line 91 at column 30
+-------------
+ire laughed, and then it was gone. 
+                         ^^^^^^^^
+"was gone" is passive voice on line 91 at column 33
+-------------
+She was flung up into the open, and she hit the snowy ground running, knowing th
+    ^^^^^^^^^
+"was flung" is passive voice on line 95 at column 4
 In README.md
 =============
 So, in the spirit of this friendship, I'm going to release, as I write it, the l
