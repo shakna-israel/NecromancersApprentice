@@ -1,5 +1,3 @@
-## Chapter Twelve
-
 Abigail felt the weight of the past few days fading as her feet touched the water.
 
 As the cool liquid ran across her skin she felt the release wash over her, leaving her clean.
@@ -38,7 +36,7 @@ Abigail shot to the surface, spraying water backwards, and she waved to the drya
 
 She grinned.
 
-Here in the water... She was free.
+Here in the water… She was free.
 
 ---
 
@@ -211,3 +209,27 @@ A rocky hand grabbed her shoulder, and Fiona's eyes bulged as she felt herself s
 He turned and signalled to the other soldiers, and they immediately began to pummel the ground, throwing up snow and stone, and Fiona looked in astonishment as they began to get lower, somehow managing to dig.
 
 ---
+
+Kyle looked at the council of men he had gathered together.
+
+They had all come, of their own volition, to try and remove him from the world.
+
+Now?
+
+Kyle smiled and looked at the document laid out on the table in front of him.
+
+It was a charter, that he and the others had been arguing and discussing for nearly a full day - but it was nearly complete.
+
+An agreement that might see an end to the war that had decimated the school - and an end to the wars that had kept the world on it's knees since the ice had destroyed it.
+
+Kyle held.out his hand over the paper, and cut it with a knife. Squeezing his fist so that several drops struck the paper.
+
+His spell immediately took hold, and Kyle winced as he felt the unbreakable vow take shape.
+
+He looked up, and smiled softly, "Who's next?"
+
+---
+
+Candice Silvergate collapsed, shaking involuntarily from the cold.
+
+
