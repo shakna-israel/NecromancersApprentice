@@ -95,3 +95,108 @@ Fiona clenched her fists, "Let's go. Now."
 She was flung up into the open, and she hit the snowy ground running, knowing that time was no longer on her side. 
 
 --- 
+
+Antonio sighed heavily, looking at the remnants of his camp.
+
+The trolls, vampires and elves had certainly done their job.
+
+His men were moving around, repairing tents, carting bodies, and salvaging what they could. Coals were strewn across the ground near the blacksmith's tent, swords were scattered near the armory, and the shatter toothpicks nearby were the remains of his army's supply for arrows.
+
+Antonio walked over to his tent with a sigh of frustration, unstrapping his armor as he entered, dropping the chest piece to his left, just as he realised his mistake.
+
+A small, very sharp, and somewhat shiny blade appeared in his peripheral, and streaked towards him.
+
+Antonio spun, blocking the blow with his armored arm, and gasped as he felt a second blade ram through his unprotected torso.
+
+He struggled, fighting, and then he collapsed onto his knees, his mouth dribbling blood as he glared up at his assassin.
+
+They nodded slowly, surprised, "That was strength, General… But it was also stupid."
+
+Antonio collapsed backwards, the world going black.
+
+---
+
+Emmanuel sighed heavily as he sat on the edge of his hammock, thinking hard.
+
+He had come all the way from Balsa to make an ally out of Kyle Kilroy, and though his hand was bandaged, having sworn a vow of alliance… Kyle was far from a friend to Balsa.
+
+Nothing he could think of would influence the young Necromancer in any way that he might consider… Safe.
+
+The general paused, frowning as he noticed a set of dusty scuff marks by the entry to the tent, and he winced, clenching his fists.
+
+The marks were smaller than any soldiers boot.
+
+Emmanuel focused, and began to speak, flames spouting from his hands, "Quaerere intrusus, adolebit -"
+
+He cut off, gasping, as blood poured from his throat, a small dark sticking out of where his voice box had been, and he tumbled forward onto the ground, his hands spasming.
+
+---
+
+Damien yelled angrily, kicking a helmet across the campsite.
+
+The general clenched his teeth, and tried to calm himself, feeling the eyes of his soldiers as they tried to avoid staring at him.
+
+Damien spat on the ground, and then turned, and looked around at the soldiers, "Children!"
+
+He smiled and shrugged, "Children, gather around. Let me tell you a story."
+
+His soldiers began to move slowly and Damien shrugged, "There was once a world. It was destroyed by ice and stupidity. Out of this world though, life flourished. It survived."
+
+He sighed and shook his head, "But this is where our story goes wrong. A man who died, crawled back to life. He brought the shadows of the Other Side here, and turned himself into a god."
+
+Damien clenched his fist, "This man has bound our nation, he has forced his hand against Malata, and we are now bound as his protector, and servant. It is the unbreakable vow."
+
+He could see the emotions staring in his men, and he smiled coyly, "Yet, our queen foresee this. Our queen, had me swear an unbreakable vow before we came to this land. So I could not be bound by another unbreakable vow."
+
+Damien smiled softly and shook his head, "We are not bound by the so-called Draco Charter. We do not need to remember the beast that was both man and dragon. We do not need to serve the dead."
+
+His soldiers thrust their weapons in the air with a shout and Damien shook his head, "By neither can we fight this threat. You cannot kill that which has power over death. Today… We return to Malata, to protect it against the coming war… For war has already arrived."
+
+Damien nodded, "For Malata! For our -"
+
+The general's eyes bulged, and his left cheek twitched. His throat had stopped working altogether. He couldn't speak… He couldn't breathe.
+
+He fell onto his knees, his hands too heavy to lift to his neck.
+
+And then he fell forwards onto his face.
+
+---
+
+Candice blinked blearily, fighting back a yawn as confusion washed over her.
+
+She scratched her head and sat up, pulling a bear rug off herself, as she stared around at the leather tent.
+
+She had been… Dying.
+
+Surrounded by snow and ice.
+
+And now she was in a tent, alone.
+
+She stood up, clenching her fists, and then her face went bright red, as she realised that she hadn't been wearing anything whilst in the bed.
+
+She grabbed the bear rug and wrapped it around herself, and stepped out of the tent awkwardly under the weight, and looked around the frozen landscape.
+
+She saw a lone figure sitting cross-legged beside a hole in the ice, chanting over the water.
+
+Candice glared at them.
+
+They'd taken her clothes, what else had they done to her?
+
+The figure burst out laughing and spun around, "I'm a vitamancer, Miss Silvergate!"
+
+She blinked in shock, recognising them, "Professor Gallagher."
+
+The woman shrugged, and stood up, "Nice to see you up and about. It was touch and go for a while there, I'm not much of a practiced hand with Sanamancy."
+
+Candice swallowed, "What happened to my clothes?"
+
+Brioni Gallagher rolled her eyes, "You were in the snow. Wet. I was trying to make sure you didn't die."
+
+Candice smiled weakly, "Right… And now?"
+
+The professor frowned, "They make up part of the tent. If you can get a fire going, we can dry them out."
+
+---
+
+Isaac Isaac opened his eyes slowly, feeling like he was crumbling.
+
