@@ -200,3 +200,98 @@ The professor frowned, "They make up part of the tent. If you can get a fire goi
 
 Isaac Isaac opened his eyes slowly, feeling like he was crumbling.
 
+Dust poured from his joints and his jaw creaked slowly. The troll slowly shook himself, fighting back his anger.
+
+He had not been dead, nor asleep when the stone overtook his body.
+
+He had been encased, imprisoned.
+
+His people had lain there, cursed, whilst the group had quibbled and fought over their petty words.
+
+The Draco Charter.
+
+That piece of paper did not bind him, and Isaac Isaac felt a great feeling stealing over him, an anger with an edge to it, that no troll had felt in centuries.
+
+It brought forth feelings of intelligence and the deep dark within the troll's soul.
+
+He struggled to comprehend this new feeling as it gave flight to a myriad of thoughts and fancies, ways in which he could end those that had ignored the plight of his people.
+
+"That would be called 'vengeance', Isaac Isaac."
+
+The troll glared at the small individual standing nearby, and then his face curved upwards into a smile, "Adrian."
+
+The golem shrugged slowly, "To kill one such as ourselves, is not a task that many find easy."
+
+Isaac Isaac clenched his fists suddenly, the rocks of his form scraping together, "I will destroy Kyle Kilroy."
+
+Adrian frowned, "Really? How would you kill him?"
+
+The troll shook his head, "No professor. Not kill. Destroy. Take what he cares about. Break the school. Kill the elf and nymph. Kyle Kilroy will be the only one to kill Kyle Kilroy."
+
+The golem nodded slowly, "Be careful, Isaac Isaac. You may awaken the same feeling you have now, in his heart."
+
+"I will eat his heart!" The troll roared, the building shaking, "I will drink his tears and grind his bones to make my bread! That nothing who calls himself Necromancer will dream of the day he first died!"
+
+---
+
+Kyle glared at the vampire screaming on the ground in front of him.
+
+It wasn't the vampire's fault, of course.
+
+He was just the messenger.
+
+But Kyle was pissed, and wanted to take it out on someone.
+
+The foul concotion of nature that vampires were provided him with all the excuse in the universe that he wanted.
+
+So it screamed and writhed, soothing the flames of betrayal.
+
+He sighed, and muttered a spell, a map of the world appearing in front of him, and Kyle twisted it, and zoomed in on a particular place, frowning as he saw footsteps fading in the snow.
+
+Fiona was running away, but the creatures that were born to guard the school were trailing her.
+
+Protecting her?
+
+Kyle scratched his head, he didn't know enough history of the place.
+
+He turned to his fuming advisor, and shrugged, "Any idea why the statues would turn into Fi's bodyguards?"
+
+The advisor shook his head, "You've come a long way down from where I left you, boy... If I had any notion of what you would become, I would have handed you over, rather than die defending you."
+
+Kyle sighed heavily, and the screaming cut off, "I was frustrated. Vampires don't matter."
+
+Bellum nodded slowly, "Then why do you have to keep telling yourself that?"
+
+Kyle blinked and winced, struggling for an answer and he shook his head, "Because I'm a fool."
+
+The half-dragon Headmaster blinked, "So, you're capable of learning wisdom, then. That's a good sign."
+
+Kyle smiled tautly, "I'm older than you, Bellum, even if I wasn't before you died."
+
+"Age is nothing without experience." Draco snorted, "What you have, Kyle, is talent. You have talent, but not wisdom. That comes from experience. From being betrayed, from making the wrong choices. From making an utter idiot of yourself, and then having to fix what you did... And learning you can't always."
+
+Kyle nodded slowly, "Thank you, Headmaster."
+
+Bellum blinked, "Not anymore. In answer to your earlier question, the magic of the school seeks out a replacement Headmaster, the moment the current dies. It found one to replace me, and though she doesn't know it yet, she is bound to this school. She has no choice in the matter."
+
+Kyle looked back at the map, "Fi hates me... She wants what I'm doing to fail... I've changed too much."
+
+There was a sharp crack and Kyle started, rubbing the back of his head where the tip of Draco's tail had whipped him, and the old professor rolled his eyes, "That's love talking, boy. Not the voice of a leader."
+
+The ventusamancer walked forward, looking at the ruins of the school, "Because, like it or not, you are a leader now, Kyle. Your personal concerns, don't matter. You've put yourself at the head of a new nation, and tried to bend the rest to your will. This will take cunning, skill, and a darker soul than you have, to make sure that the world doesn't tear itself to pieces trying to find a way to kill you."
+
+Kyle frowned, thinking, and then nodded, "Then we need a failsafe. A balance, to keep me in check and give them a sense of security, for now."
+
+Draco turned to him, "What are you suggesting, boy?"
+
+"A weakness." Kyle sighed heavily, and winced, "I don't trust you, Headmaster... But I don't have a choice here. When the curse I'm about to cast takes me, I trust you to care for this new nation, and to watch over Fiona and Abigail."
+
+Draco blinked, "Why not bind me with an oath?"
+
+Kyle smiled, "Then you would hunt for a way around it. Not a way to make what I have done, better."
+
+Bellum nodded slowly, "What curse?"
+
+Kyle winced and shrugged, "What other? I curse myself to take part in the curse of the trolls."
+
+A puff of dust washed over him, and Kyle swallowed, "Only four hours till sunrise. Let's get this place in order."
