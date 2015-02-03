@@ -1,3 +1,11 @@
+## Read
+
+<a href="http://store.kobobooks.com/en-US/ebook/necromancer-s-apprentice" target="_blank"><img src="https://i.imgur.com/Xpk99ZH.png" alt="KoboBooks" width="25%"></a>
+
+![Online](https://shakna-israel.github.io/NecromancersApprentice)
+
+*Logos belong to their respective copyright owners.*
+
 ## This is Open-ish Source
 I don't think anyone would call the CC license (viewable in the LICENSE file) fully open source, and I am definently among them.
 
