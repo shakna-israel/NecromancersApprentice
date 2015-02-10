@@ -2,6 +2,8 @@
 
 <a href="http://store.kobobooks.com/en-US/ebook/necromancer-s-apprentice" target="_blank"><img src="https://i.imgur.com/Xpk99ZH.png" alt="KoboBooks" width="25%"></a>
 
+or
+
 [Read Online](https://shakna-israel.github.io/NecromancersApprentice)
 
 *Logos belong to their respective copyright owners.*
