@@ -1,0 +1,25 @@
+site_name: Necromancer's Apprentice
+theme: readthedocs
+repo_url: https://github.com/shakna-israel/NecromancersApprentice
+site_description: The world was born in fire. It was destroyed by ice. It was rebuilt by blood.
+site_author: shakna-israel
+use_directory_urls: true
+pages:
+- [index.md, Home]
+- [LICENSE.md, License]
+- [CONTRIBUTING.md, Contributing]
+- [000Prologue.md, Prologue]
+- [001-Chapter-One.md, Chapter One]
+- [002-Chapter-Two.md, Chapter Two]
+- [003-Chapter-Three.md, Chapter Three]
+- [004-Chapter-Four.md, Chapter Four]
+- [005-Chapter-Five.md, Chapter Five]
+- [006-Chapter-Six.md, Chapter Six]
+- [007-Chapter-Seven.md, Chapter Seven]
+- [008-Chapter-Eight.md, Chapter Eight]
+- [009-Chapter-Nine.md, Chapter Nine]
+- [010-Chapter-Ten.md, Chapter Ten]
+- [011-Chapter-Eleven.md, Chapter Eleven]
+- [012-Chapter-Twelve.md, Chapter Twelve]
+- [013-Chapter-Thirteen.md, Chapter Thirteen]
+- [014-Chapter-Fourteen.md, Chapter Fourteen]
