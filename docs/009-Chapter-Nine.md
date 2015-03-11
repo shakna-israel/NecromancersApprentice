@@ -1,4 +1,7 @@
 ## Chapter Nine
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+
 Abigail limped inside the infirmary, looking around, and spotted one of the younger Sanamancers healing a professor, and grabbed her, "Where's Maidr? We need her at the front. Things are getting crazy."
 
 The young Sanamancer winced, "She's still down by the gate, dealing with the elf."
@@ -26,6 +29,8 @@ Bateman bit the inside of his cheek and she looked at him, "Wait… Something wr
 "Vampires use cursed arrows. If that doesn't get fixed soon… You're dead." The professor said hesitantly, fear in his voice, and Abigail ground her teeth together, "If I ever see Kyle again, I'm killing him myself."
 
 ---
+
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
 
 Fiona stared wide-eyed at the world.
 
@@ -64,6 +69,8 @@ He leapt into the air, cruising above a cloud, before sharply turning and shooti
 He touched down onto the soil softly, and walked inside the cave, dumping King Applesilver in the infirmary, and looked around at the leaders of the other armies, "New Rome has arrived. They decided to side with the elves."
 
 ---
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
 Abigail spun a wave of magic at the wall of arrows falling over the gate towards the two professors and one prone form. They spun in the air, screeching and flew back towards the soldiers who had fired them.
 
@@ -116,6 +123,8 @@ The Headmaster glared at her, "I tried to save Fiona."
 Abigail felt the anger flowing through her, the hatred, seeking a target, and she couldn't see a better one. She just wanted to see him die.
 
 ---
+
+![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
 
 The general of the Balsa Army sat in a tree, eating an apple. 
 
