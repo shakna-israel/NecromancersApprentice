@@ -1,3 +1,7 @@
+#Chapter Thirteen
+
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+
 Adrian landed on the shoreline with a thud, cracking the frozen ground, and he kept his eyes fixed on the cave. He spoke loudly, hoping the girl on her hands and knees could comprehend him, "Are you okay, Miss Ignis?" 
 
 He heard her laugh bitterly, and the crunch of ice as she stood up, "Sure. I just somehow managed to kill something that should never existed by seeing something that can't have happened, I'm totally fine." 
@@ -23,6 +27,8 @@ It wasn't one of the possibilities that he had considered.
 Then he felt something seize his questing root, and the world vanished from sight. 
 
 --- 
+
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
 
 Fiona yawned, sitting up slowly, instinctively reaching for a bow that was no longer there. 
 
@@ -116,6 +122,8 @@ Antonio collapsed backwards, the world going black.
 
 ---
 
+![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+
 Emmanuel sighed heavily as he sat on the edge of his hammock, thinking hard.
 
 He had come all the way from Balsa to make an ally out of Kyle Kilroy, and though his hand was bandaged, having sworn a vow of alliance… Kyle was far from a friend to Balsa.
@@ -161,6 +169,8 @@ He fell onto his knees, his hands too heavy to lift to his neck.
 And then he fell forwards onto his face.
 
 ---
+
+![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
 
 Candice blinked blearily, fighting back a yawn as confusion washed over her.
 
@@ -233,6 +243,8 @@ The golem nodded slowly, "Be careful, Isaac Isaac. You may awaken the same feeli
 "I will eat his heart!" The troll roared, the building shaking, "I will drink his tears and grind his bones to make my bread! That nothing who calls himself Necromancer will dream of the day he first died!"
 
 ---
+
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
 
 Kyle glared at the vampire screaming on the ground in front of him.
 
