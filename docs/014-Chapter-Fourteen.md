@@ -1,5 +1,7 @@
 #Chapter Fourteen
 
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+
 Brioni rubbed her hands over the fire, smiling at the young pyromancer, who just squatted there - glaring into the flames.
 
 She sighed heavily, "It was chaos there. I spent most of it at the front... What happened?"
@@ -66,6 +68,8 @@ The nymph shrugged, and then the magic vanished and the troll tumbled as he fell
 
 ---
 
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+
 Duke groaned, sitting up slowly, his roots rebinding together from a lumpen mass into his more familiar form. He took stock of his surroundings, patiently waiting for his memory to return.
 
 He was in a cave, made of ice. Grown from ice.
@@ -129,6 +133,8 @@ He didn't say anything.
 The truth was far worse.
 
 ---
+
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
 
 Kyle paced the room, both scared and angry.
 
@@ -269,6 +275,8 @@ Draco paused, looking at the young student and shook his head sadly, "You are lo
 The student shrugged, "I know… Now… Let's make some new magic."
 
 ---
+
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
 
 Fiona leaned on her knees, gasping for air.
 
