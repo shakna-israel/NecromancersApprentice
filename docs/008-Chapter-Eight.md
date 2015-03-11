@@ -1,4 +1,7 @@
 ## Chapter Eight
+
+![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+
 Bateman swore, leaping from the wall, surrounding himself in flames as he fell.
 
 He hit the ground rolling, a stream of fire spewing from his mouth, searing skin and scorching armour, making the elves scream as they recoiled.
@@ -59,6 +62,8 @@ Isaac shrugged and sat down cross-legged, "I am troll. I wait."
 
 ---
 
+![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+
 He could feel his other nature, the one he was ashamed of, the one that was his heritage and power, beginning to overwhelm him.
 
 The nature of a dragon is death and destruction, they revel in it, rage empowering their very essence.
@@ -104,6 +109,8 @@ If he left, then the gates would lie undefended, but without Fiona, he couldn't 
 He winced, "Sound the retreat. Get everyone inside the school. They win this round."
 
 ---
+
+![Aquamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aquamancy.svg)
 
 The elvish king turned with a heavy glare as the messenger he had sent appeared, breathing raggedly, covered from head to toe in blood.
 
@@ -245,6 +252,8 @@ Antonio waved a hand round, "Look around. Within two minutes of our arrival, you
 
 ---
 
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+
 Abigail swallowed nervously, "This suddenly got harder."
 
 Bateman nodded, sweat pouring off the professor, "Where the hell did our support go?"
@@ -266,6 +275,8 @@ They collapsed onto the cobbled stone street, and Abigail flicked her wrist agai
 She lay on the ground breathing hard, looking up at the sky, "Huh… No vampires."
 
 ---
+
+![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
 
 "I can't do anymore." Professor Maidr said sadly, looking at the young elf lying on a stretcher, just inside the gate.
 
