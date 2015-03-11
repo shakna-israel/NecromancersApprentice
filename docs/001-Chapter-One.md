@@ -8,6 +8,8 @@ One of those few, one of the students, was named Kyle Kilroy.
 
 ---
 
+![Aimimancer](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+
 Kyle scratched his neck, nervous.
 
 He knew he shouldn't be nervous, not really.
@@ -80,6 +82,8 @@ He winced.
 
 ---
 
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+
 Her name was Fiona Applesilver.
 
 So far, her time at the school had been utter hell.
@@ -136,7 +140,7 @@ She glared, "Then why do you think that I want you here?"
 
 Fiona blinked, "Hell... You're Kyle Kilroy."
 
-He.winced, "Yes."
+He winced, "Yes."
 
 Fiona laughed, "And I thought I was hated by the school... You're the youngest aimimancer in a thousand years."
 
@@ -181,6 +185,8 @@ Kyle smiled, "Professor Bracken is a half elf."
 Fiona blinked, "Oh. That explains a lot."
 
 ---
+
+![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
 
 Kyle sighed as he walked, heavy books in hand, towards his next class.
 
@@ -242,6 +248,8 @@ She smiled, "Nice to meet you, Kyle." The water nymph turned and walked towards 
 
 ---
 
+![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+
 Bateman was enigmatic, and a little bit pissed with Kyle.
 
 He reinforced that students would not get a staff or wand until they finished first year and entered one of the Schools. As to anyone practicing Aimimancy, which did not require anything but their own blood to be able to generate spells of decent power... If they were ever caught misusing their power, they would be Broken on the spot.
@@ -269,6 +277,8 @@ He shrugged, "We tell you this at the start of the school year for a reason."
 The clock chimed overhead and Bateman smiled, "Back to the Great Hall, for dinner, and then to the dorms. Be careful not to get lost. Not all students here, are here by choice."
 
 ---
+
+![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
 
 Kyle sat down at the same table, surprised when the elf from lunch appeared shortly after. She smiled as she sat, "I hope dinner is something a little… Nicer… Than lunch."
 
