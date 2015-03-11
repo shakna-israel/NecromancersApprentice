@@ -1,4 +1,7 @@
 ## Chapter Two
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+
 Abigail felt her anger fading, her toes touching the water as it lapped the rocky beach, and she breathed in deeply.
 
 "Abigail?"
@@ -173,6 +176,8 @@ Abigail ground her teeth, "Fine! I'll go and talk to the elf."
 
 ---
 
+![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+
 Kyle winced at the door to the dormitory as he heard a deep voice, "What the hell do you think you are doing out at this hour?"
 
 He turned and saw Professor Bateman, a deep glare uncharacteristically scored into his face.
@@ -200,6 +205,8 @@ The young student looked at the professor carefully, "Have you noticed a threat?
 Kyle sighed and opened the door, stepping inside the dormitory.
 
 ---
+
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
 
 Fiona collapsed onto the bed, burying her head in the pillow, trying to fight back the tears.
 
@@ -296,6 +303,8 @@ With that, the stone melted flat again, and the visage of the professor was gone
 Abigail winced, "That could have gone better."
 
 ---
+
+![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
 
 Kyle lay in the bed, unable to sleep.
 
