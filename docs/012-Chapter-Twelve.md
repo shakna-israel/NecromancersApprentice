@@ -1,3 +1,7 @@
+#Chapter Twelve
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+
 Abigail felt the weight of the past few days fading as her feet touched the water.
 
 As the cool liquid ran across her skin she felt the release wash over her, leaving her clean.
@@ -40,6 +44,8 @@ Here in the water… She was free.
 
 ---
 
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+
 Fiona was far more used to sneaking around, with a bow or a wand.
 
 Walking between marching soldiers that made the ground shake with their every step... It was unnerving.
@@ -71,6 +77,8 @@ With many, many dead vampires.
 Would he?
 
 ---
+
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
 
 Adrian Duke waded through the waters, slowly and carefully, as was the way of his ancient people.
 
@@ -107,6 +115,8 @@ Who could tell?
 Duke was lost within his dark brooding thoughts as he slowly crossed the river.
 
 ---
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
 Abigail emerged dripping from the water, breathing hard, and she paused her breath frosted in the air.
 
@@ -178,6 +188,8 @@ What the crap had just happened?
 
 ---
 
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+
 Fiona trudged through the snow, surrounding her up to her waist.
 
 She could feel small crystals of water forming on the ends of her hair, the frost pasted across her face, hidden by little more than a scrap of cloth.
@@ -210,6 +222,8 @@ He turned and signalled to the other soldiers, and they immediately began to pum
 
 ---
 
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+
 Kyle looked at the council of men he had gathered together.
 
 They had all come, of their own volition, to try and remove him from the world.
@@ -230,6 +244,28 @@ He looked up, and smiled softly, "Who's next?"
 
 ---
 
+![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+
 Candice Silvergate collapsed, shaking involuntarily from the cold.
 
+Her once perfect black hair was torn in places, burned in others. But if you swept your gaze down, passed the brow with her silver fringe, you would see two eyes full of wrath and abandon.
 
+She shivered, holding her hands together, muttering urgently, trying to use her anger to focus as the hypothermia tried to rob her of her reason.
+
+At length sparks appeared, but the elation on her face was short lived as a flame failed to take form.
+
+The young mage clenched her fists, fighting back tears of frustration and terror.
+
+She had fled across the mountains, pursued by vampires which she had somehow managed to trap and kill. She still wasn't sure if she had any luck left on her side.
+
+Judging by the lack of fire, she'd used it all up.
+
+She pushed her frozen hands against the soil, speaking hurriedly through chattering teeth, "Crescere calor, glaciem pugnam. Crescere calor, galciem pugnam."
+
+The ground warmed for a moment, the snow beginning to melt, but that was all.
+
+The young mage fought back tears, and stood up, looking through the sweeping snow, barely allowing her to see a couple feet in front of her face.
+
+She closed her eyes and breathed out heavily.
+
+She was going to die.
