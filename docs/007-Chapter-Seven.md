@@ -1,4 +1,7 @@
 ## Chapter Seven
+
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+
 Fiona skidded into the room, glaring at the lone half-dragon occupying the room.
 
 "Where the hell is the Board?"
@@ -44,6 +47,8 @@ Fiona clenched her fists, "So stop being stupid. You don't have a choice about p
 Draco shook his head, "Once this is over... I'm going to kill Kyle, myself. Understood?"
 
 ---
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
 Abigail stood on a stone wall, looking out across the cliff, at the armies waiting below.
 
@@ -95,6 +100,8 @@ Abigail smiled, looking at the army marching towards the school walls, and she l
 
 ---
 
+![Aquamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aquamancy.svg)
+
 King Alfr Applesilver sat in a heavily guarded tent, staring down at a map, with a dozen small magical representations of soldiers scurrying over it.
 
 He winced, looking at the map of the castle walls, and how every time a magical figure neared it, it vanished in a puff of smoke.
@@ -132,6 +139,8 @@ Andre raised a hand, feeling the enormous army behind him slow to a stop, and he
 Roars of anger greeted him, and he smiled, "Lets tear it down. Brick by brick."
 
 ---
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
 A scream of rage boiled out of the nymph's throat, as Abigail flicked her wand, twisting aside a spell, glaring down at the Elvish circle.
 
@@ -184,6 +193,8 @@ He grinned, "Let's kill Elves."
 The roar that answered him shook the ground.
 
 ---
+
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
 
 Fiona's ears were bent back beside her head, her hair jet black and her eyes as red as any vampires. She hissed between words, dodging the spears, swords and fists clamouring for her head.
 
@@ -255,6 +266,8 @@ Haralson laughed in surprise, "Taking the elves… That's a smart move if they r
 Haralson stared at the spy, "He's here, himself? Hells bells… Let's try and stay out of their way."
 
 ---
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
 The nymph swore violently as a bolt of lightning struck.
 
