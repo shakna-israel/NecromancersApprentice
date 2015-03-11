@@ -1,4 +1,7 @@
 ## Chapter Eleven
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+
 Abigail stared as she emerged from the water.
 
 A troll towered over her, staring at the sun, but it was frozen, and it seemed basically dead.
@@ -36,6 +39,8 @@ Abigail nodded, "Yep. Sounds awesome… Where the hell would be safe?"
 The professor shrugged as they began to walk, "To be honest… Nowhere is safe until Kyle has learned a semblance of restraint."
 
 ---
+
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
 
 Fiona stepped into the sunlight cautiously, as the door creaked shut behind her.
 
@@ -101,6 +106,8 @@ Fiona winced. There went the subtlety of her escape.
 
 ---
 
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+
 "I am Emmanuel Andrews, leader of the Balsa Army." One of the generals said at length, as the others continued to stare at the stone that was Isaac Isaac, "My queen bid that I take my army, to protect you. It seems, you have no need of protection, anymore."
 
 Kyle glared at him, "What do you want? I just cursed a species to make a point, and none of you seem to give a damn."
@@ -152,6 +159,8 @@ Kyle paused, blinking, "That is… The first time I have ever heard a vampire su
 He turned away, "If one of you doesn't kill him, I'll kill you all."
 
 ---
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
 Abigail smiled softly as she crested the hill beside the dryad, her eyes sparkling, "Awesome."
 
