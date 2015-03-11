@@ -1,4 +1,7 @@
 ## Chapter Five
+
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+
 Kyle let loose an earth wrenching scream of agony and sat up.
 
 He groaned and went to hold his chest, but his arm passed through.
@@ -53,6 +56,8 @@ Kyle smiled and turned, "My name is Kyle Kilroy. If we're stuck here for a while
 
 ---
 
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+
 Professor Duke was sitting behind a text, gently turning the pages of a book. The pages were black, with embroidered golden text, in a language which was half imagery, half symbols that Kyle had never seen.
 
 He spoke quietly, "Is that Dryadic?"
@@ -101,6 +106,8 @@ Kyle walked through the professor's door, more than a little frustrated and anno
 
 ---
 
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+
 Fiona sat down at the table quietly, looking at the lunch meal in front of her.
 
 She could feel Abigail watching her, but she couldn't do it.
@@ -121,7 +128,7 @@ She looked up in surprise, "Dad?"
 
 The water nymph looked positively depressed, her scales showing through her skin, large bags beneath her eyes. Her shoulders were slumped, and the color had faded from her hair.
 
-Abigail winced, "It wad his army."
+Abigail winced, "It was his army."
 
 The elf looked down, fighting back tears, "Fuck him. I don't give a shit."
 
@@ -171,6 +178,8 @@ They'd seen him, if for a moment.
 
 ---
 
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+
 Kyle punched the air.
 
 "I did something!" He felt like dancing, but seeing his two friends there, with tears in their eyes, sobered him up quickly.
@@ -205,6 +214,8 @@ Kyle smiled slowly, one of the key concepts for Necromancy had to be time, it's 
 
 ---
 
+![Sanamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Sanamancy.svg)
+
 Professor Maidr fluttered her tiny wings in frustration as she looked down at the young girl in her care.
 
 She glanced over at the Dryad standing nearby, "What happened to her?"
@@ -234,6 +245,8 @@ Maidr swallowed, "Aren't there consequences from dying?"
 Maidr stared down at the young girl and drew a small wand, made from the feather of a phoenix, and began to chant as she realigned bones, knitted muscles back together, and stretched skin back into shape.
 
 ---
+
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
 
 Fiona sat in her chair, yawning tiredly.
 
@@ -329,6 +342,8 @@ She had seen the spear, why hadn't she stopped it?
 
 ---
 
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+
 Abigail sat in the girl's bathroom, her hands immersed into a sink full of water.
 
 It didn't compare to swimming in the least, but it was as close as she could get.
@@ -371,6 +386,8 @@ The bubbles vanished and Abigail burst into heavier tears, leaning on the sink, 
 
 ---
 
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+
 Fiona sat outside, on a rooftop, staring at the pale white mountains.
 
 Some camp fires still burned, but most of the army had left.
@@ -407,6 +424,8 @@ He was taking her heart with it.
 
 ---
 
+![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+
 Bellum Draco stood atop the highest peak of the castle, his tail wrapped around a spire for support, and he looked out from his vantage point.
 
 He could see the individual soldiers walking around the campfires, he could see them sharpening their weapons, donning their armour. Preparing for war.
@@ -432,6 +451,8 @@ Take the College of History and Magic to war with the last of the Elven Kingdoms
 He sighed, he needed to call a Board meeting.
 
 ---
+
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
 Abigail couldn't sleep.
 
