@@ -27,6 +27,8 @@ He shrugged, "Do as you will."
 
 ---
 
+![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+
 The red light of the sun crept up the molten and wrangled gates, illuminating a fallen figure in a pool of liquid, reflecting the sunlight.
 
 All around the figure shadowy monsters stalked, victorious expressions of jubilation expressing itself through their body language.
@@ -105,6 +107,8 @@ Abigail grinned.
 
 ---
 
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+
 Kyle knelt over Fiona, his hands humming with magic, as he held her head, tears in his eyes.
 
 He heard a cough from behind him and he sneered, "What do you want, Vampire?"
@@ -170,12 +174,19 @@ There was a flash, and the king lay on the ground, screaming, the knife sticking
 He spoke quietly, feeling the familiar magic flowing through him.
 
 "A sanguine peccatoris, et ab anima patris sui.
+
 From blood before, and ancestor soul.
+
 Solve vincula, quasi in corde irritum facit animam,
+
 Break the bonds, tear the heart, unmake the soul,
+
 Tolle tenebris liberare lamia destruunt quod malum facere.
+
 Take now the darkness, free the vampire, destroy that which is evil.
+
 Redige libera ad mortem, et a me praeceptum.
+
 Bring back, free her from endless death at my command."
 
 The blood evaporated, and Kyle breathed a sigh of relief, collapsing backwards, sweat cascading off him.
@@ -218,6 +229,8 @@ Kyle rolled his eyes, "What are they going to do? Kill me?"
 
 ---
 
+![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+
 Fiona glared at her father as Kyle left the room.
 
 The king dropped to the ground, standing slowly, and the two elves stared at each other.
@@ -239,6 +252,8 @@ The floor folded up, forming two large slabs of stone either side of the king an
 Fiona shook her head, "There's no water here."
 
 ---
+
+![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
 
 Kyle walked into the room slowly, trying to ignore what he had heard down the hall, it was Fiona's choice.
 
