@@ -1,4 +1,4 @@
-﻿# Chapter Fifteen
+# Chapter Fifteen
 
 ![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg) 
  
