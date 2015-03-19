@@ -40,7 +40,7 @@ Candice cringed, "I'm an Aimimancer?"
  
 Candice made a look of disgust, and then winced, "The world is never simple, is it?" 
  
-Brioni smiled sadly at the young pyromancy, "NoÖ I'm afraid it is not." 
+Brioni smiled sadly at the young pyromancy, "No≈†I'm afraid it is not." 
  
 "Let's go find Kyle bloody Kilroy." 
  
@@ -59,7 +59,7 @@ Fiona sighed heavily, "Soldiers? Vampires?"
  
 Fiona's face went white, "Our magical history professor has no idea?" 
  
-"He has one." The housecarl swallowed, "He said that it was impossible, and I must fetchÖ Your majesty." 
+"He has one." The housecarl swallowed, "He said that it was impossible, and I must fetch≈†Your majesty." 
  
 Fiona rolled her eyes and straightened, her metallic armour creaking, and she followed the housecarl out into the courtyard, where her army was training, and her stone guardians had gone still. 
  
@@ -77,17 +77,17 @@ Fiona glanced over at the nearby frantic professor as he scribbled in the sand c
  
 Ilgun glanced over at her, "Madness my queen! Pure and utter madness! If his calculations are wrong, then this man will have killed us all!" 
  
-Fiona blinked, "OkayÖ Professor, what the hell is that thing?" 
+Fiona blinked, "Okay≈†Professor, what the hell is that thing?" 
  
-Ilgun sighed heavily and pointed over at a section of strange calculations, "It is aÖ Gateway, for lack of a more scientific term. It takes two points within our universe, and cuts a hole between them, allowing you to travel quickly, and certainly." 
+Ilgun sighed heavily and pointed over at a section of strange calculations, "It is a≈†Gateway, for lack of a more scientific term. It takes two points within our universe, and cuts a hole between them, allowing you to travel quickly, and certainly." 
  
-Fiona frowned, "SoÖ Kinda like aÖ Portal." 
+Fiona frowned, "So≈†Kinda like a≈†Portal." 
  
-Ilgun smiled weakly, "Yes. Like a portalÖ Except, portals generate particles. Physics still dictates laws in this universe, and one of those, is the sort of particles thatÖ When they collide with others, cancel each other out, releasing a large amount of store energy in a repeatable fashion." 
+Ilgun smiled weakly, "Yes. Like a portal≈†Except, portals generate particles. Physics still dictates laws in this universe, and one of those, is the sort of particles that≈†When they collide with others, cancel each other out, releasing a large amount of store energy in a repeatable fashion." 
  
-Fiona scratched her head, "SoÖ Sort of like a nuclear blast?" 
+Fiona scratched her head, "So≈†Sort of like a nuclear blast?" 
  
-"Worse!" The professor yelled, clearly frustrated, and he winced, remembering his position, "My queenÖ This portal, on closing, or opening, may release radiation capable of collapsing our entire universe. In fact, that is the most likely outcome." 
+"Worse!" The professor yelled, clearly frustrated, and he winced, remembering his position, "My queen≈†This portal, on closing, or opening, may release radiation capable of collapsing our entire universe. In fact, that is the most likely outcome." 
  
 Fiona's face went white, "What?" 
  
@@ -119,7 +119,7 @@ Fiona drew her sword, and she heard her soldiers following suit as they regained
  
 Kyle shrugged, "Suit yourself." 
  
-Fiona's eyes bulged as the gates swung open and Kyle walked through unimpeded, and she stared, "ThatÖ That wasÖ Enchanted." 
+Fiona's eyes bulged as the gates swung open and Kyle walked through unimpeded, and she stared, "That≈†That was≈†Enchanted." 
  
 Kyle nodded, "Yep. Designed to make sure that the entire Elvish Kingdom would go on alert if someone other than the gatekeeper or royalty opened the gate. Also meant to unleash something to do with fire and growing trees. Not quite sure how that would actually work." 
  
@@ -135,7 +135,7 @@ Fiona glanced at it and back up at Kyle, who smiled awkwardly, and she had a fla
  
 She clenched her fists, "You've doomed us, Kyle. Declaring war on the Shadowlands?" 
  
-Kyle shrugged, "FiÖ It isn't about me. I'm not doing that for revenge or anything." 
+Kyle shrugged, "Fi≈†It isn't about me. I'm not doing that for revenge or anything." 
  
 Fiona frowned, watching him carefully, "What do you mean?" 
  
@@ -163,23 +163,23 @@ Kyle glared at him, "Son, step back. Adults are talking."
  
 The soldier yelled and punched, and Fiona winced as the soldier vanished, pulled apart atom by atom. 
  
-Fiona winced, "Tell me you didnít kill him." 
+Fiona winced, "Tell me you didn”¥ kill him." 
  
 "No I didn't, queen." Kyle said sarcastically, and Fiona shrugged, "Did you hear me complaining?" 
  
 "No, my queen." Kyle smiled. 
  
-Fiona sighed, "Please, I'm sorry, okay? I am. I just thoughtÖ You were a danger." 
+Fiona sighed, "Please, I'm sorry, okay? I am. I just thought≈†You were a danger." 
  
 "I am." Kyle said sadly and shrugged, "I just invented a new magic that could have blown the universe apart. Even needed some help making it." 
  
 Fiona's face drained of colour, "Ilgun wasn't wrong? You could have killed us all?" 
  
-Kyle winced, "I need you, Fi. I'm sorryÖ Wait, did you say Ilgun?" 
+Kyle winced, "I need you, Fi. I'm sorry≈†Wait, did you say Ilgun?" 
  
-The professor raised a hand nearby, "I am Professor IlgunÖ Necromancer." 
+The professor raised a hand nearby, "I am Professor Ilgun≈†Necromancer." 
  
-Kyle grinned, "Awesome. Totally a fanÖ Though, your theories on cross-dimensional travel are a load of crap. Seriously." 
+Kyle grinned, "Awesome. Totally a fan≈†Though, your theories on cross-dimensional travel are a load of crap. Seriously." 
  
 Ilgun blinked, "Excuse me?" 
  
@@ -189,15 +189,15 @@ Ilgun glanced at them and then back up, "No. You're wrong."
  
 Fiona burst out laughing, "Professor, you're talking to a Necromancer. He's died and come back, and manage to create a portal. Seriously." 
  
-"He was wrong!" The professor growled, and then swallowed, "My queenÖ ThisÖ NecromancerÖ Only arrived several hours after beginning his travel. It was not instantaneous, his equations are wrong." 
+"He was wrong!" The professor growled, and then swallowed, "My queen≈†This≈†Necromancer≈†Only arrived several hours after beginning his travel. It was not instantaneous, his equations are wrong." 
  
 "It's to allow for the exotic particles to dissipate without ripping the universe a new singularity." Kyle said with a smile, "It's intentional." 
  
 Ilgun paused and Kyle smiled at her, "Your soldier is on the roof behind you. Sort of precarious, but I didn't kill him." 
  
-She glanced up and laughed as she saw the soldier balancing on a pole on top of a roof, and turned back, "Right. So, KyleÖ What the hell is going on?" 
+She glanced up and laughed as she saw the soldier balancing on a pole on top of a roof, and turned back, "Right. So, Kyle≈†What the hell is going on?" 
  
-He sighed heavily, "IÖ This comes down to you and Abigail." 
+He sighed heavily, "I≈†This comes down to you and Abigail." 
  
 Fiona blinked in surprise, "It isn't about you?" 
  
@@ -209,11 +209,11 @@ He shrugged, "Incidental. Doesn't matter."
  
 Fiona frowned, "I don't understand." 
  
-Kyle rubbed his face, "Back when we had your dad's army on the College's doorstep, when an elvish spear killed me? It couldn't kill me because I bound my lifeforce, so I could protect you and Abigail. It was all about you two. Unfortunately, I got stuck between worlds. A ghostÖ I finally managed to work out how to cross over into the Other Side, and some people there taught me how to come backÖ For you and Abigail." 
+Kyle rubbed his face, "Back when we had your dad's army on the College's doorstep, when an elvish spear killed me? It couldn't kill me because I bound my lifeforce, so I could protect you and Abigail. It was all about you two. Unfortunately, I got stuck between worlds. A ghost≈†I finally managed to work out how to cross over into the Other Side, and some people there taught me how to come back≈†For you and Abigail." 
  
 Fiona felt tears welling in her eyes, "All this? For me?" 
  
-Kyle shrugged, "You're worth itÖ However, all this has set off the crapstorm that was the world's political situation. NowÖ Everyone wants a piece of each other. I'm just trying to keep up." 
+Kyle shrugged, "You're worth it≈†However, all this has set off the crapstorm that was the world's political situation. Now≈†Everyone wants a piece of each other. I'm just trying to keep up." 
  
 Fiona smiled, "You're sweet." 
  
@@ -233,13 +233,13 @@ Kyle laughed, "I'm here now, Fi. For you."
  
 She blinked, "You think you can do something?" 
  
-He winced, "I need a day to recharge from the wormholeÖ That wasn't easy. Also, I turn to stone during the day, and sunrise ain't far away. But, tomorrow night, I can create an enchantment that will slave the will of anything unliving inside your borders, to you." 
+He winced, "I need a day to recharge from the wormhole≈†That wasn't easy. Also, I turn to stone during the day, and sunrise ain't far away. But, tomorrow night, I can create an enchantment that will slave the will of anything unliving inside your borders, to you." 
  
 Fiona blinked, "Wow. Really? And that would help?" 
  
 "Vampire body guards." Kyle said and smiled, "Could you ask for anything faster?" 
  
-She smiled and nodded, "AwesomeÖ So, I have to keep you safe, in a Kingdom that hates your guts, whilst a renegade group wants to kill the both of us." 
+She smiled and nodded, "Awesome≈†So, I have to keep you safe, in a Kingdom that hates your guts, whilst a renegade group wants to kill the both of us." 
  
 "Just one day. Like twelve hours. Maybe thirteen." Kyle smiled sheepishly. 
  
@@ -755,4 +755,3 @@ Kyle.frowned, "It takes raw power."
 "No, it does not." Duke said, sliding through a nearby wall, "I will handle, now, go Kyle." 
  
 He vanished with a pop. 
-
