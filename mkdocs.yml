@@ -7,7 +7,7 @@ use_directory_urls: true
 pages:
 - [index.md, Home]
 - [LICENSE.md, License]
-- [../CONTRIBUTING.md, Contributing]
+- [CONTRIBUTING.md, Contributing]
 - [000Prologue.md, Prologue]
 - [001-Chapter-One.md, Chapter One]
 - [002-Chapter-Two.md, Chapter Two]

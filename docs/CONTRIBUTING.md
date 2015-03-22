@@ -1,12 +1,19 @@
 ## Contributing
-There's a few ways to help out with this project.
 
-Firstly, if you spot a grammar or spelling issue - [create a pull request](https://help.github.com/articles/creating-a-pull-request/)
+* Submitting an Issue, Complaint or Suggestion
+    * Review the [Issues](https://github.com/shakna-israel/NecromancersApprentice/issues?q=is%3Aissue), past and present, to see if it has been addressed.
+        * If you think an issue needs re-opening, comment on it, and ensure you include *@shakna-israel* in your comment.
+    * If your issue contains spoilers about the story, ensure you use the *Spoilers* tag.
+    * If your issue relates to the story, ensure you use the *Story* tag.
+    * If you have a suggestion, ensure you use the *Enhancement* tag.
+    * If you have an issue in the writing, such as grammar, sentence structure or flow, ensure you use the *Prose* tag.
 
-*The file [writegood.txt](writegood.txt) contains the issues that the [write-good linter](https://github.com/btford/write-good) has detected thus far.*
-
-Secondly, if you want to add to the story in someway, write some part in any part of any chapter - [create a pull request](https://help.github.com/articles/creating-a-pull-request/)
-
-Thirdly, if you don't like the way the story is going, or want to take it in any direction - [fork it](https://help.github.com/articles/fork-a-repo/). *If you make a fork, let me know and I'll add it to the README for others to find*..
+* Forking
+    * You are free to fork the repository, and use it for your own purposes.
+    * If you would like, you can notify *@shakna-israel*, through an [Issue]() and your fork can be added to the README
+    * There are some limitations to the LICENSE:
+        * You must give appropriate credit, and indicate if you made changes.
+        * You must use the Creative Commons Attribution-ShareAlike 4.0 International license when licensing your own work.
+    * You are allowed to use the repository for commercial purposes.
 
 ![Front cover](img/frontCover.jpg)

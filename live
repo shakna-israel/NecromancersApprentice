@@ -1,3 +1,0 @@
-writegood *md >> writegood.txt
-mkdocs build --clean
-mkdocs gh-deploy
