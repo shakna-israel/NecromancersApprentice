@@ -8,7 +8,7 @@ Candice sneered, a ripple of fire passing over her for a moment, "If Kilroy want
 
 She paused as she saw the slope dropping downwards, caught off-guard by the College's magic.
 
-Behind her lay icy fields as far as the eye could see, and in front, in this small valley where the College sat in it's lake, lay green grass, buzzing with insects.
+Behind her lay icy fields as far as the eye could see, and in front, in this small valley where the College sat in its lake, lay green grass, buzzing with insects.
 
 She frowned, "How did they do it, do you think?"
 
@@ -40,7 +40,7 @@ Candice cringed, "I'm an Aimimancer?"
 
 Candice made a look of disgust, and then winced, "The world is never simple, is it?"
 
-Brioni smiled sadly at the young pyromancy, "No… I'm afraid it is not."
+Brioni smiled sadly at the young Pyromancy, "No… I'm afraid it is not."
 
 "Let's go find Kyle bloody Kilroy."
 
@@ -125,7 +125,7 @@ Kyle nodded, "Yep. Designed to make sure that the entire Elvish Kingdom would go
 
 Fiona pointed her sword, "Seize that man. This is an invasion."
 
-Kyle rolled his eyes, "Seriosuly, Fi? I'm not your enemy. If I was, you and every elf would be dead already." He snapped his fingers and every weapon in sight turned to sand, including the one in her hand.
+Kyle rolled his eyes, "Seriously, Fi? I'm not your enemy. If I was, you and every elf would be dead already." He snapped his fingers and every weapon in sight turned to sand, including the one in her hand.
 
 She clenched a fist, pushing out her magic, trying to seize the sand and reform it into a new weapon.
 
@@ -201,9 +201,9 @@ He sighed heavily, "I… This comes down to you and Abigail."
 
 Fiona blinked in surprise, "It isn't about you?"
 
-Kyle laughed, "Who on earth would care about an aimimancer?"
+Kyle laughed, "Who on earth would care about an Aimimancer?"
 
-She looked at him, "You became a necromancer."
+She looked at him, "You became a Necromancer."
 
 He shrugged, "Incidental. Doesn't matter."
 
@@ -311,7 +311,7 @@ Duke glanced from the mage and then to the student, shocked, "I... Uh... Bellum?
 
 The half-dragon nodded slowly, "I see it. A wooden disc in her hand, the magical prevention seal that Kyle made... How would it keep her alive?"
 
-Duke crouched, staring, "She's siphoning off the Aimimancy from it. Draining it's power for herself..."
+Duke crouched, staring, "She's siphoning off the Aimimancy from it. Draining its power for herself..."
 
 Bellum scratched his head, "I thought Silvergate saved them... Kyle is in the Elvish Kingdom."
 
@@ -363,7 +363,7 @@ Her heart skipped a beat.
 
 Then she heard a growl, the wall was torn apart.
 
-A vampire stood there, a gangly creature, that few could mistake for a man. It's face was covered in blood, fresh rivulets ran down it's cheeks. It's skin was as black as the night it came from, and it's eyes were heartless, glowing red.
+A vampire stood there, a gangly creature, that few could mistake for a man. It's face was covered in blood, fresh rivulets ran down its cheeks. Its skin was as black as the night it came from, and its eyes were heartless, glowing red.
 
 Kyle's father leapt towards it, his sword stabbing hard, but the vampire simply caught the sword and crumpled the metal in its class, before knocking the man back with a blow that ripped him from pelvis to throat.
 
@@ -393,7 +393,7 @@ He was staring at his hand, slick with the blood of his father, and understandin
 
 Kyle muttered quietly, and the blood floated into the air, a small bubble floating in front of his face.
 
-The vampire noticed, and turned, "A damn aimimancer?"
+The vampire noticed, and turned, "A damn Aimimancer?"
 
 It leapt at him, trying to kill him, but Kyle stretched the blood in the air, and it became a shield, bouncing the vampire back.
 
@@ -429,7 +429,7 @@ This was what had created the hatred born inside him.
 
 The world around her swirled.
 
-The professor's unusually serious face faded and he rubbed his hands together, "I think we have time for one more thing. We are going to make a charm, that can help you out while you're learning. It will block you from using magic while you are wearing it, and you will be expected to wear it at all times from now on, unless you are instructed to remove it."
+The professor's unusually serious face faded and he rubbed his hands together, "I think we have time for one more thing. We are going to make a charm, which can help you out while you're learning. It will block you from using magic while you are wearing it, and you will be expected to wear it at all times from now on, unless you are instructed to remove it."
 
 Kyle rubbed his temples, a simple object, true enough... But it would hurt like hell for him to wear... But he should have expected it.
 
@@ -511,7 +511,7 @@ Candice pulled her knees up to her chin.
 
 How could her family be dead?
 
-How.could it have happened?
+How could it have happened?
 
 ---
 
@@ -531,7 +531,7 @@ The ghost laughed, "Easy, nymph. First things first, my name is Wes Anderson, an
 
 She frowned, "How so?"
 
-He grinned, "A skeptic. Awesome... You and that funny wooden guy who died once, the two of you were basically frozen. Dying. So I thought my old buddy Kyle might actually be thankful if I saved the two of you. Saving woody was easy - he's a Necromancer, and has paid the price, so he can't die... You on the other hand..."
+He grinned, "A sceptic. Awesome... You and that funny wooden guy who died once, the two of you were basically frozen. Dying. So I thought my old buddy Kyle might actually be thankful if I saved the two of you. Saving woody was easy - he's a Necromancer, and has paid the price, so he can't die... You on the other hand..."
 
 Abigail swallowed, "What did you do to me?"
 
@@ -591,7 +591,7 @@ He grinned over at her, "Hey, Fi."
 
 She glared, "Prove it."
 
-Kyle rolled his eyes, "I'm a crazy ass who could have torn the universe assunder?"
+Kyle rolled his eyes, "I'm a crazy ass who could have torn the universe asunder?"
 
 Fiona shrugged, "How are you here and there?"
 
@@ -652,7 +652,7 @@ Duke nodded slowly, "Anderson had used this castle as his hiding place from the 
 
 Abigail clenched her fists, bursting into tears, "What in the Shadowlands is wrong with me?"
 
-Duke shook his head, stroking her cheek, "It is not anything that is wrong. It is a privilege, an honor, and a hard life that you have been handed... Since the ice cave, you have been awoken. You are a... Reaper..."
+Duke shook his head, stroking her cheek, "It is not anything that is wrong. It is a privilege, an honour, and a hard life that you have been handed... Since the ice cave, you have been awoken. You are a... Reaper..."
 
 Abigail stared at him, "I... I just lose... Control..."
 
@@ -745,9 +745,9 @@ He smiled tightly, "Just a projection. I don't have long. Dwarves are attacking 
 
 Bellum cringed, "Holy mothers... What can we do?"
 
-Kyle winced, "Tell Isaac Isaac where I am. Get the trolls coming to us. I hope.racial hatred will do the rest... But the trolls are the only ones who can help."
+Kyle winced, "Tell Isaac Isaac where I am. Get the trolls coming to us. I hope racial hatred will do the rest... But the trolls are the only ones who can help."
 
-"Kilroy!" Came an angry voice from.behind him and Kyle spun, "Unless you can defeat thirty thousand dwarfish beserkers, I don't give a rat's ass, Silvergate."
+"Kilroy!" Came an angry voice from behind him and Kyle spun, "Unless you can defeat thirty thousand dwarfish berserkers, I don't give a rat's ass, Silvergate."
 
 She trembled with rage, "There are underground tunnels between the Elvish Kingdom and the Dwarfish Stronghold. They enter into the bank beneath the palace, on the Elvish side."
 

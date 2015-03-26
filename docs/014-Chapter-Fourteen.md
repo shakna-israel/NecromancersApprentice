@@ -2,7 +2,7 @@
 
 ![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
-Brioni rubbed her hands over the fire, smiling at the young pyromancer, who just squatted there - glaring into the flames.
+Brioni rubbed her hands over the fire, smiling at the young Pyromancer, who just squatted there - glaring into the flames.
 
 She sighed heavily, "It was chaos there. I spent most of it at the front... What happened?"
 
@@ -32,13 +32,15 @@ Candice rolled her eyes, "It isn't politics. You live or die by what the Silverg
 
 Brioni nodded slowly, "There is something you should know, however. Kyle Kilroy's parents were massacred by vampires."
 
-Candice smiled, "If Kyle is willing to take the war to the heart of the Shadowlands, the Silvergate clan will back him to the final extermination of those beasts."
+Candice smiled, "If Kyle is willing to take the war to the heart of the Shadowlands the Silvergate clan will back him to the final extermination of those beasts."
 
 Brioni frowned, "When did you see your first vampire?"
 
-Candice winced , her eyes glazing, "I was four. It ate my mother in front of me."
+Candice winced, her eyes glazing, "I was four. It ate my mother in front of me."
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 Isaac Isaac yelled loudly, his voice bellowing down the hallways as he shattered the brickwork that was once a doorway.
 
@@ -112,7 +114,7 @@ The skeleton let out a roar of rage and the contents of the cave slammed towards
 
 Yet, as the magic slammed towards the nymph, her eyes sharpened, and she rolled to the side. She reached into the void of magic heading towards her, and lit a tiny spark.
 
-The spark immediately flowed across the magic, lighting up a fire Ventusamancy, and the room turned slowly, protecting it's mother.
+The spark immediately flowed across the magic, lighting up a fire Ventusamancy, and the room turned slowly, protecting its mother.
 
 Abigail stood up, dusting herself off, and she looked to the Soul Madame, and winced, "I am truly sorry. But now, I'm leaving."
 
@@ -234,7 +236,7 @@ Draco cringed, "That's asking for trouble. Seriously."
 
 Kyle shrugged, "Best I've got."
 
-The Headmaster frowned and used his tail to scribble in the stonework beneath his feet, "Actually… The problem is the wormhole would blast it's massive energy into the surroundings, right?"
+The Headmaster frowned and used his tail to scribble in the stonework beneath his feet, "Actually… The problem is the wormhole would blast its massive energy into the surroundings, right?"
 
 Kyle nodded, "Yeah, unless stabilised by having part of the bridge go through curved space. Dissipate locally in differing regions."
 

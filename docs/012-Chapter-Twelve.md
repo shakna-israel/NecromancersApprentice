@@ -24,9 +24,9 @@ She could hear the myriad of voices in the water, the ones that no one else ever
 
 Abigail pulled up short, her legs separating, and she smiled softly at the creature staring at her in disgust.
 
-Forty tentacles stretched from a ball of eyes, all shaded in dark blues and purples. The creature looked at her, curling it's arms in, as an electrical charge built within them, ready to shock her and then eat her.
+Forty tentacles stretched from a ball of eyes, all shaded in dark blues and purples. The creature looked at her, curling its arms in, as an electrical charge built within them, ready to shock her and then eat her.
 
-The water nymph smiled, and twisted her hands in the air, vitamancy passing between them, as she focused on the words in her mind.
+The water nymph smiled, and twisted her hands in the air, Vitamancy passing between them, as she focused on the words in her mind.
 
 The creature paused, shocked.
 
@@ -156,13 +156,13 @@ She twisted a fist and pushed it down, the ground beneath the beast opening into
 
 Abigail stared at the beast, towering high above her.
 
-Icicles laid across it like scales, snow spilling down between them like puss from rotting meat. It's eyes were little more than empty sockets carved into a dome of ice, empty and lifeless.
+Icicles laid across it like scales, snow spilling down between them like puss from rotting meat. Its eyes were little more than empty sockets carved into a dome of ice, empty and lifeless.
 
-Abigail's face twitched into a smile, and she spun a ball of vitamancy, pushing it forward with all her might.
+Abigail's face twitched into a smile, and she spun a ball of Vitamancy, pushing it forward with all her might.
 
 It struck the beast at speed, and slammed to a stop, the force knocking Abigail backwards a foot across the ground, she clenched her teeth and stood her ground, fighting to push the essence of life into the creature.
 
-Something dark latched onto the vitamancy, trying to push back.
+Something dark latched onto the Vitamancy, trying to push back.
 
 Abigail felt herself tumbling to the ground, except it was now gone, and she was falling head over heels down a dark abyss.
 
@@ -234,9 +234,9 @@ Kyle smiled and looked at the document laid out on the table in front of him.
 
 It was a charter, that he and the others had been arguing and discussing for nearly a full day - but it was nearly complete.
 
-An agreement that might see an end to the war that had decimated the school - and an end to the wars that had kept the world on it's knees since the ice had destroyed it.
+An agreement that might see an end to the war that had decimated the school - and an end to the wars that had kept the world on its knees since the ice had destroyed it.
 
-Kyle held.out his hand over the paper, and cut it with a knife. Squeezing his fist so that several drops struck the paper.
+Kyle held out his hand over the paper, and cut it with a knife. Squeezing his fist so that several drops struck the paper.
 
 His spell immediately took hold, and Kyle winced as he felt the unbreakable vow take shape.
 

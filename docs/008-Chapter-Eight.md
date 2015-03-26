@@ -32,6 +32,8 @@ Abigail roared, and the elves exploded from the inside out as their organs becam
 
 ---
 
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+
 Trolls can't creep.
 
 That's just a fact - When you're made of stone and tower over most of the creatures in the world, some trolls even being mistaken for mountains, then the sneak attack is out of the question.
@@ -126,7 +128,7 @@ He'd expected the vampires to start picking off his elves, but trolls? Since whe
 
 Applesilver winced, looking at the messenger, knowing he was moments from death, "Is Isaac here?"
 
-"Yes, sir. He lead them."
+"Yes, sir. He led them."
 
 At least that bit of the invitation that had only just reached him wasn't a lie.
 
@@ -139,6 +141,8 @@ He turned, glaring at another waiting messenger, "Go to New Rome, their general 
 He turned back to his map, "Go quick, kid… The war rests on it."
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 Haralson looked at the messenger, a well-trained and battled soldier, one who had seen more than his fair share of blades and magic.
 
@@ -161,6 +165,8 @@ There was a small cluster of mages inside the gates, but presumably their attent
 The School of History and Magic had had their bluff called - unless they handed over Kyle Kilroy's body for destruction… The school may as well never have existed.
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 Andre smiled toothily, perching on the edge of a tower overlooking the school, his shadowy form blending into the long-casted shadows of the midday sun, but his attention was no longer focused on the school.
 
@@ -218,6 +224,8 @@ Andre placed a clawed hand against Applesilver's head, "Now then… How much tor
 
 ---
 
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+
 Antonio Guerra stood at the top of a hill, a man holding a banner to his left, and a single broadsword was in his hands, he called out loudly, "Trolls! Cease your attack!"
 
 He saw a couple turn to look, one scratched his head, "What does little man want?"
@@ -230,9 +238,9 @@ A hundred horseman crested the horizon from behind him, charging into the fray w
 
 He hefted his sword and charged down the hill, feeling the thundering footsteps of a thousand foot soldiers behind him. He skidded beneath a slot troll fist, dodging to the left as it tried to walk around to crush him, and he sliced his sword across an ankle, hearing it scream.
 
-The screaming continued as the soldiers behind him followed suit, and then a length of chain was wrapped around the trolls feet, causing it to fall.
+The screaming continued as the soldiers behind him followed suit, and then a length of chain was wrapped around the troll's feet, causing it to fall.
 
-The screams cut off as it's throat was cut.
+The screams cut off as its throat was cut.
 
 He danced the dance of battle, smiling as he moved, his blade precise, wasting no strength or endurance, his men an efficient machine of destruction.
 
@@ -244,7 +252,7 @@ Antonio frowned, "The vampires? They've started hitting the camp?"
 
 The captain nodded and Antonio grinned, "They're not much of a worry for us."
 
-He tapped his armor and smiled, "Enchanted with the sun. Not much different in appearance… But every New Roman soldier has been trained and equipped to fight vampires. We'll win this camp back."
+He tapped his armour and smiled, "Enchanted with the sun. Not much different in appearance… But every New Roman soldier has been trained and equipped to fight vampires. We'll win this camp back."
 
 The elvish captain smiled, "I wish I shared your enthusiasm."
 

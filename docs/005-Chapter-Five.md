@@ -36,7 +36,7 @@ The ghost nodded, "That'd be the one. He managed to die in some accident, turned
 
 Kyle felt it click and he smiled, "To become a Necromancer... You first have to bring yourself back to life?"
 
-The ghost nodded, "Yep. Til then... You can't interact with a damn thing... Or leave... You find a door outside, but it'll feel like a stone wall to you. Wherever your body is, your bound to it."
+The ghost nodded, "Yep. Till then... You can't interact with a damn thing... Or leave... You find a door outside, but it'll feel like a stone wall to you. Wherever your body is, you're bound to it."
 
 Kyle frowned, "You didn't know you could resurrect yourself, did you?"
 
@@ -46,7 +46,7 @@ Kyle sighed heavily, looking at his body, "So, I need to heal my body, then find
 
 The ghost started, "Damn! Took Duke seventy years to work that out!"
 
-Kyle smiled and looked back at the ghost, "I've devoted basically my whole life to the study of Necromancy. I'm only a brilliant aimimancer because I want to know Necromancy."
+Kyle smiled and looked back at the ghost, "I've devoted basically my whole life to the study of Necromancy. I'm only a brilliant Aimimancer because I want to know Necromancy."
 
 The ghost shrugged, "I and Duke used Vitamancy to get stuck here."
 
@@ -80,9 +80,9 @@ Duke looked at him, and shrugged, "You may know that to be the solution, which i
 
 The student looked at the professor with concern, "What do you mean? You are the only Necromancer alive! If you can't help... What the hell does that mean?"
 
-Duke shook his head, "Teaching Necromancy... I don't know... Here's an example. Describe the color blue to me."
+Duke shook his head, "Teaching Necromancy... I don't know... Here's an example. Describe the colour blue to me."
 
-Kyle blinked, "Blue? It's a light color. Between red and green on the color spectrum."
+Kyle blinked, "Blue? It's a light colour. Between red and green on the colour spectrum."
 
 Duke laughed, "Yes... But tell me what it looks like."
 
@@ -126,7 +126,7 @@ Abigail spoke anyway, "You okay, Fi? After your dad turning up like that?"
 
 She looked up in surprise, "Dad?"
 
-The water nymph looked positively depressed, her scales showing through her skin, large bags beneath her eyes. Her shoulders were slumped, and the color had faded from her hair.
+The water nymph looked positively depressed, her scales showing through her skin, large bags beneath her eyes. Her shoulders were slumped, and the colour had faded from her hair.
 
 Abigail winced, "It was his army."
 
@@ -138,7 +138,7 @@ Fiona rubbed her eyes, "Why? Why can't she just leave me alone?"
 
 "Hey, elf." Came a bright voice, but she pronounced 'elf' like one might pronounce 'dirt' or 'dust' when you become overly tired of cleaning.
 
-Fiona ground her teeth together, gray creeping into her usually blonde hair, "What do you want, Candice?"
+Fiona ground her teeth together, grey creeping into her usually blonde hair, "What do you want, Candice?"
 
 The girl looked at the plate in front of Fiona, "You actually got the kitchens to serve a salad. Awesome. I'll take it."
 
@@ -470,7 +470,7 @@ Kyle died.
 
 She heard Kyle's voice echo beside her, "They know."
 
-She spun, staring at the vibrating mass of color standing in her room, and swallowed, "Kyle?"
+She spun, staring at the vibrating mass of colour standing in her room, and swallowed, "Kyle?"
 
 "They're coming to stop me. Abigail, you can't let them. If I die, so does the school." He seemed to choke up, and then he was gone.
 

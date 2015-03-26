@@ -30,19 +30,19 @@ She burst into tears.
 
 ![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
 
-Abigail yawned as Professor Bateman yammered on about the dangerous nature of fire, and how a pyromancer is always right on the edge of dying.
+Abigail yawned as Professor Bateman yammered on about the dangerous nature of fire, and how a Pyromancer is always right on the edge of dying.
 
 None of it made a lot of sense to her. Animating objects, creating life, controlling the living. That made sense.
 
-"To delve into the magic of pyromancy, you must be the void, and your thoughts the flame." Bateman said earnestly, and Abigail struggled to contain a yawn.
+"To delve into the magic of Pyromancy, you must be the void, and your thoughts the flame." Bateman said earnestly, and Abigail struggled to contain a yawn.
 
-"Eight words to make a spell, yes." Bateman continued, smiling, his eyes glowing, "But without the right thoughts and attitudes, it will fail on you. A practiced practioner... They are always in the right mindset for their most skilled magic. It's why we only teach you one type after first year. Once you get sorted into the appropriate School, it becomes harder to learn or even use any other kind of magic."
+"Eight words to make a spell, yes." Bateman continued, smiling, his eyes glowing, "But without the right thoughts and attitudes, it will fail on you. A practiced practitioner... They are always in the right mindset for their most skilled magic. It's why we only teach you one type after first year. Once you get sorted into the appropriate School, it becomes harder to learn or even use any other kind of magic."
 
 Abigail cocked her head, raising her hand, and he nodded, "Yes, Miss Ignis?"
 
 She shrugged, "Can't most of the professors use two magics? At least?"
 
-Bateman smiled, "Good question. Nice to see you are paying a small amount of attention to this class. That is true - but not for most people. In fact, for most of the professors, knowing two magics was never their goal." He scratched his jagged and unkempt brown beard, "For example... The Headmaster. Most skilled Wind Mage in the entire world. So you would expect he has studied Ventusamancy his whole life. You would be wrong. He was a pyromancer, when in his last year at this school, he accidentally awoke his dragon heritage. It forced the new magic on him. So he is incredibly.gifted with both."
+Bateman smiled, "Good question. Nice to see you are paying a small amount of attention to this class. That is true - but not for most people. In fact, for most of the professors, knowing two magics was never their goal." He scratched his jagged and unkempt brown beard, "For example... The Headmaster. Most skilled Wind Mage in the entire world. So you would expect he has studied Ventusamancy his whole life. You would be wrong. He was a Pyromancer, when in his last year at this school, he accidentally awoke his dragon heritage. It forced the new magic on him. So he is incredibly gifted with both."
 
 Abigail blinked, that was news.
 
@@ -116,7 +116,7 @@ The golem let out a slow sound of disgust, followed by one dark word.
 
 Kyle sat, feeling an unusual amount of fear.
 
-It was dark, the hallways were almost quiet, apart from the occasional statue moving, only tue breathing of the five students waiting for detention sounded out.
+It was dark, the hallways were almost quiet, apart from the occasional statue moving, only the breathing of the five students waiting for detention sounded out.
 
 Fiona and Abigail refused to talk at all.
 
@@ -174,7 +174,7 @@ A wooden grouping of roots, vaguely resembling a hand, gripped his shoulder, "In
 
 Kyle felt a bead of sweat form on his head, "Will they all attack tonight? And how good at Vitamancy are you, still?"
 
-The Professor laughed, "Yes, I was a Vitamancer before I became a Necromancer... And that is how I know their numbers, but as to the attack? They could. So far, they have been testing our defenses, trying to find a weakness. They may be ready, or they might try a feint, or even another test. It is difficult to tell."
+The Professor laughed, "Yes, I was a Vitamancer before I became a Necromancer... And that is how I know their numbers, but as to the attack? They could. So far, they have been testing our defences, trying to find a weakness. They may be ready, or they might try a feint, or even another test. It is difficult to tell."
 
 Kyle winced, "You have got to teach me that trick about not being afraid."
 
@@ -224,21 +224,21 @@ Kyle grinned and leaped forward, running down the hill, as he heard yells of pro
 
 The professor's voice was not among them.
 
-He closed on the first troll, a giant lumbering creature of stone, standing four or maybe even five times as tall as Kyle, dragging a tree behind it ad a weapon. It's eyes were a reflectionless black, and every muscle in its body bulged.
+He closed on the first troll, a giant lumbering creature of stone, standing four or maybe even five times as tall as Kyle, dragging a tree behind it as a weapon. Its eyes were a reflectionless black, and every muscle in its body bulged.
 
 Kyle leapt, punching hard before it could react, breaking the nose.
 
-The troll roared in anger, and the tree slammed into him, shattering the armor he'd forged, and breaking bones in his chest.
+The troll roared in anger, and the tree slammed into him, shattering the armour he'd forged, and breaking bones in his chest.
 
 Kyle slammed into the ground, struggling to breathe, but he smiled and pulled.
 
-The small thread of blood leaking from the troll snaked down and around it's throat, pulling tight.
+The small thread of blood leaking from the troll snaked down and around its throat, pulling tight.
 
 The head toppled off backwards and the body slumped forward onto the ground.
 
 Kyle stood, realigning his bones, and drawing all the blood from the troll's body.
 
-He glared around in the dark, feeling the overwhelming power in his hands, and he struck out, landing a spearing blow to the closest troll, ripping open the chest, and he proceeded to rip out it's heart.
+He glared around in the dark, feeling the overwhelming power in his hands, and he struck out, landing a spearing blow to the closest troll, ripping open the chest, and he proceeded to rip out its heart.
 
 He pooled the blood, forming a bubble around himself and rose into the air.
 
@@ -246,9 +246,9 @@ He twisted against the fabric of reality, pushing his will hard, and the sliver 
 
 He wished he hadn't.
 
-A hundred elves in full armor stood at the bottom of the hill, spears in hand.
+A hundred elves in full armour stood at the bottom of the hill, spears in hand.
 
-The last troll let our a sound of anguish and collapsed, the life drained from it.
+The last troll let out a sound of anguish and collapsed, the life drained from it.
 
 Yet, far above the elves, circling them as wardens, flew more crows than Kyle could hope to count, even as an estimation.
 
@@ -270,13 +270,13 @@ The Dryad spoke loudly, magically projecting his voice, "Send forth an emissary,
 
 Kyle winced, feeling the truth in the words, and an elf stepped up from the ranks slowly, and Professor Duke smiled, "Some common courtesy, at last. Why are you attempting so feebly to attack this school?"
 
-The elf shrugged, beneath his black armor, "I have been sent. I do not know."
+The elf shrugged, beneath his black armour, "I have been sent. I do not know."
 
 The Dryad paused, "Who is it that sent you?"
 
 "King Applesilver."
 
-Fiona gasped, her concentration broke, tumbling the boulders to the ground, and the body of stone around her turned to dirt and fell away.
+Fiona gasped, her concentration broke, tumbling the boulders to the ground, as the body of stone around her turned to dirt and fell away.
 
 Kyle looked at her, "Don't move, Fiona."
 
@@ -288,7 +288,7 @@ Fiona winced, fighting back emotions.
 
 Kyle tinged the moon slightly darker, "Why would King Applesilver send you to die?"
 
-The elf looked st him, suspended in the air, and shook his head, "Because of you, Kyle Kilroy. He wants you destroyed."
+The elf looked at him, suspended in the air, and shook his head, "Because of you, Kyle Kilroy. He wants you destroyed."
 
 Kyle clenched his fists, "Why?"
 

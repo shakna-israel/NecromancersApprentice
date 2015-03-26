@@ -96,7 +96,7 @@ Abigail glared, "And you want us, two students, to stop six armies? Whilst you f
 
 "I am not farting around." Kyle growled, "I'm actually living through compressed time. I've spent nearly six hundred years as a dead guy. Missing you guys a lot. Only having Wes Anderson for company is a fate I would wish on no one else. The man died as a werewolf."
 
-Fiona blinked, looking at him carefully, "Your messing with time? Mages shouldn't touch that stuff. It's crazy dangerous."
+Fiona blinked, looking at him carefully, "You're messing with time? Mages shouldn't touch that stuff. It's crazy dangerous."
 
 "It's part of my theory on magical particle entanglement, and observational history." Kyle said and smiled softly, "Don't worry, I mess with far more dangerous things. Like the fact that resurrecting oneself unbalances the dead and the living, and so nature kills someone for you."
 
@@ -267,7 +267,7 @@ The elf shrugged, "The circumstances required it."
 
 Draco leaned back in his seat, "The Board has breached the Code."
 
-The room shook as a dozen statues dropped from their positions around the room, weapons leveling at the throat of all present, including Draco.
+The room shook as a dozen statues dropped from their positions around the room, weapons levelling at the throat of all present, including Draco.
 
 Another statue stood by himself, "The Code must be upheld. For what reason was it breached? This is your only appeal."
 
