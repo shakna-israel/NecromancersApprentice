@@ -16,7 +16,7 @@ Bateman spotted her near the entrance, "So? Maidr there?"
 
 "No." Abigail swallowed, "Something happened to Fi. Down at the gate."
 
-Bateman looked at the Vitamancer and winced, "Don't let those feelings overwhelm you. Your still linked to the Circle."
+Bateman looked at the Vitamancer and winced, "Don't let those feelings overwhelm you. You're still linked to the Circle."
 
 Abigail nodded, fighting back tears, "We have to get Maidr, and she's at the gate."
 
@@ -51,6 +51,8 @@ That was wrong.
 Fiona sat bolt upright, and immediately she was stabbed with more pain than she had ever felt, every nerve in her body lighting up like a christmas tree, and she went to scream, but all that came out was a groan.
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 Andre pulled his hand out of the elf's chest, glaring at the vampire who was interrupting his torture, "What is it?"
 
@@ -116,7 +118,7 @@ The professor stared, "Really? That's… Impossible."
 
 The Headmaster laughed as he finished another defensive spell, "No… Only highly improbable. Now are you done wasting your time, Abigail?"
 
-She spun, launching herself at him, knocking the professor to the ground, jamming her wand up against his adam's apple, "I am not wasting my time!"
+She spun, launching herself at him, knocking the professor to the ground, jamming her wand up against his Adam's apple, "I am not wasting my time!"
 
 The Headmaster glared at her, "I tried to save Fiona."
 
@@ -148,6 +150,8 @@ They wanted to bring him back.
 
 ---
 
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+
 There were nine vampiric armies in the Shadowlands. Seven had come to destroy the abomination hidden behind a castle wall, defended by a thousand mages.
 
 They shouldn't stand a chance, but so far, the School of History and Magic had been incredibly tenacious.
@@ -156,7 +160,7 @@ That being said, the fight they were putting up couldn't be said to be overwhelm
 
 Andre's face grew dark, knowing that the resurrection of Kyle Kilroy was also simply a matter of time.
 
-The young man, an aimimancer, was incredibly dangerous, and far too clever for his own good.
+The young man, an Aimimancer, was incredibly dangerous, and far too clever for his own good.
 
 It had been one of his subordinates that had killed Kyle's family, sloppily leaving the child alive.
 
