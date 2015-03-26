@@ -86,13 +86,13 @@ Kyle grinned, "You are protected by my life. So long as I live, and the spell la
 
 Abigail raised an eyebrow, "Really?"
 
-"Chapter Seventeen, Spells of Immortality and Protection." He shrugged, "Its written on my spells… Why would I lie to someone I wish to hell I could cheer up?"
+"Chapter Seventeen, Spells of Immortality and Protection." He shrugged, "It's written on my spells… Why would I lie to someone I wish to hell I could cheer up?"
 
 "Meh." She shrugged and jumped backwards into the water, feeling her legs combine into her tail. Her skin split and ruptured a hundred times into tiny blue scales, and her eyes misted and shifted, revealing a different spectrum of light.
 
 She lay in the water, savouring the moment, and then she felt the current, and swept away.
 
-The water ran over her skin, her scales flaring and channeling it over her as she swum through the water, feeling alive for the first time since she entered the School.
+The water ran over her skin, her scales flaring and channelling it over her as she swum through the water, feeling alive for the first time since she entered the School.
 
 She felt the stress melting away, the fear fading.
 
@@ -102,7 +102,7 @@ She grinned, spinning as she swum upwards, and she burst into the air, flipping 
 
 The laughter fled as she plunged it the water again, the shark staring her in the eyes, the black holes of utter depth looking into her. Green liquid bled out from its mouth, the water boiling around it.
 
-Fear clutched her heart, but the shark moved first, she felt it's jaw close around her shoulder and she let out a scream of pain... But surprise hit her.
+Fear clutched her heart, but the shark moved first, she felt its jaw close around her shoulder and she let out a scream of pain... But surprise hit her.
 
 It didn't actually hurt.
 
@@ -142,7 +142,7 @@ The blood exploded into tiny balls and slammed into his body like nails, and Kyl
 
 Abigail blinked, "Huh. You look better."
 
-He shrugged touching his shoulder and stood up, "The memory takes a bit to fade... But healing? That's easy for an aimimancer. I'd say we're every bit as good as a sanamancer."
+He shrugged touching his shoulder and stood up, "The memory takes a bit to fade... But healing? That's easy for an Aimimancer. I'd say we're every bit as good as a Sanamancer."
 
 Abigail frowned, "Umm... Didn't that hurt like balls? Sanamancers don't."
 
@@ -152,7 +152,7 @@ Abigail smiled softly and tousled his hair, "You are a right mad one... Thanks f
 
 Kyle shrugged his shoulders, "Now... What exactly did you say to Fiona?"
 
-Abigail looked sheepish, "I... I... Well, its embarrassing."
+Abigail looked sheepish, "I... I... Well, it's embarrassing."
 
 Kyle rolled his eyes, "You've seen into my soul enough that touching me doesn't freak you out anymore. I think some reciprocation would be cool."
 
@@ -218,7 +218,7 @@ A series of stifled girlish giggles caught her ear, and she spun around, glaring
 
 Three human girls stood there, laughing with one another. One of them, her hair black except for the fringe, tinged silver, crossed her arms, glaring, "What's the matter elf? Nymph steal your boyfriend?"
 
-Fiona felt rage hit her, and she glared, "And what would a human know? You are nothing, weak and short lived. Idiots who burn away the best of their years spreading rumors."
+Fiona felt rage hit her, and she glared, "And what would a human know? You are nothing, weak and short lived. Idiots who burn away the best of their years spreading rumours."
 
 The girl uncrossed her arms, taking a wooden necklace from around her neck, "Take it back."
 
