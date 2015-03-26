@@ -76,7 +76,7 @@ It was... Slightly humiliating.
 
 She was a nymph!
 
-Guys were meant to fall everytime she walked around a corner.
+Guys were meant to fall every time she walked around a corner.
 
 And now she was doing something utterly crazy for a guy who wasn't even alive anymore.
 
@@ -124,6 +124,8 @@ He shrugged, "Fine. Only one thing can match a circle of mages. Eight interlinke
 
 ---
 
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+
 His brilliant red eyes darted around, staring at the green grass, the trees with their yellowing leaves. He struggled to fight back his revulsion.
 
 The Shadowlands were dead, nothing but ash and dust. Only a handful of trees remained standing, and they were nothing but burned out hollow husks.
@@ -136,7 +138,7 @@ This was a place he knew well, one he had snuck into countless times, but for le
 
 Andre raised a hand, feeling the enormous army behind him slow to a stop, and he turned to face it, baring his fangs, "We are vampires! There is a man within, who wishes to become a Necromancer!"
 
-Roars of anger greeted him, and he smiled, "Lets tear it down. Brick by brick."
+Roars of anger greeted him, and he smiled, "Let's tear it down. Brick by brick."
 
 ---
 
@@ -163,6 +165,8 @@ They sort out their original creators.
 She smiled grimly, they would not stop her.
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 A stone hand picked his nose idly, flicking it onto the ground. He looked at the bear roasting on the spit, lifting it for a quick bite. He put it back down and looked at his brothers in arms, his family, and he smiled, showing his many missing teeth, "Big army over hills."
 
@@ -206,8 +210,7 @@ She had known that Bellum Draco was powerful, almost beyond compare.
 
 But the truth was more than that.
 
-When he called up a hurricane, it 
-engulfed the entire island upon which the School sat, but the deftness of the magic was apparent, with the wind only affecting those that fought against the School. When fire raced from his hands, it was like a spirit of nature itself, racing through enemies, engulfing and incinerating them like a bushfire.
+When he called up a hurricane, it engulfed the entire island upon which the School sat, but the deftness of the magic was apparent, with the wind only affecting those that fought against the School. When fire raced from his hands, it was like a spirit of nature itself, racing through enemies, engulfing and incinerating them like a bushfire.
 
 He was terrifying to behold.
 
@@ -226,6 +229,8 @@ Despite the number of fallen, and the army fighting beside her, she was outnumbe
 It didn't matter how many she killed, there was no respite. Spell after spell, weapon after weapon reached out to drag her down to her grave.
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 The general in charge of the Malatic Army was a well kept man. His hair was cropped short to his head, his armour perfectly arranged. His eyes were sharp, and his intellect keen.
 
@@ -295,7 +300,9 @@ The elves rushed towards her.
 
 ---
 
-Emmanuel Andrews strode forward, his eyes darting left and right as tents and fires sprang up around him. Cooks dashed to and fro, as soldiers checked their weapons and armor. Smiths were lighting their forges, and sharpening steel on their grindstones.
+![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+
+Emmanuel Andrews strode forward, his eyes darting left and right as tents and fires sprang up around him. Cooks dashed to and fro, as soldiers checked their weapons and armour. Smiths were lighting their forges, and sharpening steel on their grindstones.
 
 He smiled as he passed, thanking a cook here, encouraging a soldier here.
 
@@ -312,6 +319,8 @@ Trolls, vampires, elves and humans.
 This was going to be a bloodbath, whether he wanted it to be or not.
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 General Antonio Guerra slammed the metal spike into the ground, erecting the blood red banner, embossed with a golden phoenix, into the ground.
 
