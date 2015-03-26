@@ -138,7 +138,7 @@ Kyle frowned, feeling like a death threat hung over his head, "What do you mean,
 
 "Don't." Abigail whispered immediately, her voice clouded with fear.
 
-The professor shrugged, "It's your secret, then... But one day very soon, you'll be required to reveal it, or one of you three will die... And i won't be able to bring them back."
+The professor shrugged, "It's your secret, then... But one day very soon, you'll be required to reveal it, or one of you three will die... And I won't be able to bring them back."
 
 Kyle blinked, "Foresight, especially that specific, is incredibly rare... And isn't it Vitamancy? Your opposite?"
 
@@ -180,7 +180,7 @@ The air returned to the room, and the professor grinned, "That is lesson one. No
 
 Kyle stood up slowly, heading towards the door, but he felt a rush of wind, and a hand caught his shoulder. He turned slowly, and Professor Bracken frowned, "Not you. You need an actual lesson. Something new."
 
-Bracken vanished, reappearing at the front of the class, "Come on, join me."
+Bracken vanished, reappearing at the front of the class, "Come join me."
 
 Kyle sighed, concentrating on the vial, and dispersed himself, reconstituting on the stage, "So... You said something about new?"
 
@@ -196,7 +196,7 @@ The professor nodded, "Good, you see where this is going. I've developed a way t
 
 Kyle stared, "Wow... What better way to ruin what little respect the other mages have for us."
 
-Bracken rolled his eyes, "You don't understand at all, do you? The attitude of the aimimancer is that we are the ones with power. We don't care what others think, because we're stronger."
+Bracken rolled his eyes, "You don't understand at all, do you? The attitude of the Aimimancer is that we are the ones with power. We don't care what others think, because we're stronger."
 
 Kyle frowned, "I'm not sure that is a healthy way to look at things."
 
@@ -230,7 +230,7 @@ Bellum crouched over the body and winced, "We need a new Head of Aimimancy."
 
 Professor Duke cocked his head, "Well, we know the killer."
 
-Draco looked up at the necromancer, "Like I care. Kyle did us a favor."
+Draco looked up at the necromancer, "Like I care. Kyle did us a favour."
 
 The necromancer cracked his jaw, "Which sets things in motion. And could end up with one of our most prodigious students being murdered."
 
@@ -246,7 +246,7 @@ The school respected him, knew who he was and what he represented.
 
 But he wasn't sure who he was.
 
-The coming events, that young Kyle Kilroy had set in motion tonight, were insane and nearly impossible for anyone to survive.
+The coming events, which young Kyle Kilroy had set in motion tonight, were insane and nearly impossible for anyone to survive.
 
 ---
 
@@ -274,7 +274,7 @@ Abigail touched his hand gently, "I'm sorry."
 
 Kyle frowned, "How do you know?"
 
-Fiona cringed, the color running out of her hair, "The Headmaster took my detention. Gave me that message for you."
+Fiona cringed, the colour running out of her hair, "The Headmaster took my detention. Gave me that message for you."
 
 Kyle's eyes widened, "You were given detention? For the rock on the girl's head?"
 
