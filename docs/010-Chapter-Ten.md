@@ -1,4 +1,7 @@
 ## Chapter Ten
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+
 Antonio glanced up from his map as a dark man entered the tent, covered in strips of black cloth.
 
 The General of the New Roman army grinned, "Emmanual. So Balsa has finally made a decision, has it?"
@@ -17,7 +20,7 @@ Antonio's hand flew to his hilt, and he winced as he felt his arm and numb and d
 
 He glared, "I have my orders, Emmanuel. You know I have to carry them out."
 
-"I know," the man said gravely, "But I would spare my friend the horrors of battle. You will be replaced by a doppleganger. Your army will return home. Once Kyle Kilroy has resurrected, you will be returned to your people."
+"I know," the man said gravely, "But I would spare my friend the horrors of battle. You will be replaced by a doppelganger. Your army will return home. Once Kyle Kilroy has resurrected, you will be returned to your people."
 
 Antonio ground his teeth, but he knew there was little he could do.
 
@@ -33,7 +36,7 @@ The red light of the sun crept up the molten and wrangled gates, illuminating a 
 
 All around the figure shadowy monsters stalked, victorious expressions of jubilation expressing itself through their body language.
 
-High up on the wall a small group of mages screamed in agony, pitiful bouts of magic still striking out, but the shear number of figures surrounding them revealed the doom of their situation.
+High up on the wall a small group of mages screamed in agony, pitiful bouts of magic still striking out, but the sheer number of figures surrounding them revealed the doom of their situation.
 
 Far behind them the great wooden doors to the school lay shattered and burned, and the shadows of trolls strode to and fro.
 
@@ -215,7 +218,7 @@ Fiona burst out laughing, "Really? Father? You let a vampire kidnap you?"
 
 The king glared down, "You are still a Black Knight, Fiona. You owe your loyalty to me."
 
-She clenched her fists, standing slowly, "Truly? Then why did Kyle have to forcibly take your blood? You know that before his death he was basically the greatest aimimancer in the world."
+She clenched her fists, standing slowly, "Truly? Then why did Kyle have to forcibly take your blood? You know that before his death he was basically the greatest Aimimancer in the world."
 
 Kyle sighed and stood, touching her shoulder gently, "I'm sorry, but I need to go talk to the rest of the idiots here. Something about me being scary now."
 
@@ -241,9 +244,9 @@ Fiona smiled softly, "Firstly, that oath? It says I must protect my nation. If I
 
 King Applesilver's ears leaned backwards, and he bared his teeth, "Are you threatening me, daughter? I raised you. I trained you."
 
-Fiona clenched her fists, "You trained me? No… I was trained by a golem. I was trained by a pyromancer. I was trained by an aimimancer and a necromancer."
+Fiona clenched her fists, "You trained me? No… I was trained by a golem. I was trained by a Pyromancer. I was trained by an Aimimancer and a Necromancer."
 
-Her father spread his hands, whispering, and Fiona laughed, "You're an aquamancer dad."
+Her father spread his hands, whispering, and Fiona laughed, "You're an Aquamancer dad."
 
 She glared, "Contere arrogant spurius lapis, occidamus eum pro me."
 
