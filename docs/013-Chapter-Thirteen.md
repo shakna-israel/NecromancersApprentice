@@ -64,10 +64,10 @@ The creature howled in agony, stepping backwards, and Fiona smiled, "Don't like 
 
 The creature hissed at her from the dark, and then an envelope hit the ground in front of her. Fiona picked it up gingerly and opened it, trusting to her bodyguards. 
 
-```
+---
 "Dear Fiona Applesilver, 
 
-This war has taken a toll, and though we have become seperated, I need you to know that I am looking forward to the day I can see you again. 
+This war has taken a toll, and though we have become separated, I need you to know that I am looking forward to the day I can see you again. 
 
 Peace has been found. 
 
@@ -83,14 +83,14 @@ Fi... I hate to ask... But should it be you?
 
 Let the vampire know. He can't hurt you, something to do with the fact that his soul is my plaything. 
 
-Let me know quick, these people are really angry, and ready to lash out. 
+Let me know quickly, these people are really angry, and ready to lash out. 
 
 So it's the war march soon. 
 
 Kyle, 
 
 Always, your friend." 
-```
+---
 
 Fiona stared at the letter and lowered it slowly, "Tell Kyle... Tell him I have a priority to protect my nation. Even from him." 
 
@@ -102,17 +102,19 @@ She was flung up into the open, and she hit the snowy ground running, knowing th
 
 --- 
 
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+
 Antonio sighed heavily, looking at the remnants of his camp.
 
 The trolls, vampires and elves had certainly done their job.
 
-His men were moving around, repairing tents, carting bodies, and salvaging what they could. Coals were strewn across the ground near the blacksmith's tent, swords were scattered near the armory, and the shatter toothpicks nearby were the remains of his army's supply for arrows.
+His men were moving around, repairing tents, carting bodies, and salvaging what they could. Coals were strewn across the ground near the blacksmith's tent, swords were scattered near the armoury, and the shatter toothpicks nearby were the remains of his army's supply for arrows.
 
-Antonio walked over to his tent with a sigh of frustration, unstrapping his armor as he entered, dropping the chest piece to his left, just as he realised his mistake.
+Antonio walked over to his tent with a sigh of frustration, unstrapping his armour as he entered, dropping the chest piece to his left, just as he realised his mistake.
 
 A small, very sharp, and somewhat shiny blade appeared in his peripheral, and streaked towards him.
 
-Antonio spun, blocking the blow with his armored arm, and gasped as he felt a second blade ram through his unprotected torso.
+Antonio spun, blocking the blow with his armoured arm, and gasped as he felt a second blade ram through his unprotected torso.
 
 He struggled, fighting, and then he collapsed onto his knees, his mouth dribbling blood as he glared up at his assassin.
 
@@ -139,6 +141,8 @@ Emmanuel focused, and began to speak, flames spouting from his hands, "Quaerere 
 He cut off, gasping, as blood poured from his throat, a small dark sticking out of where his voice box had been, and he tumbled forward onto the ground, his hands spasming.
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 Damien yelled angrily, kicking a helmet across the campsite.
 
@@ -192,7 +196,7 @@ Candice glared at them.
 
 They'd taken her clothes, what else had they done to her?
 
-The figure burst out laughing and spun around, "I'm a vitamancer, Miss Silvergate!"
+The figure burst out laughing and spun around, "I'm a Vitamancer, Miss Silvergate!"
 
 She blinked in shock, recognising them, "Professor Gallagher."
 
@@ -207,6 +211,8 @@ Candice smiled weakly, "Right… And now?"
 The professor frowned, "They make up part of the tent. If you can get a fire going, we can dry them out."
 
 ---
+
+![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
 
 Isaac Isaac opened his eyes slowly, feeling like he was crumbling.
 
@@ -254,7 +260,7 @@ He was just the messenger.
 
 But Kyle was pissed, and wanted to take it out on someone.
 
-The foul concotion of nature that vampires were provided him with all the excuse in the universe that he wanted.
+The foul concoction of nature that vampires were provided him with all the excuse in the universe that he wanted.
 
 So it screamed and writhed, soothing the flames of betrayal.
 
@@ -290,7 +296,7 @@ Kyle looked back at the map, "Fi hates me... She wants what I'm doing to fail...
 
 There was a sharp crack and Kyle started, rubbing the back of his head where the tip of Draco's tail had whipped him, and the old professor rolled his eyes, "That's love talking, boy. Not the voice of a leader."
 
-The ventusamancer walked forward, looking at the ruins of the school, "Because, like it or not, you are a leader now, Kyle. Your personal concerns, don't matter. You've put yourself at the head of a new nation, and tried to bend the rest to your will. This will take cunning, skill, and a darker soul than you have, to make sure that the world doesn't tear itself to pieces trying to find a way to kill you."
+The Ventusamancer walked forward, looking at the ruins of the school, "Because, like it or not, you are a leader now, Kyle. Your personal concerns, don't matter. You've put yourself at the head of a new nation, and tried to bend the rest to your will. This will take cunning, skill, and a darker soul than you have, to make sure that the world doesn't tear itself to pieces trying to find a way to kill you."
 
 Kyle frowned, thinking, and then nodded, "Then we need a failsafe. A balance, to keep me in check and give them a sense of security, for now."
 
