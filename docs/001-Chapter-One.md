@@ -60,7 +60,7 @@ The girl swallowed nervously, "Most magic users have to use a channel. They use 
 
 Bateman nodded, "Excellent. That is a key point. Using magic... Is dangerous. If you don't focus, you could do far worse than blow a foot off. I know people, who used to be my friends, we went to this school together... Some of them have no memories. Some of them are missing organs and bones... Others have parts that they were never meant to have in the first place."
 
-The professor's unusually serious face faded and he rubbed his hands together, "I think we have time for one more thing. We are going to make a charm, that can help you out while you're learning. It will block you from using magic while you are wearing it, and you will be expected to wear it at all times from now on, unless you are instructed to remove it."
+The professor's unusually serious face faded and he rubbed his hands together, "I think we have time for one more thing. We are going to make a charm that can help you out while you're learning. It will block you from using magic while you are wearing it, and you will be expected to wear it at all times from now on, unless you are instructed to remove it."
 
 Kyle rubbed his temples, a simple object, true enough... But it would hurt like hell for him to wear... But he should have expected it.
 
@@ -88,13 +88,13 @@ Her name was Fiona Applesilver.
 
 So far, her time at the school had been utter hell.
 
-She wasn't entirely used to it. She knew why everyone hated her, that was all fair enough. The Applesilver family had lead the war, Elves against Humans.
+She wasn't entirely used to it. She knew why everyone hated her - that was all fair enough. The Applesilver family had lead the war, Elves against Humans.
 
 But humans... They didn't blame the families behind the war.
 
 They blamed all elves.
 
-And so, her brilliant gold hair, pointed ears, and eyes with vertical colored slits instead of irises, marked her out. 
+And so, her brilliant gold hair, pointed ears, and eyes with vertical coloured slits instead of irises, marked her out. 
 
 That being said, the school wasn't all just students. If anyone developed an aptitude or interest in magic... They were sent to one of the Eight Schools of Magic around the world.
 
@@ -124,7 +124,7 @@ One of the students jumped onto the table, a man more than a boy, with three sca
 
 He then proceeded to be incredibly astonished at what he had done.
 
-The professor laughed, "Sit down then, boy... And know that I am the Head for the School of Aimimancy. I am likely the most powerful aimimancer you will ever meet... And as protocol, every student here donated some blood. For if you ran away before you were trained... So I could bend you to my will... Another attack on Miss Applesilver... I might bend it a little earlier."
+The professor laughed, "Sit down then, boy... And know that I am the Head for the School of Aimimancy. I am likely the most powerful Aimimancer you will ever meet... And as protocol, every student here donated some blood. For if you ran away before you were trained... So I could bend you to my will... Another attack on Miss Applesilver... I might bend it a little earlier."
 
 Then he turned and walked over to the canteen and proceeded to order his lunch.
 
@@ -142,9 +142,9 @@ Fiona blinked, "Hell... You're Kyle Kilroy."
 
 He winced, "Yes."
 
-Fiona laughed, "And I thought I was hated by the school... You're the youngest aimimancer in a thousand years."
+Fiona laughed, "And I thought I was hated by the school... You're the youngest Aimimancer in a thousand years."
 
-He winced, "Most aimimancers tend to die young, before they're discovered. So I'm not entirely unique."
+He winced, "Most Aimimancers tend to die young, before they're discovered. So I'm not entirely unique."
 
 She laughed, "You invented no less than eight new spells, before you were ten. You, kid, are a magical genius at a magic that most people think is... Disgusting."
 
@@ -154,7 +154,7 @@ Kyle glanced at her carefully, "You aren't sure what to think?"
 
 Kyle laughed, "I think I should explain. I wasn't trying to learn Aimimancy. I was trying to discover something worse. My mother died. Killed by bandits. They tore her limb from limb."
 
-Fiona stared at him in horror, "You were.trying to become... A Necromancer?"
+Fiona stared at him in horror, "You were trying to become... A Necromancer?"
 
 He nodded with a visible twinge of pain, "Yeah."
 
@@ -166,7 +166,7 @@ The tips of her ears tend red, and she swallowed, "I... I'm sort of... Famous. A
 
 Kyle blinked, "Like me, you mean? Someone famous for magic?"
 
-Fiona bit her cheek and sighed, "Fine. May as well say, you'll find out eventually. Most elves are awesome at magic. We do our first spell at birth. It's in our blood, and we don't have to use worded spells, like humans. Thinking them is enough... Most elves become adept at Aeromancy or Aquamancy, and its apparent before their sixteenth birthday. Me, I'm a late bloomer. I wasn't particularly adept at any magic until I was sixty three... And the magic I suddenly became great at using... Was Terramancy."
+Fiona bit her cheek and sighed, "Fine. May as well say, you'll find out eventually. Most elves are awesome at magic. We do our first spell at birth. It's in our blood, and we don't have to use worded spells, like humans. Thinking them is enough... Most elves become adept at Aeromancy or Aquamancy, and it's apparent before their sixteenth birthday. Me, I'm a late bloomer. I wasn't particularly adept at any magic until I was sixty three... And the magic I suddenly became great at using... Was Terramancy."
 
 Kyle frowned, "Huh... I don't see the big deal there... Also, exactly how old are you? You look about twelve, like me."
 
@@ -178,7 +178,7 @@ Fiona sighed, "Didn't want to give anybody more reason to attack me... But Profe
 
 Kyle smiled, "If it's any consolation, I would be happy to watch your back."
 
-Fiona winced, "So the only people who like me are aimimancers? No... Nope. No consolation there."
+Fiona winced, "So the only people who like me are Aimimancers? No... Nope. No consolation there."
 
 Kyle smiled, "Professor Bracken is a half elf."
 
@@ -212,11 +212,11 @@ Another girl shoved the hysterical girl, and then walked over, "You doing okay, 
 
 He raised an eyebrow, "Amy?"
 
-"Short for aimimancer." She shrugged, and he blinked, "Wow... I've only heard that kind of slang on the beach."
+"Short for Aimimancer." She shrugged, and he blinked, "Wow... I've only heard that kind of slang on the beach."
 
 She blushed and scratched the back of her neck, "Heh. Yeah. Beaches are fun."
 
-Kyle frowned, glancing back at the girl still emitting mjffled screams, "What did you do to her?"
+Kyle frowned, glancing back at the girl still emitting muffled screams, "What did you do to her?"
 
 "Removed her mouth. Kind of feeling sorry, so I might give it back... But replace her tongue with a snake's." The brunette grinned at him, "What do you think?"
 
@@ -294,11 +294,11 @@ The room dropped to a hush, and Kyle stared, "Is that the Headmaster? I… I nev
 
 The man standing at the end of the room, behind a long table where all the staff sat, was an impressive sight. Even if one did not know who he was, fear and surprise would grip you tight.
 
-He didn't wear a cloak, like all staff and children, rather, he was covered in an assortment of hard red scales, knitted tightly into an impenetrable armor, as well as black stripes of leather. None of it appeared as clothes, but more as a second skin.
+He didn't wear a cloak, like all staff and children, rather, he was covered in an assortment of hard red scales, knitted tightly into an impenetrable armour, as well as black stripes of leather. None of it appeared as clothes, but more as a second skin.
 
 Headmaster Bellum Draco smiled softly, as everyone stared, and he spoke softly, but his tones rang out, not in volume, but in the soul. You felt him speak into you, rather than at you. "Welcome, students."
 
-He smiled and shrugged, "Today was the beginning of a new year, and we are… We are blessed to have so many of you. Thousands of mages-to-be, from across the globe. Some of you have chosen to be here, and for that, we are exceedingly grateful." The man's expression darkened, and all the lights seemed to flicker, "However, many of you were forced to attend, after learning things too dangerous for you to handle, at least you are not ready, yet. It is to these, and anybody who believes misbehavior can be rewarded, that I speak now. My name means 'War Dragon', I am the only known offspring between a human and a dragon. Which leaves me as the most powerful ventusamancer that this world has ever seen. I have never developed skill, because I have never found a match for my abilities. If this does not dissuade you, the staff here are among the most powerful and skilled mages in the known world. Blood was taken from every student as you arrived. Professor Bracken, is an incredibly skilled aimimancer. If you run away, or prove to be excessively troublesome, rather than tracking you down or bringing you back here, I will simply order your execution, and it will be done."
+He smiled and shrugged, "Today was the beginning of a new year, and we are… We are blessed to have so many of you. Thousands of mages-to-be, from across the globe. Some of you have chosen to be here, and for that, we are exceedingly grateful." The man's expression darkened, and all the lights seemed to flicker, "However, many of you were forced to attend, after learning things too dangerous for you to handle... At least you are not ready, yet. It is to these, and anybody who believes misbehaviour can be rewarded, that I speak now. My name means 'War Dragon', I am the only known offspring between a human and a dragon. Which leaves me as the most powerful Ventusamancer that this world has ever seen. I have never developed skill, because I have never found a match for my abilities. If this does not dissuade you, the staff here are among the most powerful and skilled mages in the known world. Blood was taken from every student as you arrived. Professor Bracken, is an incredibly skilled Aimimancer. If you run away, or prove to be excessively troublesome, rather than tracking you down or bringing you back here, I will simply order your execution, and it will be done."
 
 Kyle felt a chill run down his back at those words, and the Headmaster shrugged, "But for tonight, at least, we feast."
 
@@ -312,7 +312,7 @@ He glanced at her, "Wait… You don't eat meat? Really? It's not just a stereoty
 
 Fiona glared, "Of course it is a stereotype. It's just… Whacky flavours to me."
 
-Kyle raised an eyebrow and Fiona sighed, "Fine. Most elves are vegitarian. We kind of… See the soul that died… When we eat."
+Kyle raised an eyebrow and Fiona sighed, "Fine. Most elves are vegetarian. We kind of… See the soul that died… When we eat."
 
 He winced, "Ouch. Vitamancy has some drawbacks."
 
@@ -374,13 +374,13 @@ The water nymph rubbed her eyes, "Guys… Just… I'll tell you tomorrow. Just n
 
 Kyle winced, feeling an odd mixture of emotion, and awkwardly patted the girl's arm. She stared at him, "Dude. Thanks… But don't touch me again."
 
-He looked at her dumbfounded and Fiona glared at him, "Kyle. You're an aimimancer. She's a vitamancer. You just showed her your soul."
+He looked at her dumbfounded and Fiona glared at him, "Kyle. You're an Aimimancer. She's a Vitamancer. You just showed her your soul."
 
 His face drained of colour, "Damn… I am so… so… sorry…"
 
 Abigail smiled weakly, "It wasn't… As terrible as I thought it would be." She shrugged, "Not that you aren't dark. You're nearly pitch black… I just expected a bit more insanity to you, is all."
 
-"Don't pity me." He said quickly, with less force than he had meant, and Abigail laughed, "Kyle, I didn't mean it. It's just something that would take some getting used to… A vitamancer doesn't just see your soul… They see the defining memories that colour your life. Watching a dozen people die, someone's descent into madness, or someone's greatest fears… Not something you can handle when you're as young as I am."
+"Don't pity me." He said quickly, with less force than he had meant, and Abigail laughed, "Kyle, I didn't mean it. It's just something that would take some getting used to… A Vitamancer doesn't just see your soul… They see the defining memories that colour your life. Watching a dozen people die, someone's descent into madness, or someone's greatest fears… Not something you can handle when you're as young as I am."
 
 Kyle turned, "That reminds me, Fiona, how old are you?"
 
@@ -412,7 +412,7 @@ Kyle frowned, "What the hell did she do to you?"
 
 Fiona swallowed, "She placed a Vault inside Abigail's head. A place that can trap unwanted memories, for a short time. The Vault collapses when you sleep next, and the memories come back. Gives you some fairly terrible nightmares."
 
-Abigail smiled weakly, "Yeah… Except I don't like forgetting things, so its sapping my magic instead."
+Abigail smiled weakly, "Yeah… Except I don't like forgetting things, so it's sapping my magic instead."
 
 The two looked at her in concern and she stood up, "I'm going for a swim."
 
