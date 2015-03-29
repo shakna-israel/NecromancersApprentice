@@ -1,0 +1,17 @@
+rm CONTRIBUTING.md
+rm LICENSE.md
+rm README.md
+cp docs/CONTRIBUTING.md CONTRIBUTING.md
+cp docs/LICENSE.md LICENSE.md
+cp docs/index.md README.md
+mkdocs build --clean
+mkdocs json
+cd site
+git init
+git add .
+git commit -am "Automatic Build"
+git remote add origin https://github.com/shakna-israel/NecromancersApprentice.git
+git checkout -b gh-pages
+git push origin -f gh-pages
+cd ..
+rm -rf site
