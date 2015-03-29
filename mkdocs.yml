@@ -6,6 +6,7 @@ site_author: shakna-israel
 use_directory_urls: true
 pages:
 - [index.md, Home]
+- [Contents.md, Contents]
 - [LICENSE.md, License]
 - [CONTRIBUTING.md, Contributing]
 - [000Prologue.md, Prologue]
@@ -24,3 +25,4 @@ pages:
 - [013-Chapter-Thirteen.md, Chapter Thirteen]
 - [014-Chapter-Fourteen.md, Chapter Fourteen]
 - [015-Chapter-Fifteen.md, Chapter Fifteen]
+- [Contents.md, Contents]
