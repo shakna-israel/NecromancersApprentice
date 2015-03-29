@@ -6,6 +6,7 @@ site_author: shakna-israel
 use_directory_urls: true
 pages:
 - [index.md, Home]
+- [000-Contents.md, Contents]
 - [LICENSE.md, License]
 - [CONTRIBUTING.md, Contributing]
 - [000Prologue.md, Prologue]
