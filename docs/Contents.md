@@ -4,7 +4,7 @@
 * [License](LICENSE.md)
 * [Contributing](CONTRIBUTING.md)
 ---
-* [Prologue](000Prologue.md)
+* [Prologue](000-Chapter-Zero.md)
 * [Chapter One](001-Chapter-One.md)
 * [Chapter Two](002-Chapter-Two.md)
 * [Chapter Three](003-Chapter-Three.md)
