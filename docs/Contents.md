@@ -20,3 +20,5 @@
 * [Chapter Thirteen](013-Chapter-Thirteen.md)
 * [Chapter Fourteen](014-Chapter-Fourteen.md)
 * [Chapter Fifteen](015-Chapter-Fifteen.md)
+* [Chapter Sixteen](015-Chapter-Sixteen.md)
+* [Chapter Seventeen](015-Chapter-Seventeen.md)
