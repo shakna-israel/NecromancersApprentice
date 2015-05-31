@@ -1,6 +1,6 @@
 #Chapter Fifteen
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Brioni looked at her as she crossed a hillside, "Are you sure?"
 
@@ -46,8 +46,7 @@ Brioni smiled sadly at the young Pyromancy, "No… I'm afraid it is not."
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
-
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona glanced up from the map as a castle servant sprinted into the room, a young female elf, dressed in the traditional green of a housecarl, "Yes?"
 
@@ -247,7 +246,7 @@ Fiona shrugged, "We've faced off against worse."
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail shivered by the shoreline, hugging her arms to herself as she felt her breathing slow.
 
@@ -275,7 +274,7 @@ Her eyes fluttered again, revealing a blurry figure, "Kyle?"
 
 ---
 
-![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
 
 Bellum looked at the bedraggled four lying in the remains of the infirmary, a young human mage dancing over them, and he sighed heavily, "What is their condition?"
 
@@ -319,7 +318,7 @@ Duke shrugged, "How could a Vitamancer learn Aimimancy so easily? It's not exact
 
 ---
 
-![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 Abigail was in a dark room.
 
@@ -437,7 +436,7 @@ Abigail smiled as she watched Kyle form the wooden charm, and then the world was
 
 ---
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Candice sat up in the bed, groaning and holding her head. She took in the room with a glance.
 
@@ -515,7 +514,7 @@ How could it have happened?
 
 ---
 
-![Messormancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Messormancy.svg)
+![Messormancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Messormancy.svg)
 
 Abigail paused in the hallway, or what little was left of it, and let out a sad sigh.
 
@@ -571,7 +570,7 @@ What in hell's gates was wrong with her?
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona sat cross-legged in the round room that served as the courtroom, staring at a figure made of stone.
 
@@ -607,7 +606,7 @@ Fiona glared, "Still say this is all your fault."
 
 ---
 
-![Messormancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Messormancy.svg)
+![Messormancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Messormancy.svg)
 
 "... Monster." Abigail finished her analysis.
 
@@ -714,8 +713,7 @@ Abigail sighed as the branches receded, "Thank you..."
 
 ---
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
-
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Candice stood on the rooftop, looking at the military camps outside the city walls, their fires dotted the landscape. She knew they were there, but still struggled to understand it.
 
@@ -735,7 +733,7 @@ How dare he?
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle reappeared in the military planning office, "Bellum!"
 

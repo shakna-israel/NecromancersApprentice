@@ -8,7 +8,7 @@ One of those few, one of the students, was named Kyle Kilroy.
 
 ---
 
-![Aimimancer](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancer](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 Kyle scratched his neck, nervous.
 
@@ -82,7 +82,7 @@ He winced.
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Her name was Fiona Applesilver.
 
@@ -186,7 +186,7 @@ Fiona blinked, "Oh. That explains a lot."
 
 ---
 
-![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 Kyle sighed as he walked, heavy books in hand, towards his next class.
 
@@ -248,7 +248,7 @@ She smiled, "Nice to meet you, Kyle." The water nymph turned and walked towards 
 
 ---
 
-![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 Bateman was enigmatic, and a little bit pissed with Kyle.
 
@@ -278,7 +278,7 @@ The clock chimed overhead and Bateman smiled, "Back to the Great Hall, for dinne
 
 ---
 
-![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 Kyle sat down at the same table, surprised when the elf from lunch appeared shortly after. She smiled as she sat, "I hope dinner is something a little… Nicer… Than lunch."
 

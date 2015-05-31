@@ -1,6 +1,6 @@
 ## Prologue
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 "First there was nothing.
 

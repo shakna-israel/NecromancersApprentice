@@ -1,6 +1,6 @@
 #Chapter Fourteen
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Brioni rubbed her hands over the fire, smiling at the young Pyromancer, who just squatted there - glaring into the flames.
 
@@ -40,7 +40,7 @@ Candice winced, her eyes glazing, "I was four. It ate my mother in front of me."
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Isaac Isaac yelled loudly, his voice bellowing down the hallways as he shattered the brickwork that was once a doorway.
 
@@ -70,7 +70,7 @@ The nymph shrugged, and then the magic vanished and the troll tumbled as he fell
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Duke groaned, sitting up slowly, his roots rebinding together from a lumpen mass into his more familiar form. He took stock of his surroundings, patiently waiting for his memory to return.
 
@@ -136,7 +136,7 @@ The truth was far worse.
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle paced the room, both scared and angry.
 
@@ -278,7 +278,7 @@ The student shrugged, "I know… Now… Let's make some new magic."
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona leaned on her knees, gasping for air.
 

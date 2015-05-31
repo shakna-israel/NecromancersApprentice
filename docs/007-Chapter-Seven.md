@@ -1,6 +1,6 @@
 ## Chapter Seven
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona skidded into the room, glaring at the lone half-dragon occupying the room.
 
@@ -48,7 +48,7 @@ Draco shook his head, "Once this is over... I'm going to kill Kyle, myself. Unde
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail stood on a stone wall, looking out across the cliff, at the armies waiting below.
 
@@ -100,7 +100,7 @@ Abigail smiled, looking at the army marching towards the school walls, and she l
 
 ---
 
-![Aquamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aquamancy.svg)
+![Aquamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aquamancy.svg)
 
 King Alfr Applesilver sat in a heavily guarded tent, staring down at a map, with a dozen small magical representations of soldiers scurrying over it.
 
@@ -124,7 +124,7 @@ He shrugged, "Fine. Only one thing can match a circle of mages. Eight interlinke
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 His brilliant red eyes darted around, staring at the green grass, the trees with their yellowing leaves. He struggled to fight back his revulsion.
 
@@ -142,7 +142,7 @@ Roars of anger greeted him, and he smiled, "Let's tear it down. Brick by brick."
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 A scream of rage boiled out of the nymph's throat, as Abigail flicked her wand, twisting aside a spell, glaring down at the Elvish circle.
 
@@ -166,7 +166,7 @@ She smiled grimly, they would not stop her.
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 A stone hand picked his nose idly, flicking it onto the ground. He looked at the bear roasting on the spit, lifting it for a quick bite. He put it back down and looked at his brothers in arms, his family, and he smiled, showing his many missing teeth, "Big army over hills."
 
@@ -198,7 +198,7 @@ The roar that answered him shook the ground.
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona's ears were bent back beside her head, her hair jet black and her eyes as red as any vampires. She hissed between words, dodging the spears, swords and fists clamouring for her head.
 
@@ -230,7 +230,7 @@ It didn't matter how many she killed, there was no respite. Spell after spell, w
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 The general in charge of the Malatic Army was a well kept man. His hair was cropped short to his head, his armour perfectly arranged. His eyes were sharp, and his intellect keen.
 
@@ -272,7 +272,7 @@ Haralson stared at the spy, "He's here, himself? Hells bells… Let's try and st
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 The nymph swore violently as a bolt of lightning struck.
 
@@ -300,7 +300,7 @@ The elves rushed towards her.
 
 ---
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Emmanuel Andrews strode forward, his eyes darting left and right as tents and fires sprang up around him. Cooks dashed to and fro, as soldiers checked their weapons and armour. Smiths were lighting their forges, and sharpening steel on their grindstones.
 
@@ -320,7 +320,7 @@ This was going to be a bloodbath, whether he wanted it to be or not.
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 General Antonio Guerra slammed the metal spike into the ground, erecting the blood red banner, embossed with a golden phoenix, into the ground.
 

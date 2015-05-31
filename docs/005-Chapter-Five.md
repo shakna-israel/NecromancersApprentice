@@ -1,6 +1,6 @@
 ## Chapter Five
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle let loose an earth wrenching scream of agony and sat up.
 
@@ -56,7 +56,7 @@ Kyle smiled and turned, "My name is Kyle Kilroy. If we're stuck here for a while
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Professor Duke was sitting behind a text, gently turning the pages of a book. The pages were black, with embroidered golden text, in a language which was half imagery, half symbols that Kyle had never seen.
 
@@ -106,7 +106,7 @@ Kyle walked through the professor's door, more than a little frustrated and anno
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona sat down at the table quietly, looking at the lunch meal in front of her.
 
@@ -178,7 +178,7 @@ They'd seen him, if for a moment.
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle punched the air.
 
@@ -214,7 +214,7 @@ Kyle smiled slowly, one of the key concepts for Necromancy had to be time, it's 
 
 ---
 
-![Sanamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Sanamancy.svg)
+![Sanamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Sanamancy.svg)
 
 Professor Maidr fluttered her tiny wings in frustration as she looked down at the young girl in her care.
 
@@ -246,7 +246,7 @@ Maidr stared down at the young girl and drew a small wand, made from the feather
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona sat in her chair, yawning tiredly.
 
@@ -342,7 +342,7 @@ She had seen the spear, why hadn't she stopped it?
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail sat in the girl's bathroom, her hands immersed into a sink full of water.
 
@@ -386,7 +386,7 @@ The bubbles vanished and Abigail burst into heavier tears, leaning on the sink, 
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona sat outside, on a rooftop, staring at the pale white mountains.
 
@@ -424,7 +424,7 @@ He was taking her heart with it.
 
 ---
 
-![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
 
 Bellum Draco stood atop the highest peak of the castle, his tail wrapped around a spire for support, and he looked out from his vantage point.
 
@@ -452,7 +452,7 @@ He sighed, he needed to call a Board meeting.
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail couldn't sleep.
 

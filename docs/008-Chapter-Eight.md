@@ -1,6 +1,6 @@
 ## Chapter Eight
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Bateman swore, leaping from the wall, surrounding himself in flames as he fell.
 
@@ -32,7 +32,7 @@ Abigail roared, and the elves exploded from the inside out as their organs becam
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Trolls can't creep.
 
@@ -64,7 +64,7 @@ Isaac shrugged and sat down cross-legged, "I am troll. I wait."
 
 ---
 
-![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
 
 He could feel his other nature, the one he was ashamed of, the one that was his heritage and power, beginning to overwhelm him.
 
@@ -112,7 +112,7 @@ He winced, "Sound the retreat. Get everyone inside the school. They win this rou
 
 ---
 
-![Aquamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aquamancy.svg)
+![Aquamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aquamancy.svg)
 
 The elvish king turned with a heavy glare as the messenger he had sent appeared, breathing raggedly, covered from head to toe in blood.
 
@@ -142,7 +142,7 @@ He turned back to his map, "Go quick, kid… The war rests on it."
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Haralson looked at the messenger, a well-trained and battled soldier, one who had seen more than his fair share of blades and magic.
 
@@ -166,7 +166,7 @@ The School of History and Magic had had their bluff called - unless they handed 
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Andre smiled toothily, perching on the edge of a tower overlooking the school, his shadowy form blending into the long-casted shadows of the midday sun, but his attention was no longer focused on the school.
 
@@ -224,7 +224,7 @@ Andre placed a clawed hand against Applesilver's head, "Now then… How much tor
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Antonio Guerra stood at the top of a hill, a man holding a banner to his left, and a single broadsword was in his hands, he called out loudly, "Trolls! Cease your attack!"
 
@@ -260,7 +260,7 @@ Antonio waved a hand round, "Look around. Within two minutes of our arrival, you
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail swallowed nervously, "This suddenly got harder."
 
@@ -284,7 +284,7 @@ She lay on the ground breathing hard, looking up at the sky, "Huh… No vampires
 
 ---
 
-![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
 
 "I can't do anymore." Professor Maidr said sadly, looking at the young elf lying on a stretcher, just inside the gate.
 

@@ -1,6 +1,6 @@
 ## Chapter Three
 
-![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 Bellum Draco looked at Kyle, smiling the smile of his more fiery ancestors, and the student shivered.
 
@@ -58,7 +58,7 @@ The Headmaster turned, his scales bursting into flames, "That will be all."
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona sat down at the table, dodging a pancake thrown at her head.
 
@@ -152,7 +152,7 @@ Abigail just stood up quietly, and walked away. Shoulders slumped, head down.
 
 ---
 
-![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 "I am the Professor of Aimimancy." The teacher at the front of the room began, "I am Samuel Bracken."
 
@@ -224,7 +224,7 @@ Bracken tried to speak, and black liquid poured from his mouth, and Kyle smiled,
 
 ---
 
-![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
 
 Bellum crouched over the body and winced, "We need a new Head of Aimimancy."
 
@@ -250,7 +250,7 @@ The coming events, which young Kyle Kilroy had set in motion tonight, were insan
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail cocked her head, "Who'd you kill to cover yourself in that much blood?"
 

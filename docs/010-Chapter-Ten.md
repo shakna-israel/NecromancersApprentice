@@ -1,6 +1,6 @@
 ## Chapter Ten
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Antonio glanced up from his map as a dark man entered the tent, covered in strips of black cloth.
 
@@ -30,7 +30,7 @@ He shrugged, "Do as you will."
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 The red light of the sun crept up the molten and wrangled gates, illuminating a fallen figure in a pool of liquid, reflecting the sunlight.
 
@@ -110,7 +110,7 @@ Abigail grinned.
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle knelt over Fiona, his hands humming with magic, as he held her head, tears in his eyes.
 
@@ -232,7 +232,7 @@ Kyle rolled his eyes, "What are they going to do? Kill me?"
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona glared at her father as Kyle left the room.
 
@@ -256,7 +256,7 @@ Fiona shook her head, "There's no water here."
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle walked into the room slowly, trying to ignore what he had heard down the hall, it was Fiona's choice.
 

@@ -1,6 +1,6 @@
 ## Chapter Eleven
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail stared as she emerged from the water.
 
@@ -40,7 +40,7 @@ The professor shrugged as they began to walk, "To be honest… Nowhere is safe u
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona stepped into the sunlight cautiously, as the door creaked shut behind her.
 
@@ -106,7 +106,7 @@ Fiona winced. There went the subtlety of her escape.
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 "I am Emmanuel Andrews, leader of the Balsa Army." One of the generals said at length, as the others continued to stare at the stone that was Isaac Isaac, "My queen bid that I take my army, to protect you. It seems, you have no need of protection, anymore."
 
@@ -160,7 +160,7 @@ He turned away, "If one of you doesn't kill him, I'll kill you all."
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail smiled softly as she crested the hill beside the dryad, her eyes sparkling, "Awesome."
 

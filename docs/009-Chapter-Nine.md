@@ -1,6 +1,6 @@
 ## Chapter Nine
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail limped inside the infirmary, looking around, and spotted one of the younger Sanamancers healing a professor, and grabbed her, "Where's Maidr? We need her at the front. Things are getting crazy."
 
@@ -30,7 +30,7 @@ Bateman bit the inside of his cheek and she looked at him, "Wait… Something wr
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona stared wide-eyed at the world.
 
@@ -52,7 +52,7 @@ Fiona sat bolt upright, and immediately she was stabbed with more pain than she 
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Andre pulled his hand out of the elf's chest, glaring at the vampire who was interrupting his torture, "What is it?"
 
@@ -72,7 +72,7 @@ He touched down onto the soil softly, and walked inside the cave, dumping King A
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail spun a wave of magic at the wall of arrows falling over the gate towards the two professors and one prone form. They spun in the air, screeching and flew back towards the soldiers who had fired them.
 
@@ -126,7 +126,7 @@ Abigail felt the anger flowing through her, the hatred, seeking a target, and sh
 
 ---
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 The general of the Balsa Army sat in a tree, eating an apple. 
 
@@ -150,7 +150,7 @@ They wanted to bring him back.
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 There were nine vampiric armies in the Shadowlands. Seven had come to destroy the abomination hidden behind a castle wall, defended by a thousand mages.
 

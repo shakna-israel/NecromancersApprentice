@@ -1,6 +1,6 @@
 #Chapter Thirteen
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Adrian landed on the shoreline with a thud, cracking the frozen ground, and he kept his eyes fixed on the cave. He spoke loudly, hoping the girl on her hands and knees could comprehend him, "Are you okay, Miss Ignis?" 
 
@@ -28,7 +28,7 @@ Then he felt something seize his questing root, and the world vanished from sigh
 
 --- 
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona yawned, sitting up slowly, instinctively reaching for a bow that was no longer there. 
 
@@ -102,7 +102,7 @@ She was flung up into the open, and she hit the snowy ground running, knowing th
 
 --- 
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Antonio sighed heavily, looking at the remnants of his camp.
 
@@ -124,7 +124,7 @@ Antonio collapsed backwards, the world going black.
 
 ---
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Emmanuel sighed heavily as he sat on the edge of his hammock, thinking hard.
 
@@ -142,7 +142,7 @@ He cut off, gasping, as blood poured from his throat, a small dark sticking out 
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Damien yelled angrily, kicking a helmet across the campsite.
 
@@ -174,7 +174,7 @@ And then he fell forwards onto his face.
 
 ---
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Candice blinked blearily, fighting back a yawn as confusion washed over her.
 
@@ -212,7 +212,7 @@ The professor frowned, "They make up part of the tent. If you can get a fire goi
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Isaac Isaac opened his eyes slowly, feeling like he was crumbling.
 
@@ -250,7 +250,7 @@ The golem nodded slowly, "Be careful, Isaac Isaac. You may awaken the same feeli
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle glared at the vampire screaming on the ground in front of him.
 

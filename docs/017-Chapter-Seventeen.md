@@ -1,6 +1,6 @@
 #Chapter Seventeen
 
-![Messormancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Messormancy.svg)
+![Messormancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Messormancy.svg)
 
 Abigail's steps were silent as she crept around the corners of the familiar hallways, desperately trying to ignore the statues that would turn and stare at her.
 
@@ -108,7 +108,7 @@ Abigail shrugged, "Come get your relief."
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Duke was thrown against a wall, black tentacles encircling each of his roots, and he stared down at a bastardised form of himself.
 
@@ -174,7 +174,7 @@ He'd tried to teach Kyle, but now... He pitied the living.
 
 ---
 
-![Messormancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Messormancy.svg)
+![Messormancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Messormancy.svg)
 
 Abigail slammed the butt of her scythe into the ground and the black liquid attempting to wash over her was shoved away, and she was left in a bubble of air, as the liquid lay frozen, washing above her in a frozen wave.
 
@@ -270,7 +270,7 @@ Armies rose and died, as he held her in his arms.
 
 ---
 
-![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
 
 Draco looked over as a wall was shattered to pieces, a dozen stone soldiers looking directly at him, and he frowned, "The heir of the College has already been found... What do you want with me?"
 
@@ -358,7 +358,7 @@ Draco shivered, and then another figure entered the room slowly, an Elven man, a
 
 ---
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Candice froze as the world around her grew dark. She muttered a spell, holding a fireball at the ready.
 
@@ -440,8 +440,7 @@ Kyle shook his head, "No big or loud magic... Ever wanted to be able.to fly like
 
 ---
 
-![Messormancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Messormancy.svg)
-
+![Messormancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Messormancy.svg)
 
 Braun sat down in a chair carefully, letting out a long sigh of satisfaction.
 

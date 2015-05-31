@@ -1,6 +1,6 @@
 #Chapter Twelve
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail felt the weight of the past few days fading as her feet touched the water.
 
@@ -44,7 +44,7 @@ Here in the water… She was free.
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona was far more used to sneaking around, with a bow or a wand.
 
@@ -78,7 +78,7 @@ Would he?
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Adrian Duke waded through the waters, slowly and carefully, as was the way of his ancient people.
 
@@ -116,7 +116,7 @@ Duke was lost within his dark brooding thoughts as he slowly crossed the river.
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail emerged dripping from the water, breathing hard, and she paused her breath frosted in the air.
 
@@ -188,7 +188,7 @@ What the crap had just happened?
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona trudged through the snow, surrounding her up to her waist.
 
@@ -222,7 +222,7 @@ He turned and signalled to the other soldiers, and they immediately began to pum
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle looked at the council of men he had gathered together.
 
@@ -244,7 +244,7 @@ He looked up, and smiled softly, "Who's next?"
 
 ---
 
-![Pyromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Pyromancy.svg)
+![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
 
 Candice Silvergate collapsed, shaking involuntarily from the cold.
 

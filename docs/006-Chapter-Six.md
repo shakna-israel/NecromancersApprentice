@@ -1,6 +1,6 @@
 ## Chapter Six
 
-![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
 
 Bellum looked down at the young girl standing in front of him, and he cocked his head, "You wanted to talk?"
 
@@ -56,7 +56,7 @@ Abigail looked back at the patch of burned stone, "Make an entrance. What else?"
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona jerked awake, fists clenched, and she collapsed backwards onto the bed when she saw who it was.
 
@@ -182,7 +182,7 @@ Abigail slapped her own face, "That is so… Corny."
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail swallowed, looking at the room of professors, it wasn't all of them, only half a dozen. But these were men, women and others that had spent her lifetime as masters of their skills.
 
@@ -253,7 +253,7 @@ Kyle vanished.
 
 ---
 
-![Ventusamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
 
 Bellum Draco sat at the head of a table, with seven others sitting around the table. They were parents of past and present students, but more importantly they were the heads of the most powerful families remaining in the world.
 

@@ -1,6 +1,6 @@
 ## Chapter Four
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona dashed into the classroom, breathing a sigh of relief. No teacher in sight. Just a clay statue at the front of the room.
 
@@ -28,7 +28,7 @@ She burst into tears.
 
 ---
 
-![Vitamancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Vitamancy.svg)
+![Vitamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Vitamancy.svg)
 
 Abigail yawned as Professor Bateman yammered on about the dangerous nature of fire, and how a Pyromancer is always right on the edge of dying.
 
@@ -90,7 +90,7 @@ Her future looked bleak - they'd torture her, and then Break her.
 
 ---
 
-![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 Kyle gritted his teeth, trying as hard as he could.
 
@@ -112,7 +112,7 @@ The golem let out a slow sound of disgust, followed by one dark word.
 
 ---
 
-![Aimimancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Aimimancy.svg)
+![Aimimancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Aimimancy.svg)
 
 Kyle sat, feeling an unusual amount of fear.
 

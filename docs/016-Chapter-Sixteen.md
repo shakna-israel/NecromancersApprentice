@@ -1,6 +1,6 @@
 # Chapter Sixteen
 
-![Messormancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Messormancy.svg)
+![Messormancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Messormancy.svg)
 
 Abigail stared at the room, feeling as if it were empty.
 
@@ -36,7 +36,7 @@ She'd faded back into Limbo.
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Kyle reappeared with a pop beside her, and Fiona frowned, "News?"
 
@@ -174,7 +174,7 @@ Kyle tensed, and yelled, "Run, Fi!"
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Kyle stared at the elf, laughing and tossing his weapon from hand to hand.
 
@@ -210,7 +210,7 @@ Kyle breathed out a sigh of relief.
 
 ---
 
-![Messormancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Messormancy.svg)
+![Messormancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Messormancy.svg)
 
 Abigail paused, staring at the figure as he stepped out of the ground, "Now what?"
 
@@ -258,7 +258,7 @@ She hoped she had made the right decision.
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Duke stared at the man shivering in the bed, and glanced at Abigail, "You're sure he was a Reaper?"
 
@@ -308,7 +308,7 @@ Duke nodded, "Indeed."
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona paused out of breath, and looked around herself fearfully, at all the elves frozen in place.
 
@@ -418,7 +418,7 @@ Then he was.gone.
 
 ---
 
-![Necromancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Necromancy.svg)
+![Necromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Necromancy.svg)
 
 Shadows take his burning soul!
 
@@ -538,7 +538,7 @@ Kyle clenched a fist, the circles sprang outwards, encompassing the entire city,
 
 He glared down, "The Pact believes what I am to be an abomination. They mean to destroy this city, and what I care for... But this city is protected."
 
-A.dwarven commander hefted his axe and then tossed it, the blade flying towards Kyle.
+A dwarven commander hefted his axe and then tossed it, the blade flying towards Kyle.
 
 He felt.shock hit him.
 
@@ -556,7 +556,7 @@ The axe flew closer.
 
 ---
 
-![Mundane](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Mundane.svg)
+![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
 
 Isaac Isaac burst through the stone wall, barely pausing before plowing through the army in his wake, his hand grabbing the small weapon out of the air and crushing it.
 
@@ -632,7 +632,7 @@ He would call the sword, *War*.
 
 ---
 
-![Terramancy](https://cdn.rawgit.com/shakna-israel/NecromancersApprentice/master/docs/img/Symbol_Terramancy.svg)
+![Terramancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Terramancy.svg)
 
 Fiona fell backwards, the stone around her arm shattering to dust.
 
