@@ -39,6 +39,7 @@ Kyle smiled grimly, and the Headmaster's face took on a look of fear as the sun 
 "Headmaster, run. This is what I came for. The Portal to the Other Side, guarded by the army of Reapers."
 
 "One Reaper nearly killed you!" Black shouted angrily, and Kyle laughed, "Until right now... I have used Necromancy a total of four times. Aimimancy alone has been my strength... I am ready for this."
+
 ---
 
 ![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
