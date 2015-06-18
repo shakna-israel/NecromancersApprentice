@@ -173,7 +173,7 @@ If it weren't for the sheer rage of the dragon he'd be dead already, and if he f
 
 A spell he'd only ever read about, and never dared to try and conjure entered his mind.
 
-It was destructive, and focused on a genetic trait, causing many thousands to die… But there was only one like Draco.
+It was destructive, and focused on a genetic trait, causing many thousands to die... But there was only one like Draco.
 
 He cast it.
 
@@ -235,15 +235,15 @@ That was a bad sign.
 
 He just had to transport himself without touching Elvish soil. He'd already managed to convince his late Queen's spell that his house didn't really belong to the Kingdom. That had been easy. A little Aimimancy.
 
-The minimum size of the portal had to be related to the energy required to generate it, not just the distance covered… Otherwise he'd have made the portal already… What was the math Kilroy had sketched out?
+The minimum size of the portal had to be related to the energy required to generate it, not just the distance covered... Otherwise he'd have made the portal already... What was the math Kilroy had sketched out?
 
 A boulder about ten times his body wait hit the ground and kept going.
 
 Negative mass.
 
-He'd assumed that magic could simply equate for that, cancel out the negative mass of the tunnel with a positive mass… But maybe not.
+He'd assumed that magic could simply equate for that, cancel out the negative mass of the tunnel with a positive mass... But maybe not.
 
-If it didn't cancel out, then you had to adjust the frequency of the fields employed until everything was positive, and physics would take over and create the negative… And rip open a tunnel that you could pass through.
+If it didn't cancel out, then you had to adjust the frequency of the fields employed until everything was positive, and physics would take over and create the negative... And rip open a tunnel that you could pass through.
 
 Ilgun suddenly flung himself aside as his whole cloud turned into a churning fireball and hit the ground.
 
@@ -259,11 +259,11 @@ The old dryad stared at the school as it fell apart.
 
 How had this happened?
 
-Abigail… Sweet little Abigail… Tore his soul out of his body, stripped him of magic, and bound him to watch the world waste away.
+Abigail... Sweet little Abigail... Tore his soul out of his body, stripped him of magic, and bound him to watch the world waste away.
 
 He'd been forced to watch as Bracken was sent back from the depths of Hades, and succeeded in his mission to kill Bellum Draco, one of the greatest men he had ever known.
 
-Magic without reason… He'd always thought it worse than the mundane… But now he was one.
+Magic without reason... He'd always thought it worse than the mundane... But now he was one.
 
 He was Broken.
 
@@ -273,7 +273,7 @@ His friends were killed.
 
 His last and only student, Kyle Kilroy, was on a suicide mission to take on Death herself, and Abigail thought she fit the role.
 
-It would be a fight for the ages… But he couldn't help feeling Kyle would give his soul willingly, just so that one day, Abigail might just find herself again.
+It would be a fight for the ages... But he couldn't help feeling Kyle would give his soul willingly, just so that one day, Abigail might just find herself again.
 
 There was no way out of this, not this time.
 
@@ -333,11 +333,11 @@ She shook her head, "You're insane. There's got to be twenty thousand. Maybe mor
 
 Kyle shrugged, "Girl, I've already died."
 
-Candice winced, "Yeah… Not sure if Necromancy counts as living."
+Candice winced, "Yeah... Not sure if Necromancy counts as living."
 
-Kyle laughed, "Can't argue with that… But I can do this, you don't need to be here."
+Kyle laughed, "Can't argue with that... But I can do this, you don't need to be here."
 
-Candice rolled her eyes, "You don't get it, do you? This is it, Kyle. There's nothing else. If I ran away, I'd have maybe a year to enjoy living. The dead are on the march. The Other Side is here to break everything, and kill everyone… And there's no one left to stop them. Run or don't run, it doesn't matter anymore… So I will be a Silvergate. I will fight."
+Candice rolled her eyes, "You don't get it, do you? This is it, Kyle. There's nothing else. If I ran away, I'd have maybe a year to enjoy living. The dead are on the march. The Other Side is here to break everything, and kill everyone... And there's no one left to stop them. Run or don't run, it doesn't matter anymore... So I will be a Silvergate. I will fight."
 
 He nodded slowly, a seriousness finally lighting in his eyes, and understanding of the stakes they were playing for.
 
