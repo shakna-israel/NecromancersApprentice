@@ -3,7 +3,9 @@
 * [Home](index.md)
 * [License](LICENSE.md)
 * [Contributing](CONTRIBUTING.md)
+
 ---
+
 * [Prologue](000-Chapter-Zero.md)
 * [Chapter One](001-Chapter-One.md)
 * [Chapter Two](002-Chapter-Two.md)
@@ -23,3 +25,4 @@
 * [Chapter Sixteen](016-Chapter-Sixteen.md)
 * [Chapter Seventeen](017-Chapter-Seventeen.md)
 * [Chapter Eighteen](018-Chapter-Eighteen.md)
+* [Chapter Nineteen](019-Chapter-Nineteen.md)
