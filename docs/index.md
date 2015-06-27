@@ -1,4 +1,4 @@
-![Chapters](https://img.shields.io/badge/Chapters-19%2F20-brightgreen.svg)
+![Chapters](https://img.shields.io/badge/Chapters-20%2F20-brightgreen.svg)
 
 ![Necromancer's Apprentice](http://necromancersapprentice.shaknaisrael.com/img/frontCover.jpg)
 
