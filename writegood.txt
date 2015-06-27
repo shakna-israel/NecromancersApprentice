@@ -1,0 +1,4331 @@
+In 000Prologue.md
+=============
+And it was taken from us.
+    ^^^^^^
+"it was" is wordy or unneeded on line 15 at column 4
+-------------
+And it was taken from us.
+       ^^^^^^^^^
+"was taken" may be passive voice on line 15 at column 7
+-------------
+A few survived.
+  ^^^
+"few" is a weasel word on line 19 at column 2
+-------------
+So many of us did… Paid the last price…
+   ^^^^
+"many" is a weasel word and can weaken meaning on line 25 at column 3
+-------------
+le is everything to what is taught here."
+                         ^^^^^^^^^
+"is taught" may be passive voice on line 37 at column 99
+-------------
+He smiled softly, "This is the College of History and Magic. Here we teach you e
+          ^^^^^^
+"softly" can weaken meaning on line 39 at column 10
+-------------
+erything that you can... Safely... Learn about magic. 
+                         ^^^^^^
+"Safely" can weaken meaning on line 39 at column 106
+-------------
+Finally, are two magics often considered evil, and damn near impossible to maste
+^^^^^^^
+"Finally" can weaken meaning on line 53 at column 0
+-------------
+These Eight Schools are taught here, and after your first year, you will graduat
+                    ^^^^^^^^^^
+"are taught" may be passive voice on line 55 at column 20
+-------------
+of just one. Or you will be Broken, and your magic removed from you. You will th
+                         ^^^^^^^^^
+"be Broken" may be passive voice on line 55 at column 158
+-------------
+ from you. You will then be returned to the outside world."
+                         ^^^^^^^^^^^
+"be returned" may be passive voice on line 55 at column 216
+In 001-Chapter-One.md
+=============
+In a world barely surviving, where an age of ice conquered the one you know, a f
+           ^^^^^^
+"barely" can weaken meaning on line 3 at column 11
+-------------
+ered the one you know, a few stand strong, and a bare few will stand stronger ye
+                         ^^^
+"few" is a weasel word on line 3 at column 79
+-------------
+stand strong, and a bare few will stand stronger yet.
+                         ^^^
+"few" is a weasel word on line 3 at column 108
+-------------
+One of those few, one of the students, was named Kyle Kilroy.
+             ^^^
+"few" is a weasel word on line 7 at column 13
+-------------
+ew, one of the students, was named Kyle Kilroy.
+                         ^^^^^^^^^
+"was named" may be passive voice on line 7 at column 39
+-------------
+houldn't be nervous, not really.
+                         ^^^^^^
+"really" can weaken meaning on line 15 at column 37
+-------------
+The class completely ignored him as the professor stood up at the front of the c
+          ^^^^^^^^^^
+"completely" is a weasel word and can weaken meaning on line 25 at column 10
+-------------
+d into fire, "Energy can be transferred, but it can be neither created nor destr
+                         ^^^^^^^^^^^^^^
+"be transferred" may be passive voice on line 41 at column 76
+-------------
+ but we can't create it. So we transfer it from ourselves, and we have a limit."
+                         ^^
+"So" adds no meaning on line 49 at column 62
+-------------
+The girl swallowed nervously, "Most magic users have to use a channel. They use 
+                   ^^^^^^^^^
+"nervously" can weaken meaning on line 59 at column 19
+-------------
+Bateman nodded, "Excellent. That is a key point. Using magic... Is dangerous. If
+                 ^^^^^^^^^
+"Excellent" is a weasel word on line 61 at column 17
+-------------
+wearing it, and you will be expected to wear it at all times from now on, unless
+                         ^^^^^^^^^^^
+"be expected" may be passive voice on line 63 at column 269
+-------------
+ from now on, unless you are instructed to remove it."
+                         ^^^^^^^^^^^^^^
+"are instructed" may be passive voice on line 63 at column 329
+-------------
+examined the wooden desk carefully, and found a small splinter.
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 67 at column 82
+-------------
+ it out, glancing at the tiny drop of blood on the end, and he touched it, mutte
+                         ^^^^
+"tiny" is a weasel word on line 69 at column 79
+-------------
+"Kyle!" Bateman yelled angrily, and he glanced up at the professor, who shook hi
+                       ^^^^^^^
+"angrily" can weaken meaning on line 73 at column 23
+-------------
+e does not mean that you are destined for one school."
+                         ^^^^^^^^^^^^
+"are destined" may be passive voice on line 73 at column 225
+-------------
+So far, her time at the school had been utter hell.
+^^
+"So" adds no meaning on line 89 at column 0
+-------------
+That being said, the school wasn't all just students. If anyone developed an apt
+     ^^^^^^^^^^
+"being said" may be passive voice on line 99 at column 5
+-------------
+nterest in magic... They were sent to one of the Eight Schools of Magic around t
+                         ^^^^^^^^^
+"were sent" may be passive voice on line 99 at column 115
+-------------
+golden eyes turned red, "Only an idiot throws a rock at an elf."
+                         ^^^^
+"Only" can weaken meaning on line 111 at column 66
+-------------
+ one she recognized, but was surprised to hear, "No one will do that again, if t
+                         ^^^^^^^^^^^^^
+"was surprised" may be passive voice on line 113 at column 45
+-------------
+students, and then spoke quietly, "Surge proditor, studioque cudentur. Surge pro
+                         ^^^^^^^
+"quietly" can weaken meaning on line 121 at column 60
+-------------
+chool of Aimimancy. I am likely the most powerful Aimimancer you will ever meet.
+                         ^^^^^^
+"likely" can weaken meaning on line 127 at column 108
+-------------
+ you ran away before you were trained... So I could bend you to my will... Anoth
+                         ^^^^^^^^^^^^
+"were trained" may be passive voice on line 127 at column 253
+-------------
+fore you were trained... So I could bend you to my will... Another attack on Mis
+                         ^^
+"So" adds no meaning on line 127 at column 269
+-------------
+She laughed, "You really want to make best friends with an elf?"
+                  ^^^^^^
+"really" can weaken meaning on line 133 at column 18
+-------------
+d well... I'd rather not be recognized. So this seems a good place to sit."
+                         ^^^^^^^^^^^^^
+"be recognized" may be passive voice on line 139 at column 126
+-------------
+ather not be recognized. So this seems a good place to sit."
+                         ^^
+"So" adds no meaning on line 139 at column 141
+-------------
+aughed, "And I thought I was hated by the school... You're the youngest Aimimanc
+                         ^^^^^^^^^
+"was hated" may be passive voice on line 145 at column 32
+-------------
+fore they're discovered. So I'm not entirely unique."
+                         ^^
+"So" adds no meaning on line 147 at column 75
+-------------
+Kyle glanced at her carefully, "You aren't sure what to think?"
+                    ^^^^^^^^^
+"carefully" can weaken meaning on line 151 at column 20
+-------------
+d swore to protect me... So you can't all be bad." She said with a shrug.
+                         ^^
+"So" adds no meaning on line 153 at column 87
+-------------
+ell say, you'll find out eventually. Most elves are awesome at magic. We do our 
+                         ^^^^^^^^^^
+"eventually" can weaken meaning on line 169 at column 72
+-------------
+y or Aquamancy, and it's apparent before their sixteenth birthday. Me, I'm a lat
+                         ^^^^^^^^
+"apparent" is wordy or unneeded on line 169 at column 308
+-------------
+a late bloomer. I wasn't particularly adept at any magic until I was sixty three
+                         ^^^^^^^^^^^^
+"particularly" can weaken meaning on line 169 at column 383
+-------------
+three... And the magic I suddenly became great at using... Was Terramancy."
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 169 at column 458
+-------------
+ big deal there... Also, exactly how old are you? You look about twelve, like me
+                         ^^^^^^^
+"exactly" can weaken meaning on line 171 at column 62
+-------------
+ with irritation, "Elves rarely learn anything but air or water magics. When the
+                         ^^^^^^
+"rarely" can weaken meaning on line 173 at column 46
+-------------
+Fiona winced, "So the only people who like me are Aimimancers? No... Nope. No co
+                      ^^^^
+"only" can weaken meaning on line 181 at column 22
+-------------
+eam filled the corridor, suddenly cutting off as a sort of warble.
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 203 at column 84
+-------------
+he blinked, "Wow... I've only heard that kind of slang on the beach."
+                         ^^^^
+"only" can weaken meaning on line 215 at column 67
+-------------
+gail rolled her eyes, "I only go full mermaid in water, dinkus."
+                         ^^^^
+"only" can weaken meaning on line 241 at column 28
+-------------
+ered one of the Schools. As to anyone practicing Aimimancy, which did not requir
+                         ^^^^^
+"As to" is wordy or unneeded on line 255 at column 121
+-------------
+ their power, they would be Broken on the spot.
+                         ^^^^^^^^^
+"be Broken" may be passive voice on line 255 at column 314
+-------------
+er, they would be Broken on the spot.
+                         ^^^^^^^^^^^
+"on the spot" is a cliche on line 255 at column 324
+-------------
+Being Broken... It was any magic wielder's worst nightmare. It literally strippe
+^^^^^^^^^^^^
+"Being Broken" may be passive voice on line 259 at column 0
+-------------
+Being Broken... It was any magic wielder's worst nightmare. It literally strippe
+                ^^^^^^
+"It was" is wordy or unneeded on line 259 at column 16
+-------------
+ was any magic wielder's worst nightmare. It literally stripped away half your s
+                         ^^^^^^^^^^^^^^^
+"worst nightmare" is a cliche on line 259 at column 43
+-------------
+er's worst nightmare. It literally stripped away half your soul. It cut you off 
+                         ^^^^^^^^^
+"literally" can weaken meaning on line 259 at column 63
+-------------
+alf of the students that were sent to the Eight Schools of Magic left that way.
+                         ^^^^^^^^^
+"were sent" may be passive voice on line 263 at column 31
+-------------
+ually need another mage. Only a mage of the opposite school to you may finish th
+                         ^^^^
+"Only" can weaken meaning on line 267 at column 145
+-------------
+you may finish the bond. So only a Terramancer may finish a Pyromancer's staff o
+                         ^^
+"So" adds no meaning on line 267 at column 208
+-------------
+ may finish the bond. So only a Terramancer may finish a Pyromancer's staff or w
+                         ^^^^
+"only" can weaken meaning on line 267 at column 211
+-------------
+omancer's staff or wand. Only a Necromancer may finish the bond for a Vitamancer
+                         ^^^^
+"Only" can weaken meaning on line 267 at column 271
+-------------
+owards him, "Isn't there only one Necromancer in the world?"
+                         ^^^^
+"only" can weaken meaning on line 269 at column 66
+-------------
+s. Professor Duke is the only currently known Necromancer in the world. Due to t
+                         ^^^^
+"only" can weaken meaning on line 271 at column 44
+-------------
+ofessor Duke is the only currently known Necromancer in the world. Due to this, 
+                         ^^^^^^^^^
+"currently" can weaken meaning on line 271 at column 49
+-------------
+their abilities, and so, consequently, their magic is usually quite weak. There 
+                         ^^^^^^^^^^^^
+"consequently" can weaken meaning and is wordy or unneeded on line 271 at column 233
+-------------
+equently, their magic is usually quite weak. There are a few people in the world
+                         ^^^^^^^
+"usually" can weaken meaning on line 271 at column 262
+-------------
+, their magic is usually quite weak. There are a few people in the world who can
+                         ^^^^^
+"quite" is a weasel word on line 271 at column 270
+-------------
+c is usually quite weak. There are a few people in the world who can transfigure
+                         ^^^^^^^^^
+"There are" is unnecessary verbiage on line 271 at column 282
+-------------
+ quite weak. There are a few people in the world who can transfigure themselves 
+                         ^^^
+"few" is a weasel word on line 271 at column 294
+-------------
+are… Exceptions to this, however. Most nymphs and pixies can bypass these laws, 
+                         ^^^^^^^
+"however" is wordy or unneeded on line 271 at column 442
+-------------
+the bonding for you… But be warned, if it is an enemy who finishes your bonding…
+                         ^^^^^^^^^
+"be warned" may be passive voice on line 273 at column 439
+-------------
+r you… But be warned, if it is an enemy who finishes your bonding… They could we
+                         ^^^^^
+"it is" is wordy or unneeded on line 273 at column 453
+-------------
+ elf from lunch appeared shortly after. She smiled as she sat, "I hope dinner is
+                         ^^^^^^^
+"shortly" can weaken meaning on line 283 at column 76
+-------------
+ school of mages. Can we really not do better than microwaved pasta?"
+                         ^^^^^^
+"really" can weaken meaning on line 287 at column 46
+-------------
+ed as they heard a glass being tapped repeatedly.
+                         ^^^^^^^^^^^^
+"being tapped" may be passive voice on line 291 at column 58
+-------------
+ard a glass being tapped repeatedly.
+                         ^^^^^^^^^^
+"repeatedly" can weaken meaning on line 291 at column 71
+-------------
+and children, rather, he was covered in an assortment of hard red scales, knitte
+                         ^^^^^^^^^^^
+"was covered" may be passive voice on line 297 at column 64
+-------------
+hard red scales, knitted tightly into an impenetrable armour, as well as black s
+                         ^^^^^^^
+"tightly" can weaken meaning on line 297 at column 121
+-------------
+ster Bellum Draco smiled softly, as everyone stared, and he spoke softly, but hi
+                         ^^^^^^
+"softly" can weaken meaning on line 299 at column 31
+-------------
+one stared, and he spoke softly, but his tones rang out, not in volume, but in t
+                         ^^^^^^
+"softly" can weaken meaning on line 299 at column 72
+-------------
+new year, and we are… We are blessed to have so many of you. Thousands of mages-
+                         ^^^^^^^^^^^
+"are blessed" may be passive voice on line 301 at column 79
+-------------
+e are blessed to have so many of you. Thousands of mages-to-be, from across the 
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 301 at column 102
+-------------
+re, and for that, we are exceedingly grateful." The man's expression darkened, a
+                         ^^^^^^^^^^^
+"exceedingly" is a weasel word and can weaken meaning on line 301 at column 221
+-------------
+ghts seemed to flicker, "However, many of you were forced to attend, after learn
+                         ^^^^^^^
+"However" is wordy or unneeded on line 301 at column 314
+-------------
+ed to flicker, "However, many of you were forced to attend, after learning thing
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 301 at column 323
+-------------
+r, "However, many of you were forced to attend, after learning things too danger
+                         ^^^^^^^^^^^
+"were forced" may be passive voice on line 301 at column 335
+-------------
+ you are not ready, yet. It is to these, and anybody who believes misbehaviour c
+                         ^^^^^
+"It is" is wordy or unneeded on line 301 at column 448
+-------------
+elieves misbehaviour can be rewarded, that I speak now. My name means 'War Drago
+                         ^^^^^^^^^^^
+"be rewarded" may be passive voice on line 301 at column 506
+-------------
+s 'War Dragon', I am the only known offspring between a human and a dragon. Whic
+                         ^^^^
+"only" can weaken meaning on line 301 at column 574
+-------------
+n the known world. Blood was taken from every student as you arrived. Professor 
+                         ^^^^^^^^^
+"was taken" may be passive voice on line 301 at column 908
+-------------
+ng you back here, I will simply order your execution, and it will be done."
+                         ^^^^^^
+"simply" can weaken meaning on line 301 at column 1130
+-------------
+r execution, and it will be done."
+                         ^^^^^^^
+"be done" may be passive voice on line 301 at column 1171
+-------------
+na breathed in raggedly, obviously shocked by the vehemence of the Headmaster's 
+                         ^^^^^^^^^
+"obviously" is a weasel word on line 309 at column 28
+-------------
+with a look of disgust, "Seriously? More meat?"
+                         ^^^^^^^^^
+"Seriously" can weaken meaning on line 309 at column 145
+-------------
+ait… You don't eat meat? Really? It's not just a stereotype?"
+                         ^^^^^^
+"Really" can weaken meaning on line 311 at column 46
+-------------
+Fiona glared, "Of course it is a stereotype. It's just… Whacky flavours to me."
+                         ^^^^^
+"it is" is wordy or unneeded on line 313 at column 25
+-------------
+rced a potato and ate it slowly, considering how few vegetables had been put on 
+                         ^^^^^^
+"slowly" can weaken meaning on line 321 at column 32
+-------------
+ slowly, considering how few vegetables had been put on her plate. The sliced ch
+                         ^^^
+"few" is a weasel word on line 321 at column 56
+-------------
+g how few vegetables had been put on her plate. The sliced chicken breast took u
+                         ^^^^^^^^
+"been put" may be passive voice on line 321 at column 75
+-------------
+ate, and the whole thing was swamped in a thick brown gravy.
+                         ^^^^^^^^^^^
+"was swamped" may be passive voice on line 321 at column 179
+-------------
+ state. The elf eyed her suspiciously, "Why did they send you here? Troublemakin
+                         ^^^^^^^^^^^^
+"suspiciously" can weaken meaning on line 331 at column 124
+-------------
+"No!" Abigail yelled angrily, her skin flashing to blue scales and back to a pal
+                     ^^^^^^^
+"angrily" can weaken meaning on line 341 at column 21
+-------------
+dea how deception works. So… Put those together and people see us as pretty… Slu
+                         ^^
+"So" adds no meaning on line 341 at column 256
+-------------
+ke's." Abigail grinned, "It was pretty funny. Anyways, one of the professors cau
+                         ^^^^^^
+"It was" is wordy or unneeded on line 353 at column 251
+-------------
+ mixture of emotion, and awkwardly patted the girl's arm. She stared at him, "Du
+                         ^^^^^^^^^
+"awkwardly" can weaken meaning on line 375 at column 52
+-------------
+ colour, "Damn… I am so… so… sorry…"
+                         ^^^
+"so…" is repeated on line 379 at column 44
+-------------
+Abigail smiled weakly, "It wasn't… As terrible as I thought it would be." She sh
+               ^^^^^^
+"weakly" can weaken meaning on line 381 at column 15
+-------------
+"Don't pity me." He said quickly, with less force than he had meant, and Abigail
+                         ^^^^^^^
+"quickly" can weaken meaning on line 383 at column 25
+-------------
+n fear and turned around slowly, wide-eyed, and blinked at the pixie floating be
+                         ^^^^^^
+"slowly" can weaken meaning on line 401 at column 43
+-------------
+The water nymph nodded slowly, "I understand, professor."
+                       ^^^^^^
+"slowly" can weaken meaning on line 403 at column 23
+-------------
+ssor flicked her fingers quickly, in a blurred motion, and a small yellow glowin
+                         ^^^^^^^
+"quickly" can weaken meaning on line 407 at column 34
+-------------
+an eye appeared, and she gently pushed it into Abigail's head, and into her skul
+                         ^^^^^^
+"gently" can weaken meaning on line 407 at column 137
+-------------
+to the table, "OMG, this really hurts."
+                         ^^^^^^
+"really" can weaken meaning on line 409 at column 119
+-------------
+ome back. Gives you some fairly terrible nightmares."
+                         ^^^^^^
+"fairly" is a weasel word and can weaken meaning on line 413 at column 203
+-------------
+Abigail smiled weakly, "Yeah… Except I don't like forgetting things, so it's sap
+               ^^^^^^
+"weakly" can weaken meaning on line 415 at column 15
+-------------
+Kyle nodded slowly, "I did."
+            ^^^^^^
+"slowly" can weaken meaning on line 429 at column 12
+-------------
+tention with the basics. So I skipped ahead without waiting for the professor to
+                         ^^
+"So" adds no meaning on line 431 at column 106
+-------------
+f your work, myself, and it is brilliant… But if you do not understand people, h
+                         ^^^^^
+"it is" is wordy or unneeded on line 433 at column 149
+-------------
+ssor. I… I have not felt many things in my life."
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 435 at column 52
+In 002-Chapter-Two.md
+=============
+She turned around slowly, "I sent Fiona away."
+                  ^^^^^^
+"slowly" can weaken meaning on line 13 at column 18
+-------------
+ed her eyes, "You are an exceedingly difficult person to know."
+                         ^^^^^^^^^^^
+"exceedingly" is a weasel word and can weaken meaning on line 19 at column 33
+-------------
+Kyle sat down on the rocks, shrugging, "I've got to start somewhere."
+              ^^^^^^^^^^^^
+"on the rocks" is a cliche on line 21 at column 14
+-------------
+ outsider. Like you. Not exactly surprising… But I'm a lot more than that. Reaso
+                         ^^^^^^^
+"exactly" can weaken meaning on line 31 at column 132
+-------------
+d as she saw him sitting on the rocks, concern on his face… But also... Empathy.
+                         ^^^^^^^^^^^^
+"on the rocks" is a cliche on line 33 at column 77
+-------------
+"It was an accident?"
+ ^^^^^^
+"It was" is wordy or unneeded on line 35 at column 1
+-------------
+rugged, "I butchered the only person I ever cared about."
+                         ^^^^
+"only" can weaken meaning on line 39 at column 314
+-------------
+ut… I thought all nymphs were born with magic. They don't have some wall between
+                         ^^^^^^^^^
+"were born" may be passive voice on line 47 at column 88
+-------------
+"I was called worthless for a reason." Abigail wiped her face with her arm, leav
+   ^^^^^^^^^^
+"was called" may be passive voice on line 49 at column 3
+-------------
+Kyle smiled softly, "I wish I could give you a hug… But instead… Can I see you?"
+            ^^^^^^
+"softly" can weaken meaning on line 51 at column 12
+-------------
+surprise, "Hells yeah. I really want to swim. Let myself be free."
+                         ^^^^^^
+"really" can weaken meaning on line 67 at column 46
+-------------
+Abigail smiled softly, "I don't hate you, Kyle."
+               ^^^^^^
+"softly" can weaken meaning on line 73 at column 15
+-------------
+ow and wrist, and pulled sharply down, wincing, cutting deep. The blood rose qui
+                         ^^^^^^^
+"sharply" can weaken meaning on line 75 at column 82
+-------------
+ing deep. The blood rose quickly, dripping downwards, but before it fell it pull
+                         ^^^^^^^
+"quickly" can weaken meaning on line 75 at column 134
+-------------
+ into a bubble. His face was locked in concentration, but he managed a half-smil
+                         ^^^^^^^^^^
+"was locked" may be passive voice on line 75 at column 216
+-------------
+t of him, and Kyle spoke carefully, "Fieri obice eligo qui tuentur. Servo Dei el
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 77 at column 112
+-------------
+Kyle grinned, "You are protected by my life. So long as I live, and the spell la
+                   ^^^^^^^^^^^^^
+"are protected" may be passive voice on line 85 at column 19
+-------------
+re protected by my life. So long as I live, and the spell lasts, no harm can com
+                         ^^
+"So" adds no meaning on line 85 at column 45
+-------------
+gail raised an eyebrow, "Really?"
+                         ^^^^^^
+"Really" can weaken meaning on line 87 at column 28
+-------------
+red a hundred times into tiny blue scales, and her eyes misted and shifted, reve
+                         ^^^^
+"tiny" is a weasel word on line 91 at column 146
+-------------
+It was just her, and the water.
+^^^^^^
+"It was" is wordy or unneeded on line 99 at column 0
+-------------
+Kyle was lying on the rocks, blood pouring off him, smoking burns across his for
+               ^^^^^^^^^^^^
+"on the rocks" is a cliche on line 117 at column 15
+-------------
+making for the castle as quickly as she could.
+                         ^^^^^^^
+"quickly" can weaken meaning on line 119 at column 120
+-------------
+The blood exploded into tiny balls and slammed into his body like nails, and Kyl
+                        ^^^^
+"tiny" is a weasel word on line 141 at column 24
+-------------
+Abigail smiled softly and tousled his hair, "You are a right mad one... Thanks f
+               ^^^^^^
+"softly" can weaken meaning on line 151 at column 15
+-------------
+ shoulders, "Now... What exactly did you say to Fiona?"
+                         ^^^^^^^
+"exactly" can weaken meaning on line 153 at column 42
+-------------
+ity, "Even I can see how badly that would go."
+                         ^^^^^
+"badly" can weaken meaning on line 165 at column 57
+-------------
+iona before I got there. Badly."
+                         ^^^^^
+"Badly" can weaken meaning on line 193 at column 98
+-------------
+ut elvenkind." Kyle said slowly and Bateman winced, "Well, that might blow up in
+                         ^^^^^^
+"slowly" can weaken meaning on line 197 at column 52
+-------------
+ looked at the professor carefully, "Have you noticed a threat?"
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 201 at column 42
+-------------
+want to take me on girl? Really?"
+                         ^^^^^^
+"Really" can weaken meaning on line 227 at column 102
+-------------
+he slumped to the ground silently.
+                         ^^^^^^^^
+"silently" can weaken meaning on line 233 at column 68
+-------------
+il winced, "I'm sorry. I really am."
+                         ^^^^^^
+"really" can weaken meaning on line 251 at column 30
+-------------
+ fighting back tears, "I really am sorry."
+                         ^^^^^^
+"really" can weaken meaning on line 255 at column 40
+-------------
+ou, Abigail... Detention is meant to be as bad as any torture curse."
+                         ^^^^^^^^
+"is meant" may be passive voice on line 257 at column 135
+-------------
+The nymph swallowed, "It is."
+                      ^^^^^
+"It is" is wordy or unneeded on line 259 at column 22
+-------------
+Abigail frowned, "Is he really destined to be an Aimimancer?"
+                        ^^^^^^
+"really" can weaken meaning on line 285 at column 24
+-------------
+with another magic if he simply tried... But few who learn Aimimancy ever look f
+                         ^^^^^^
+"simply" can weaken meaning on line 287 at column 124
+-------------
+f he simply tried... But few who learn Aimimancy ever look for another route, be
+                         ^^^
+"few" is a weasel word on line 287 at column 144
+-------------
+Fiona laughed, "So you really are half elf?"
+                       ^^^^^^
+"really" can weaken meaning on line 297 at column 23
+-------------
+titudes. My human mother was raped by an elvish warlord. I care little for elves
+                         ^^^^^^^^^
+"was raped" may be passive voice on line 299 at column 90
+-------------
+ visage of the professor was gone.
+                         ^^^^^^^^
+"was gone" may be passive voice on line 301 at column 72
+-------------
+He was stuck.
+   ^^^^^^^^^
+"was stuck" may be passive voice on line 315 at column 3
+-------------
+metal sword. It stood up slowly with a sound that suggested enormous mass.
+                         ^^^^^^
+"slowly" can weaken meaning on line 331 at column 103
+-------------
+n at him, and then spoke angrily, every stone in the room reverberating with his
+                         ^^^^^^^
+"angrily" can weaken meaning on line 335 at column 47
+-------------
+He swallowed nervously, and the statue turned, walking with a heavy step that sh
+             ^^^^^^^^^
+"nervously" can weaken meaning on line 337 at column 13
+-------------
+It wasn't a particularly long walk.
+            ^^^^^^^^^^^^
+"particularly" can weaken meaning on line 341 at column 12
+-------------
+hook his head and smiled softly, it wasn't a nice smile. It was the smile of som
+                         ^^^^^^
+"softly" can weaken meaning on line 361 at column 44
+-------------
+ it wasn't a nice smile. It was the smile of someone who was stronger, and was m
+                         ^^^^^^
+"It was" is wordy or unneeded on line 361 at column 76
+In 003-Chapter-Three.md
+=============
+Kyle swallowed nervously, still feeling the sting of the loss of his magic, "You
+               ^^^^^^^^^
+"nervously" can weaken meaning on line 7 at column 15
+-------------
+Kyle looked at the man carefully, "Why did you send for me?"
+                       ^^^^^^^^^
+"carefully" can weaken meaning on line 15 at column 23
+-------------
+ists, "I am not a man to be trifled with, even by you, Headmaster."
+                         ^^^^^^^^^^
+"be trifled" may be passive voice on line 19 at column 44
+-------------
+Immediately the shallow breeze touching his face turned into a hurricane whirlwi
+^^^^^^^^^^^
+"Immediately" can weaken meaning on line 25 at column 0
+-------------
+rricane whirlwind and he was slammed into the stonework of the roof. Kyle forced
+                         ^^^^^^^^^^^
+"was slammed" may be passive voice on line 25 at column 90
+-------------
+and shook his head, "You are renowned, Kyle… But unskilled. You have learned a l
+                         ^^^^^^^^^^^^
+"are renowned" may be passive voice on line 31 at column 294
+-------------
+ooking at the Headmaster carefully, "Exactly how much is my life at risk? This i
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 37 at column 40
+-------------
+e Headmaster carefully, "Exactly how much is my life at risk? This is the second
+                         ^^^^^^^
+"Exactly" can weaken meaning on line 37 at column 52
+-------------
+erve to know… The school was assaulted this afternoon… They were looking for you
+                         ^^^^^^^^^^^^^
+"was assaulted" may be passive voice on line 39 at column 79
+-------------
+utside these walls mages are butchered every day of the week! Outside these wall
+                         ^^^^^^^^^^^^^
+"are butchered" may be passive voice on line 43 at column 93
+-------------
+t of humanity is dead. A few Elvish strongholds exist, but for the main part, th
+                         ^^^
+"few" is a weasel word on line 43 at column 179
+-------------
+, kid. There aren't that many of us teachers around, and fewer who can teach you
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 45 at column 96
+-------------
+here so that they can be safely controlled, unable to harm themselves or others 
+                         ^^^^^^
+"safely" can weaken meaning on line 45 at column 236
+-------------
+e young Aimimancer stood carefully, watching the Headmaster, "Who were they? How
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 47 at column 27
+-------------
+ after me!?" Kyle yelled angrily, the ground blackening suddenly around him, and
+                         ^^^^^^^
+"angrily" can weaken meaning on line 51 at column 38
+-------------
+y, the ground blackening suddenly around him, and Draco blinked, "Oh. So you do 
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 51 at column 69
+-------------
+ and Draco blinked, "Oh. So you do have talents outside of blood. Fascinating. A
+                         ^^
+"So" adds no meaning on line 51 at column 114
+-------------
+e of blood. Fascinating. As to your question… I'll tell you when you have some m
+                         ^^^^^
+"As to" is wordy or unneeded on line 51 at column 168
+-------------
+it to say, they are also very interested in the torture of Professor Duke."
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 51 at column 281
+-------------
+in surprise, "Wow. Elves really are out of touch. There hasn't been any Maple Sy
+                         ^^^^^^
+"really" can weaken meaning on line 71 at column 55
+-------------
+"Applesilver is called so, because someone from the Apple family married someone
+             ^^^^^^^^^
+"is called" may be passive voice on line 107 at column 13
+-------------
+s head, "Wouldn't you be really distantly related?"
+                         ^^^^^^
+"really" can weaken meaning on line 109 at column 42
+-------------
+Kyle looked at her carefully, "How important is your dad?"
+                   ^^^^^^^^^
+"carefully" can weaken meaning on line 121 at column 19
+-------------
+he turns up, we are all… Very, very dead."
+                         ^^^^
+"Very" is a weasel word and can weaken meaning on line 123 at column 175
+-------------
+ns up, we are all… Very, very dead."
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 123 at column 181
+-------------
+faces, the enigmatic and fairly mysterious professor smiled at them tightly, his
+                         ^^^^^^
+"fairly" is a weasel word and can weaken meaning on line 129 at column 59
+-------------
+professor smiled at them tightly, his sharp face tearing away any thoughts that 
+                         ^^^^^^^
+"tightly" can weaken meaning on line 129 at column 102
+-------------
+Abigail swallowed nervously, "Um... Sorry, Professor. I didn't notice you."
+                  ^^^^^^^^^
+"nervously" can weaken meaning on line 131 at column 18
+-------------
+ penetrating stare, "Ah. So this is where the talent hides, is it? All three of 
+                         ^^
+"So" adds no meaning on line 135 at column 73
+-------------
+gic. Second year will be quite interesting... If you pass... Though, not one of 
+                         ^^^^^
+"quite" is a weasel word on line 135 at column 194
+-------------
+on't." Abigail whispered immediately, her voice clouded with fear.
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 139 at column 27
+-------------
+ret, then... But one day very soon, you'll be required to reveal it, or one of y
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 141 at column 63
+-------------
+ne day very soon, you'll be required to reveal it, or one of you three will die.
+                         ^^^^^^^^^^^
+"be required" may be passive voice on line 141 at column 81
+-------------
+yle blinked, "Foresight, especially that specific, is incredibly rare... And isn
+                         ^^^^^^^^^^
+"especially" can weaken meaning on line 143 at column 26
+-------------
+wand lay, "Surely you've been taught by now. I needed a friend who was a Vitaman
+                         ^^^^^^^^^^^
+"been taught" may be passive voice on line 145 at column 74
+-------------
+ill scarier." Fiona said quickly, clearly in shock.
+                         ^^^^^^^
+"quickly" can weaken meaning on line 149 at column 34
+-------------
+er." Fiona said quickly, clearly in shock.
+                         ^^^^^^^
+"clearly" is a weasel word and can weaken meaning on line 149 at column 43
+-------------
+Abigail just stood up quietly, and walked away. Shoulders slumped, head down.
+                      ^^^^^^^
+"quietly" can weaken meaning on line 151 at column 22
+-------------
+rous and powerful magic. It is exempt from most of the rules. Like incantations.
+                         ^^^^^
+"It is" is wordy or unneeded on line 165 at column 91
+-------------
+Bracken slowly lowered his choking students back to their seats, but not quite r
+        ^^^^^^
+"slowly" can weaken meaning on line 167 at column 8
+-------------
+ to their seats, but not quite releasing them, and he laughed, humour lighting h
+                         ^^^^^
+"quite" is a weasel word on line 167 at column 73
+-------------
+Kyle rubbed his neck gently, looking up at the professor with one eyebrow raised
+                     ^^^^^^
+"gently" can weaken meaning on line 171 at column 21
+-------------
+fessor bandaged his hand slowly, "Now. Who can tell me the principle of what I j
+                         ^^^^^^
+"slowly" can weaken meaning on line 171 at column 172
+-------------
+nt over the room as Kyle slowly lowered his hand, and then the Professor's eyes 
+                         ^^^^^^
+"slowly" can weaken meaning on line 175 at column 37
+-------------
+cutting his wrist with a tiny blade, and a bubble of air surrounded him.
+                         ^^^^
+"tiny" is a weasel word on line 175 at column 232
+-------------
+Kyle stood up slowly, heading towards the door, but he felt a rush of wind, and 
+              ^^^^^^
+"slowly" can weaken meaning on line 181 at column 14
+-------------
+ his shoulder. He turned slowly, and Professor Bracken frowned, "Not you. You ne
+                         ^^^^^^
+"slowly" can weaken meaning on line 181 at column 118
+-------------
+Bracken smiled softly, "So, you know most of the finer points of... Everything. 
+               ^^^^^^
+"softly" can weaken meaning on line 187 at column 15
+-------------
+Bracken grinned, "Usually, for Aimimancy to work, you need access to blood, spec
+                  ^^^^^^^
+"Usually" can weaken meaning on line 191 at column 18
+-------------
+cifically blood that has been exposed to oxygen in some way. Blood spilt. Extrac
+                         ^^^^^^^^^^^^
+"been exposed" may be passive voice on line 191 at column 104
+-------------
+Kyle nodded slowly, "So... You really have reached that point."
+            ^^^^^^
+"slowly" can weaken meaning on line 209 at column 12
+-------------
+odded slowly, "So... You really have reached that point."
+                         ^^^^^^
+"really" can weaken meaning on line 209 at column 31
+-------------
+ and then punched, blood suddenly encircling his fist, and his hand ripped throu
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 213 at column 44
+-------------
+head, looking down, "I'm currently liquefying each and every one of your organs.
+                         ^^^^^^^^^
+"currently" can weaken meaning on line 221 at column 90
+-------------
+I'm currently liquefying each and every one of your organs."
+                         ^^^^^^^^^^^^^^
+"each and every" is wordy or unneeded on line 221 at column 111
+-------------
+most prodigious students being murdered."
+                         ^^^^^^^^^^^^^^
+"being murdered" may be passive voice on line 235 at column 121
+-------------
+, "If he can't survive a few dozen assassination attempts, then he isn't worth i
+                         ^^^
+"few" is a weasel word on line 237 at column 40
+-------------
+The Headmaster stood up slowly, and shook his head, "Dispose of the body. Make s
+                        ^^^^^^
+"slowly" can weaken meaning on line 239 at column 24
+-------------
+Abigail watched him carefully, "You... Killed... A professor."
+                    ^^^^^^^^^
+"carefully" can weaken meaning on line 263 at column 20
+-------------
+Abigail touched his hand gently, "I'm sorry."
+                         ^^^^^^
+"gently" can weaken meaning on line 271 at column 25
+-------------
+"You're not going to be Broken. Or expelled." Fiona said, arriving looking more 
+                     ^^^^^^^^^
+"be Broken" may be passive voice on line 273 at column 21
+-------------
+yle's eyes widened, "You were given detention? For the rock on the girl's head?"
+                         ^^^^^^^^^^
+"were given" may be passive voice on line 279 at column 26
+-------------
+ofessor... Why haven't I been given detention?"
+                         ^^^^^^^^^^
+"been given" may be passive voice on line 287 at column 119
+-------------
+Fiona smiled weakly, "Because you didn't break the rules, Kyle. You killed Brack
+             ^^^^^^
+"weakly" can weaken meaning on line 291 at column 13
+-------------
+"Seriously." Abigail said, blue scales revealing themselves for a moment.
+ ^^^^^^^^^
+"Seriously" can weaken meaning on line 297 at column 1
+In 004-Chapter-Four.md
+=============
+e classroom, breathing a sigh of relief. No teacher in sight. Just a clay statue
+                         ^^^^^^^^^^^^^^
+"sigh of relief" is a cliche on line 5 at column 45
+-------------
+It immediately slammed shut.
+   ^^^^^^^^^^^
+"immediately" can weaken meaning on line 9 at column 3
+-------------
+ and your tardiness will be forgiven."
+                         ^^^^^^^^^^^
+"be forgiven" may be passive voice on line 15 at column 136
+-------------
+lt a chill run down her. It was one of the most advanced spells out. And it requ
+                         ^^^^^^
+"It was" is wordy or unneeded on line 17 at column 33
+-------------
+and the professor nodded slowly, "And the soul?"
+                         ^^^^^^
+"slowly" can weaken meaning on line 21 at column 60
+-------------
+hrugged, "Then detention it is."
+                         ^^^^^
+"it is" is wordy or unneeded on line 25 at column 40
+-------------
+illed magic. It's why we only teach you one type after first year. Once you get 
+                         ^^^^
+"only" can weaken meaning on line 39 at column 257
+-------------
+age in the entire world. So you would expect he has studied Ventusamancy his who
+                         ^^
+"So" adds no meaning on line 45 at column 346
+-------------
+ year at this school, he accidentally awoke his dragon heritage. It forced the n
+                         ^^^^^^^^^^^^
+"accidentally" can weaken meaning on line 45 at column 492
+-------------
+ed the new magic on him. So he is incredibly gifted with both."
+                         ^^
+"So" adds no meaning on line 45 at column 564
+-------------
+Or was it really Kyle?
+          ^^^^^^
+"really" can weaken meaning on line 51 at column 10
+-------------
+Was he really that much smarter than the rest?
+       ^^^^^^
+"really" can weaken meaning on line 59 at column 7
+-------------
+Abigail slowly realized that Bateman was still talking to her.
+        ^^^^^^
+"slowly" can weaken meaning on line 61 at column 8
+-------------
+It was dark, the hallways were almost quiet, apart from the occasional statue mo
+^^^^^^
+"It was" is wordy or unneeded on line 119 at column 0
+-------------
+ccasional statue moving, only the breathing of the five students waiting for det
+                         ^^^^
+"only" can weaken meaning on line 119 at column 86
+-------------
+So he sat and waited.
+^^
+"So" adds no meaning on line 123 at column 0
+-------------
+It was painful.
+^^^^^^
+"It was" is wordy or unneeded on line 125 at column 0
+-------------
+ridor, and he stood up, "Finally."
+                         ^^^^^^^
+"Finally" can weaken meaning on line 129 at column 57
+-------------
+e. Green sprouts, twigs, all of it twisting into a root-like structure, shaped l
+                         ^^^^^^
+"all of" is wordy or unneeded on line 131 at column 67
+-------------
+dozens of silver sigils. All of them appeared to be bones or depictions of death
+                         ^^^^^^
+"All of" is wordy or unneeded on line 131 at column 196
+-------------
+Kyle sat down slowly, wincing in fear.
+              ^^^^^^
+"slowly" can weaken meaning on line 135 at column 14
+-------------
+ancy looked at the group slowly, "Detention is only given to those who both brea
+                         ^^^^^^
+"slowly" can weaken meaning on line 137 at column 48
+-------------
+up slowly, "Detention is only given to those who both break the rules of the Sch
+                         ^^^^
+"only" can weaken meaning on line 137 at column 70
+-------------
+ the wall, "Outside, lie many dangers. Ones that particularly target magic users
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 141 at column 60
+-------------
+ many dangers. Ones that particularly target magic users. They wish to tear us d
+                         ^^^^^^^^^^^^
+"particularly" can weaken meaning on line 141 at column 84
+-------------
+t the fear you will face usually is enough. Trauma is a good way to keep secrets
+                         ^^^^^^^
+"usually" can weaken meaning on line 143 at column 164
+-------------
+ capture you is still to be seen."
+                         ^^^^^^^
+"be seen" may be passive voice on line 145 at column 189
+-------------
+to destroy last time you were summoned for detention." The professor shrugged, "
+                         ^^^^^^^^^^^^^
+"were summoned" may be passive voice on line 149 at column 61
+-------------
+"I am seriously not that important."
+      ^^^^^^^^^
+"seriously" can weaken meaning on line 155 at column 6
+-------------
+ you die on detention... So be it. You broke the rules."
+                         ^^
+"So" adds no meaning on line 157 at column 184
+-------------
+wall shook, vibrating so quickly it seemed to almost become a window.
+                         ^^^^^^^
+"quickly" can weaken meaning on line 159 at column 54
+-------------
+lowing him, but his eyes were fixed on the horizon.
+                         ^^^^^^^^^^
+"were fixed" may be passive voice on line 165 at column 53
+-------------
+hty two souls... But not all of those will be soldiers. There will be generals, 
+                         ^^^^^^
+"all of" is wordy or unneeded on line 173 at column 179
+-------------
+ know their numbers, but as to the attack? They could. So far, they have been te
+                         ^^^^^
+"as to" is wordy or unneeded on line 177 at column 123
+-------------
+ the attack? They could. So far, they have been testing our defences, trying to 
+                         ^^
+"So" adds no meaning on line 177 at column 153
+-------------
+t, or even another test. It is difficult to tell."
+                         ^^^^^
+"It is" is wordy or unneeded on line 177 at column 293
+-------------
+er." Professor Duke said quietly, calmly. "Death means nothing to me. I have die
+                         ^^^^^^^
+"quietly" can weaken meaning on line 181 at column 57
+-------------
+essor Duke said quietly, calmly. "Death means nothing to me. I have died over a 
+                         ^^^^^^
+"calmly" can weaken meaning on line 181 at column 66
+-------------
+t I doubt it... They key however, is understanding why they want you."
+                         ^^^^^^^
+"however" is wordy or unneeded on line 185 at column 103
+-------------
+ able to follow an order concerning a specific individual."
+                         ^^^^^^^^^^
+"concerning" is wordy or unneeded on line 189 at column 150
+-------------
+ted behind her, but fear was etched into every feature of her face.
+                         ^^^^^^^^^^
+"was etched" may be passive voice on line 199 at column 77
+-------------
+Fiona immediately launched a flurry of boulders towards all three targets, nearl
+      ^^^^^^^^^^^
+"immediately" can weaken meaning on line 217 at column 6
+-------------
+Kyle swallowed nervously, they were all on edge, and that wasn't going to help.
+               ^^^^^^^^^
+"nervously" can weaken meaning on line 219 at column 15
+-------------
+Waiting here to be attacked... It wasn't his style.
+                ^^^^^^^^^^^
+"be attacked" may be passive voice on line 221 at column 16
+-------------
+The Dryad spoke loudly, magically projecting his voice, "Send forth an emissary,
+                ^^^^^^
+"loudly" can weaken meaning on line 269 at column 16
+-------------
+tepped up from the ranks slowly, and Professor Duke smiled, "Some common courtes
+                         ^^^^^^
+"slowly" can weaken meaning on line 271 at column 82
+-------------
+is black armour, "I have been sent. I do not know."
+                         ^^^^^^^^^
+"been sent" may be passive voice on line 273 at column 52
+-------------
+ination!" The elf yelled angrily, spitting on the ground. He pointed a finger, "
+                         ^^^^^^^
+"angrily" can weaken meaning on line 295 at column 46
+-------------
+ on the world. It cannot be saved until you and your kind are extinct."
+                         ^^^^^^^^
+"be saved" may be passive voice on line 295 at column 167
+-------------
+Kyle smiled sadly, remembering his awakening of Aimimancy, "Elf, so long as ther
+            ^^^^^
+"sadly" can weaken meaning on line 297 at column 12
+-------------
+d loss, blood magic will be found."
+                         ^^^^^^^^
+"be found" may be passive voice on line 297 at column 119
+-------------
+ Kyle's abdomen as if it were made from nothing more substantial than honey.
+                         ^^^^^^^^^
+"were made" may be passive voice on line 307 at column 111
+-------------
+e made from nothing more substantial than honey.
+                         ^^^^^^^^^^^
+"substantial" is wordy or unneeded on line 307 at column 139
+In 005-Chapter-Five.md
+=============
+urprised that the school is haunted by ghosts?"
+                         ^^^^^^^^^^
+"is haunted" may be passive voice on line 21 at column 53
+-------------
+lame yourself. Spear was seriously enchanted. Thinking it was both hexed to turn
+                         ^^^^^^^^^
+"seriously" can weaken meaning on line 27 at column 65
+-------------
+usly enchanted. Thinking it was both hexed to turn someone's blood to ice, but a
+                         ^^^^^^
+"it was" is wordy or unneeded on line 27 at column 95
+-------------
+ghed, "So... Now what? I accidentally stopped myself from dying all the way... S
+                         ^^^^^^^^^^^^
+"accidentally" can weaken meaning on line 29 at column 32
+-------------
+rom dying all the way... So now I'm stuck?"
+                         ^^
+"So" adds no meaning on line 29 at column 86
+-------------
+f the school's founders. Only one person other than you even knows I still exist
+                         ^^^^
+"Only" can weaken meaning on line 31 at column 67
+-------------
+e you get to know him... Seriously bad news."
+                         ^^^^^^^^^
+"Seriously" can weaken meaning on line 31 at column 168
+-------------
+to the school anymore... So I can never come back."
+                         ^^
+"So" adds no meaning on line 43 at column 122
+-------------
+study of Necromancy. I'm only a brilliant Aimimancer because I want to know Necr
+                         ^^^^
+"only" can weaken meaning on line 49 at column 112
+-------------
+ht be an asshole, but he was concerned when he couldn't just resurrect you."
+                         ^^^^^^^^^^^^^
+"was concerned" may be passive voice on line 55 at column 99
+-------------
+s sitting behind a text, gently turning the pages of a book. The pages were blac
+                         ^^^^^^
+"gently" can weaken meaning on line 61 at column 42
+-------------
+He spoke quietly, "Is that Dryadic?"
+         ^^^^^^^
+"quietly" can weaken meaning on line 63 at column 9
+-------------
+. This language has long been lost to time."
+                         ^^^^^^^^^
+"been lost" may be passive voice on line 65 at column 79
+-------------
+The professor looked up sadly, "So, you have become a Necromancer, just as you d
+                        ^^^^^
+"sadly" can weaken meaning on line 67 at column 24
+-------------
+ighed and shrugged, "You are stuck, the only magic you can possibly use is Necro
+                         ^^^^^^^^^
+"are stuck" may be passive voice on line 75 at column 47
+-------------
+ged, "You are stuck, the only magic you can possibly use is Necromancy."
+                         ^^^^
+"only" can weaken meaning on line 75 at column 62
+-------------
+do you mean? You are the only Necromancer alive! If you can't help... What the h
+                         ^^^^
+"only" can weaken meaning on line 81 at column 81
+-------------
+"So I'm stuck here, with only you and Wes."
+                         ^^^^
+"only" can weaken meaning on line 93 at column 38
+-------------
+na sat down at the table quietly, looking at the lunch meal in front of her.
+                         ^^^^^^^
+"quietly" can weaken meaning on line 111 at column 28
+-------------
+It was too much, hurt like hell.
+^^^^^^
+"It was" is wordy or unneeded on line 121 at column 0
+-------------
+g. Instead she felt, and it was... Too much.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 123 at column 73
+-------------
+ her eyes. Her shoulders were slumped, and the colour had faded from her hair.
+                         ^^^^^^^^^^^^
+"were slumped" may be passive voice on line 129 at column 125
+-------------
+Abigail winced, "It was his army."
+                 ^^^^^^
+"It was" is wordy or unneeded on line 131 at column 17
+-------------
+, grey creeping into her usually blonde hair, "What do you want, Candice?"
+                         ^^^^^^^
+"usually" can weaken meaning on line 141 at column 56
+-------------
+at the other girl, "Kyle was killed."
+                         ^^^^^^^^^^
+"was killed" may be passive voice on line 151 at column 69
+-------------
+Candice looked at it, "Seriously elf? You going to throw a table at me?"
+                       ^^^^^^^^^
+"Seriously" can weaken meaning on line 159 at column 23
+-------------
+ a loud sound as Candice was sent flying, and the table was where she had been.
+                         ^^^^^^^^
+"was sent" may be passive voice on line 165 at column 39
+-------------
+gry as hell, and then he was gone.
+                         ^^^^^^^^
+"was gone" may be passive voice on line 167 at column 73
+-------------
+eir eyes, sobered him up quickly.
+                         ^^^^^^^
+"quickly" can weaken meaning on line 185 at column 116
+-------------
+ to throw it, but it had only moved a couple feet, and then he had become intang
+                         ^^^^
+"only" can weaken meaning on line 189 at column 141
+-------------
+He was in the process of discovering a new magic, one he knew ignored the normal
+       ^^^^^^^^^^^^^^^^^
+"in the process of" is wordy or unneeded on line 199 at column 7
+-------------
+ore the rules, they were simply more complex than most people understood them to
+                         ^^^^^^
+"simply" can weaken meaning on line 201 at column 62
+-------------
+hly unusual for a magic, however.
+                         ^^^^^^^
+"however" is wordy or unneeded on line 207 at column 28
+-------------
+Kyle smiled slowly, one of the key concepts for Necromancy had to be time, it's 
+            ^^^^^^
+"slowly" can weaken meaning on line 213 at column 12
+-------------
+ssor Maidr fluttered her tiny wings in frustration as she looked down at the you
+                         ^^^^
+"tiny" is a weasel word on line 219 at column 30
+-------------
+Duke smiled softly, "She picked a fight with Fiona Applesilver and Abigail Ignis
+            ^^^^^^
+"softly" can weaken meaning on line 223 at column 12
+-------------
+place. The latent energy was exerted onto her."
+                         ^^^^^^^^^^^
+"was exerted" may be passive voice on line 231 at column 168
+-------------
+king her head, "So, Kyle really is haunting the school?"
+                         ^^^^^^
+"really" can weaken meaning on line 233 at column 45
+-------------
+"She will need to be informed, yes." Duke said and his brow crinkled, a strange 
+                  ^^^^^^^^^^^
+"be informed" may be passive voice on line 243 at column 18
+-------------
+ng made from bark, "I am not certain she will be able to survive the consequence
+                         ^^^^^^^^^^^
+"not certain" is wordy or unneeded on line 243 at column 121
+-------------
+It was a struggle.
+^^^^^^
+"It was" is wordy or unneeded on line 253 at column 0
+-------------
+Was Kyle really still alive?
+         ^^^^^^
+"really" can weaken meaning on line 257 at column 9
+-------------
+been terrifying, killing all of the elves in one moment, but Kyle had been stron
+                         ^^^^^^
+"all of" is wordy or unneeded on line 275 at column 34
+-------------
+nd it wasn't admiration, it was something deeper she hadn't quite seen coming.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 283 at column 69
+-------------
+ething deeper she hadn't quite seen coming.
+                         ^^^^^
+"quite" is a weasel word on line 283 at column 104
+-------------
+he was always incredibly down to earth...
+                         ^^^^^^^^^^^^^
+"down to earth" is a cliche on line 285 at column 72
+-------------
+es, something that elves rarely felt.
+                         ^^^^^^
+"rarely" can weaken meaning on line 301 at column 47
+-------------
+tern face, and she stood quietly, and left the room.
+                         ^^^^^^^
+"quietly" can weaken meaning on line 303 at column 72
+-------------
+ cool stone, when a hand gently touched her shoulder.
+                         ^^^^^^
+"gently" can weaken meaning on line 305 at column 79
+-------------
+ough a lot... But so you really want to be broken, Fiona?"
+                         ^^^^^^
+"really" can weaken meaning on line 311 at column 125
+-------------
+ut so you really want to be broken, Fiona?"
+                         ^^^^^^^^^
+"be broken" may be passive voice on line 311 at column 140
+-------------
+Fiona stared, "So Kyle really isn't dead then?"
+                       ^^^^^^
+"really" can weaken meaning on line 317 at column 23
+-------------
+shook his head, "Kyle is absolutely dead... Well, not absolutely. But he is dead
+                         ^^^^^^^^^^
+"absolutely" can weaken meaning on line 319 at column 39
+-------------
+lutely dead... Well, not absolutely. But he is dead. He just found a way to stop
+                         ^^^^^^^^^^
+"absolutely" can weaken meaning on line 319 at column 68
+-------------
+ged, "He liked Aby more. It was my father who ordered his death. I should have b
+                         ^^^^^^
+"It was" is wordy or unneeded on line 327 at column 94
+-------------
+th some trauma. It's not exactly a surprise... Take the rest of the day off. Mou
+                         ^^^^^^^
+"exactly" can weaken meaning on line 333 at column 61
+-------------
+eeling like a weight had been lifted from her shoulders.
+                         ^^^^^^^^^^^
+"been lifted" may be passive voice on line 337 at column 63
+-------------
+imming in the least, but it was as close as she could get.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 349 at column 48
+-------------
+She could see herself clearly, the lines where she had been crying, the scars fr
+                      ^^^^^^^
+"clearly" is a weasel word and can weaken meaning on line 357 at column 22
+-------------
+ boy behind her, smiling sadly.
+                         ^^^^^
+"sadly" can weaken meaning on line 359 at column 62
+-------------
+She turned slowly, wincing as she saw the room was empty.
+           ^^^^^^
+"slowly" can weaken meaning on line 361 at column 11
+-------------
+have saved me. The spear was enchanted. Untouchable, until it found its target."
+                         ^^^^^^^^^^^^^
+"was enchanted" may be passive voice on line 375 at column 102
+-------------
+ said, but Abigail could barely hear him, the static almost drowning him out.
+                         ^^^^^^
+"barely" can weaken meaning on line 379 at column 58
+-------------
+She smiled sadly, "I miss you, Kyle."
+           ^^^^^
+"sadly" can weaken meaning on line 381 at column 11
+-------------
+" He shouted, and the he was gone.
+                         ^^^^^^^^
+"was gone" may be passive voice on line 383 at column 38
+-------------
+her hands over her face. It was ridiculous. She didn't know whether she was supp
+                         ^^^^^^
+"It was" is wordy or unneeded on line 399 at column 35
+-------------
+ didn't know whether she was supposed to mourn Kyle, or attempt to save him.
+                         ^^^^^^^^^^^^
+"was supposed" may be passive voice on line 399 at column 82
+-------------
+He was gone.
+   ^^^^^^^^
+"was gone" may be passive voice on line 421 at column 3
+-------------
+Only dead.
+^^^^
+"Only" can weaken meaning on line 437 at column 0
+-------------
+rful and skilled mage in all of human history as a ghost.
+                         ^^^^^^
+"all of" is wordy or unneeded on line 447 at column 77
+-------------
+ing the darkest and most numerous army of shadowy souls called up from the depth
+                         ^^^^^^^^
+"numerous" is wordy or unneeded on line 449 at column 112
+-------------
+Eventually she sat up, sweeping her sweat-matted hair behind her, and opened the
+^^^^^^^^^^
+"Eventually" can weaken meaning on line 461 at column 0
+-------------
+to choke up, and then he was gone.
+                         ^^^^^^^^
+"was gone" may be passive voice on line 475 at column 123
+-------------
+lway, and a stone statue immediately stepped down, spinning to face her, a spear
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 477 at column 63
+-------------
+The statue stood up slowly, but didn't lower the spear, "For what reason?"
+                    ^^^^^^
+"slowly" can weaken meaning on line 481 at column 20
+In 006-Chapter-Six.md
+=============
+ if we don't, the school is done for."
+                         ^^^^^^^
+"is done" may be passive voice on line 11 at column 79
+-------------
+'t hand his body over to be destroyed, then they are going to come in force at t
+                         ^^^^^^^^^^^^
+"be destroyed" may be passive voice on line 13 at column 77
+-------------
+er looked at his student carefully, "You got a specialty yet?"
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 17 at column 37
+-------------
+wer. I'll be coming with all of it."
+                         ^^^^^^
+"all of" is wordy or unneeded on line 33 at column 119
+-------------
+ne fear, looking at what was supposed to be a first year student. He could see K
+                         ^^^^^^^^^^^^
+"was supposed" may be passive voice on line 35 at column 56
+-------------
+to the Other Side, as if it was nothing more than a booby-trapped doorway.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 35 at column 177
+-------------
+the bed when she saw who it was.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 61 at column 94
+-------------
+itamancer being all that was needed." Abigail said with a shrug, "But, the Board
+                         ^^^^^^^^^^
+"was needed" may be passive voice on line 71 at column 53
+-------------
+nding where he was, "Not quite. I could be… But I don't want to yet. A thing or 
+                         ^^^^^
+"quite" is a weasel word on line 83 at column 41
+-------------
+"Six armies." Kyle said quickly, he rubbed his chin, "Look… This isn't going to 
+                        ^^^^^^^
+"quickly" can weaken meaning on line 93 at column 24
+-------------
+g Applesilver is not the only man coming to burn my corpse and make sure I can't
+                         ^^^^
+"only" can weaken meaning on line 93 at column 152
+-------------
+t hours, then I can stop all of them at once."
+                         ^^^^^^
+"all of" is wordy or unneeded on line 93 at column 315
+-------------
+ Missing you guys a lot. Only having Wes Anderson for company is a fate I would 
+                         ^^^^
+"Only" can weaken meaning on line 97 at column 162
+-------------
+ blinked, looking at him carefully, "You're messing with time? Mages shouldn't t
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 99 at column 30
+-------------
+y." Kyle said and smiled softly, "Don't worry, I mess with far more dangerous th
+                         ^^^^^^
+"softly" can weaken meaning on line 101 at column 107
+-------------
+n be useful, but turning multiple armies against each other allows us to more fu
+                         ^^^^^^^^
+"multiple" is wordy or unneeded on line 105 at column 254
+-------------
+l it Necromancy. I'd say it is the root of all magic, and can thus leverage any 
+                         ^^^^^
+"it is" is wordy or unneeded on line 123 at column 184
+-------------
+ whispering into her ear quietly, "I think I've even discovered Diligeremancy."
+                         ^^^^^^^
+"quietly" can weaken meaning on line 139 at column 131
+-------------
+nto the edge of the bed, suddenly feeling weak, "That was… He actually likes me?
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 147 at column 58
+-------------
+s kinda hot, broody, but absolutely generous and kind. Not to mention brilliant.
+                         ^^^^^^^^^^
+"absolutely" can weaken meaning on line 161 at column 81
+-------------
+at much. We have to stop several armies. That takes more than confusion waiting 
+                         ^^^^^^^
+"several" is a weasel word on line 165 at column 121
+-------------
+t forget Duke. He is the only one who has a clue what is up with Kyle." Fiona sa
+                         ^^^^
+"only" can weaken meaning on line 175 at column 30
+-------------
+ "You know what? I think it was Duke who talked to us the other day."
+                         ^^^^^^
+"it was" is wordy or unneeded on line 175 at column 130
+-------------
+of professors, it wasn't all of them, only half a dozen. But these were men, wom
+                         ^^^^^^
+"all of" is wordy or unneeded on line 187 at column 64
+-------------
+, it wasn't all of them, only half a dozen. But these were men, women and others
+                         ^^^^
+"only" can weaken meaning on line 187 at column 77
+-------------
+he wand of a Vitamancer. However, the piece of grass that is all part of the wan
+                         ^^^^^^^
+"However" is wordy or unneeded on line 193 at column 111
+-------------
+od… Is that what I think it is?"
+                         ^^^^^
+"it is" is wordy or unneeded on line 195 at column 102
+-------------
+"No." The nymph said angrily, and the professor turned to the others, "That thin
+                     ^^^^^^^
+"angrily" can weaken meaning on line 201 at column 21
+-------------
+t of high end stuff in a very short amount of time."
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 211 at column 97
+-------------
+stabilisation. The world was destroyed by ice. He could help us rebuild it. Driv
+                         ^^^^^^^^^^^^^
+"was destroyed" may be passive voice on line 212 at column 117
+-------------
+"Yes it is." Kyle said, appearing only for a moment, and then he was gone.
+     ^^^^^
+"it is" is wordy or unneeded on line 218 at column 5
+-------------
+s." Kyle said, appearing only for a moment, and then he was gone.
+                         ^^^^
+"only" can weaken meaning on line 218 at column 34
+-------------
+or a moment, and then he was gone.
+                         ^^^^^^^^
+"was gone" may be passive voice on line 218 at column 65
+-------------
+Then he was gone.
+        ^^^^^^^^
+"was gone" may be passive voice on line 224 at column 8
+-------------
+Professor Burke stood slowly, "The walls of this school will never be breached."
+                      ^^^^^^
+"slowly" can weaken meaning on line 228 at column 22
+-------------
+f this school will never be breached."
+                         ^^^^^^^^^^^
+"be breached" may be passive voice on line 228 at column 67
+-------------
+ and he sighed heavily, "Obviously I have to step in. You are acting like idiots
+                         ^^^^^^^^^
+"Obviously" is a weasel word on line 230 at column 64
+-------------
+like idiots. This school was designed to withstand attack yes, but not by everyt
+                         ^^^^^^^^^^^^
+"was designed" may be passive voice on line 230 at column 133
+-------------
+all magic. None has ever been made before. Call me a student again."
+                         ^^^^^^^^^
+"been made" may be passive voice on line 236 at column 134
+-------------
+Draco smiled softly, "We have a decision to make."
+             ^^^^^^
+"softly" can weaken meaning on line 260 at column 13
+-------------
+o him, "The decision has been made. We will hand Kyle Kilroy's body over. And yo
+                         ^^^^^^^^^
+"been made" may be passive voice on line 262 at column 46
+-------------
+inst the Code the school was built on?"
+                         ^^^^^^^^^
+"was built" may be passive voice on line 264 at column 113
+-------------
+ himself, "The Code must be upheld. For what reason was it breached? This is you
+                         ^^^^^^^^^
+"be upheld" may be passive voice on line 272 at column 48
+-------------
+t breached? This is your only appeal."
+                         ^^^^
+"only" can weaken meaning on line 272 at column 105
+-------------
+"The Code must be upheld. For what reason was it breached? This is your only app
+               ^^^^^^^^^
+"be upheld" may be passive voice on line 280 at column 15
+-------------
+t breached? This is your only appeal." The statue leaned forward, "Follow the Co
+                         ^^^^
+"only" can weaken meaning on line 280 at column 72
+-------------
+nent, the Board will not be slain. However, marshal law will be declared. The He
+                         ^^^^^^^^
+"be slain" may be passive voice on line 290 at column 97
+-------------
+Board will not be slain. However, marshal law will be declared. The Headmaster, 
+                         ^^^^^^^
+"However" is wordy or unneeded on line 290 at column 107
+-------------
+owever, marshal law will be declared. The Headmaster, as he has not shown bias, 
+                         ^^^^^^^^^^^
+"be declared" may be passive voice on line 290 at column 133
+-------------
+lure in his duties, will be given control of the school. We will all report dire
+                         ^^^^^^^^
+"be given" may be passive voice on line 290 at column 219
+-------------
+Bellum smiled tightly, he knew the golem-like statue army wouldn't be nearly eno
+              ^^^^^^^
+"tightly" can weaken meaning on line 296 at column 14
+-------------
+of magic, but they could easily be outsmarted and destroyed.
+                         ^^^^^^
+"easily" can weaken meaning on line 296 at column 174
+-------------
+c, but they could easily be outsmarted and destroyed.
+                         ^^^^^^^^^^^^^
+"be outsmarted" may be passive voice on line 296 at column 181
+In 007-Chapter-Seven.md
+=============
+n't allow Kyle's body to be destroyed?"
+                         ^^^^^^^^^^^^
+"be destroyed" may be passive voice on line 13 at column 104
+-------------
+" She screamed, her hair immediately turning jet-black, and her eyes flickered b
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 19 at column 42
+-------------
+ Came a growl, and Fiona immediately snapped back to blonde-haired and blue-eyed
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 29 at column 36
+-------------
+s interruptions. I'm not exactly dealing with simple magic over here, on the Oth
+                         ^^^^^^^
+"exactly" can weaken meaning on line 37 at column 42
+-------------
+ the school, then I will be forced to crack open the gate to the Other Side, and
+                         ^^^^^^^^^
+"be forced" may be passive voice on line 37 at column 180
+-------------
+She swallowed nervously, feeling the fear.
+              ^^^^^^^^^
+"nervously" can weaken meaning on line 55 at column 14
+-------------
+She drew her wand slowly, feeling the professors either side of her do the same.
+                  ^^^^^^
+"slowly" can weaken meaning on line 57 at column 18
+-------------
+She was terrified.
+    ^^^^^^^^^^^^^
+"was terrified" may be passive voice on line 61 at column 4
+-------------
+e feared, everything she was paralyzed by.
+                         ^^^^^^^^^^^^^
+"was paralyzed" may be passive voice on line 63 at column 47
+-------------
+It was... Slightly humiliating.
+^^^^^^
+"It was" is wordy or unneeded on line 75 at column 0
+-------------
+Guys were meant to fall every time she walked around a corner.
+     ^^^^^^^^^^
+"were meant" may be passive voice on line 79 at column 5
+-------------
+it from burning her away completely.
+                         ^^^^^^^^^^
+"completely" is a weasel word and can weaken meaning on line 87 at column 65
+-------------
+eight mages, their power was exacerbated, amplified by each other.
+                         ^^^^^^^^^^^^^^^
+"was exacerbated" may be passive voice on line 97 at column 37
+-------------
+in terror, and whispered quickly.
+                         ^^^^^^^
+"quickly" can weaken meaning on line 117 at column 41
+-------------
+p, "The castle walls are being protected by someone with extraordinary magic. Pr
+                         ^^^^^^^^^^^^^^^
+"being protected" may be passive voice on line 121 at column 85
+-------------
+He shrugged, "Fine. Only one thing can match a circle of mages. Eight interlinke
+                    ^^^^
+"Only" can weaken meaning on line 123 at column 20
+-------------
+othing but ash and dust. Only a handful of trees remained standing, and they wer
+                         ^^^^
+"Only" can weaken meaning on line 131 at column 53
+-------------
+He smiled softly as he crested the hill, spotting the famous castle standing on 
+          ^^^^^^
+"softly" can weaken meaning on line 135 at column 10
+-------------
+fangs, "We are vampires! There is a man within, who wishes to become a Necromanc
+                         ^^^^^^^^
+"There is" is unnecessary verbiage on line 139 at column 136
+-------------
+She was only holding out against their persistent spells for a few very weak rea
+        ^^^^
+"only" can weaken meaning on line 155 at column 8
+-------------
+ persistent spells for a few very weak reasons. 
+                         ^^^
+"few" is a weasel word on line 155 at column 63
+-------------
+sistent spells for a few very weak reasons. 
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 155 at column 67
+-------------
+ walls, and burn people. It was easy. 
+                         ^^^^^^
+"It was" is wordy or unneeded on line 157 at column 82
+-------------
+sed at that though - she was shocked by how much her enhanced wand actually gave
+                         ^^^^^^^^^^^
+"was shocked" may be passive voice on line 159 at column 240
+-------------
+d he smiled, showing his many missing teeth, "Big army over hills."
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 171 at column 232
+-------------
+f his stone body, at the very thought of the pointy-eared beasts.
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 179 at column 78
+-------------
+The Troll Hoarde had been created for the very purpose.
+                     ^^^^^^^^^^^^
+"been created" may be passive voice on line 183 at column 21
+-------------
+had been created for the very purpose.
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 183 at column 42
+-------------
+that the teeth of trolls were made from diamond, and that they gathered gold in 
+                         ^^^^^^^^^
+"were made" may be passive voice on line 189 at column 34
+-------------
+Fiona's ears were bent back beside her head, her hair jet black and her eyes as 
+             ^^^^^^^^^
+"were bent" may be passive voice on line 203 at column 13
+-------------
+verwhelm her. She stood, barely a hundred meters out the front of the School's t
+                         ^^^^^^
+"barely" can weaken meaning on line 207 at column 124
+-------------
+eftness of the magic was apparent, with the wind only affecting those that fough
+                         ^^^^^^^^
+"apparent" is wordy or unneeded on line 213 at column 122
+-------------
+ apparent, with the wind only affecting those that fought against the School. Wh
+                         ^^^^
+"only" can weaken meaning on line 213 at column 146
+-------------
+re raced from his hands, it was like a spirit of nature itself, racing through e
+                         ^^^^^^
+"it was" is wordy or unneeded on line 213 at column 231
+-------------
+ozens, turning them into deadly projectiles by throwing them in a spray at a spe
+                         ^^^^^^
+"deadly" can weaken meaning on line 217 at column 67
+-------------
+fighting beside her, she was outnumbered twenty to one at the very least. It was
+                         ^^^^^^^^^^^^^^^
+"was outnumbered" may be passive voice on line 227 at column 68
+-------------
+red twenty to one at the very least. It was driving her mad.
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 227 at column 105
+-------------
+o one at the very least. It was driving her mad.
+                         ^^^^^^
+"It was" is wordy or unneeded on line 227 at column 117
+-------------
+It didn't matter how many she killed, there was no respite. Spell after spell, w
+                     ^^^^
+"many" is a weasel word and can weaken meaning on line 229 at column 21
+-------------
+ well kept man. His hair was cropped short to his head, his armour perfectly arr
+                         ^^^^^^^^^^^
+"was cropped" may be passive voice on line 235 at column 72
+-------------
+ to his head, his armour perfectly arranged. His eyes were sharp, and his intell
+                         ^^^^^^^^^
+"perfectly" can weaken meaning on line 235 at column 114
+-------------
+a tent, the wind blowing loudly outside, smoking a pipe. In his hands was a map,
+                         ^^^^^^
+"loudly" can weaken meaning on line 237 at column 80
+-------------
+ In his hands was a map, rapidly flashing.
+                         ^^^^^^^
+"rapidly" can weaken meaning on line 237 at column 136
+-------------
+of his own, this map had been devised by him, and he was glad that he had.
+                         ^^^^^^^^^^^^
+"been devised" may be passive voice on line 239 at column 48
+-------------
+m to watch the battle as it was currently unfolding.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 241 at column 162
+-------------
+tch the battle as it was currently unfolding.
+                         ^^^^^^^^^
+"currently" can weaken meaning on line 241 at column 169
+-------------
+Very few magical forces could be seen at all.
+^^^^
+"Very" is a weasel word and can weaken meaning on line 247 at column 0
+-------------
+Very few magical forces could be seen at all.
+     ^^^
+"few" is a weasel word on line 247 at column 5
+-------------
+few magical forces could be seen at all.
+                         ^^^^^^^
+"be seen" may be passive voice on line 247 at column 30
+-------------
+Yet, as to the other defences, it seemed the few on the walls were responsible f
+     ^^^^^
+"as to" is wordy or unneeded on line 255 at column 5
+-------------
+ defences, it seemed the few on the walls were responsible for the havoc playing
+                         ^^^
+"few" is a weasel word on line 255 at column 45
+-------------
+It was astonishing.
+^^^^^^
+"It was" is wordy or unneeded on line 257 at column 0
+-------------
+anced up, laying the map neatly in his lap as a soldier burst in, dressed in a d
+                         ^^^^^^
+"neatly" can weaken meaning on line 259 at column 36
+-------------
+t's a smart move if they really want all elves extinct… Who is their leader?"
+                         ^^^^^^
+"really" can weaken meaning on line 267 at column 77
+-------------
+The nymph swore violently as a bolt of lightning struck.
+                ^^^^^^^^^
+"violently" can weaken meaning on line 277 at column 16
+-------------
+She was thrown into the air, a cascade of rocks slamming into her at full force,
+    ^^^^^^^^^^
+"was thrown" may be passive voice on line 279 at column 4
+-------------
+re she had been standing was gone.
+                         ^^^^^^^^
+"was gone" may be passive voice on line 281 at column 197
+-------------
+d held her, lowering her gently to the ground.
+                         ^^^^^^
+"gently" can weaken meaning on line 289 at column 110
+-------------
+She swallowed, it was one on to thousands.
+               ^^^^^^
+"it was" is wordy or unneeded on line 295 at column 15
+-------------
+ough his field of vision was limited by the night beginning to close in, he coul
+                         ^^^^^^^^^^^
+"was limited" may be passive voice on line 309 at column 141
+-------------
+head, illuminated by the many fires, and he was not envious of those already eng
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 309 at column 252
+-------------
+me, but old scores would be settled.
+                         ^^^^^^^^^^
+"be settled" may be passive voice on line 315 at column 48
+-------------
+elicacy of the situation however, and the precarious situation he found himself 
+                         ^^^^^^^
+"however" is wordy or unneeded on line 331 at column 39
+-------------
+was a war, and with this many sides in one place… It was certain to go downhill 
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 339 at column 30
+-------------
+many sides in one place… It was certain to go downhill quickly.
+                         ^^^^^^
+"It was" is wordy or unneeded on line 339 at column 55
+-------------
+s certain to go downhill quickly.
+                         ^^^^^^^
+"quickly" can weaken meaning on line 339 at column 85
+In 008-Chapter-Eight.md
+=============
+an elf's hand, the point barely nicking the edge of Abigail's throat.
+                         ^^^^^^
+"barely" can weaken meaning on line 9 at column 71
+-------------
+ to get to her, swearing violently between his spells, fear etching itself into 
+                         ^^^^^^^^^
+"violently" can weaken meaning on line 11 at column 52
+-------------
+Abigail smiled weakly, readying her wand uncertainly, "At least Kyle's a Necroma
+               ^^^^^^
+"weakly" can weaken meaning on line 23 at column 15
+-------------
+ world, some trolls even being mistaken for mountains, then the sneak attack is 
+                         ^^^^^^^^^^^^^^
+"being mistaken" may be passive voice on line 39 at column 115
+-------------
+So Isaac did the next best thing.
+^^
+"So" adds no meaning on line 43 at column 0
+-------------
+It was hard to call that murderous scum of the earth a king, but he had to make 
+^^^^^^
+"It was" is wordy or unneeded on line 53 at column 0
+-------------
+Isaac Isaac crouched, looking into the eyes of the elf, "Why would I speak to on
+      ^^^^^
+"Isaac" is repeated on line 57 at column 6
+-------------
+The guard smiled tightly, "I've sent word. I can't allow you into the camp, till
+                 ^^^^^^^
+"tightly" can weaken meaning on line 61 at column 17
+-------------
+ou into the camp, till I am ordered."
+                         ^^^^^^^^^^
+"am ordered" may be passive voice on line 61 at column 83
+-------------
+other nature, the one he was ashamed of, the one that was his heritage and power
+                         ^^^^^^^^^^^
+"was ashamed" may be passive voice on line 69 at column 43
+-------------
+t, rage empowering their very essence.
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 71 at column 89
+-------------
+It was beginning to creep free of Bellum's grip.
+^^^^^^
+"It was" is wordy or unneeded on line 73 at column 0
+-------------
+truggling to counter the many spells thrown at him.
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 79 at column 159
+-------------
+require any incantation, only willpower. You had to convince the spell that it w
+                         ^^^^
+"only" can weaken meaning on line 81 at column 67
+-------------
+ convince the spell that it was wrong, and that it was already striking its targ
+                         ^^^^^^
+"it was" is wordy or unneeded on line 81 at column 118
+-------------
+t it was wrong, and that it was already striking its target.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 81 at column 141
+-------------
+ch, and the ground shook violently, nature rebelling against the travesty happen
+                         ^^^^^^^^^
+"violently" can weaken meaning on line 87 at column 88
+-------------
+ tearing through it like it was nothing more than a piece of cloth.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 89 at column 326
+-------------
+tossing aside the meagre few willing to risk their lives against him as nothing 
+                         ^^^
+"few" is a weasel word on line 91 at column 136
+-------------
+d over, falling the last few meters, and stared down at the girl, his hand going
+                         ^^^
+"few" is a weasel word on line 101 at column 35
+-------------
+and lifting it, "No, no, no, no…"
+                         ^^^
+"no," is repeated on line 101 at column 131
+-------------
+Bellum winced, muttering quickly, "Spirant altum, et impleant eas pulmonis cum i
+                         ^^^^^^^
+"quickly" can weaken meaning on line 105 at column 25
+-------------
+ the invitation that had only just reached him wasn't a lie.
+                         ^^^^
+"only" can weaken meaning on line 133 at column 45
+-------------
+He spoke quickly, seizing control of the blood pouring out from the man, using A
+         ^^^^^^^
+"quickly" can weaken meaning on line 135 at column 9
+-------------
+lesilver, humbly beg the assistance of New Rome, and I will remain in your debt 
+                         ^^^^^^^^^^
+"assistance" is wordy or unneeded on line 139 at column 150
+-------------
+hoose to accept. We have been attacked by the Troll Hoarde, and cannot fight bot
+                         ^^^^^^^^^^^^^
+"been attacked" may be passive voice on line 139 at column 238
+-------------
+n sighed, "Try and speak only directly with Isaac Isaac, their leader. Don't ask
+                         ^^^^
+"only" can weaken meaning on line 153 at column 32
+-------------
+ may need to explain it, slowly and with basic words, without trying to make the
+                         ^^^^^^
+"slowly" can weaken meaning on line 153 at column 191
+-------------
+ight the elves, if Isaac Isaac wants that. We want to be friends."
+                         ^^^^^
+"Isaac" is repeated on line 155 at column 227
+-------------
+he saw the elves numbers being decimated by the trolls, and then he blinked in s
+                         ^^^^^^^^^^^^^^^
+"being decimated" may be passive voice on line 159 at column 90
+-------------
+was now a mass of elves, presumably assaulting the gates themselves.
+                         ^^^^^^^^^^
+"presumably" can weaken meaning on line 161 at column 112
+-------------
+es inside the gates, but presumably their attentions were on solidifying the gat
+                         ^^^^^^^^^^
+"presumably" can weaken meaning on line 163 at column 57
+-------------
+of History and Magic had had their bluff called - unless they handed over Kyle K
+                         ^^^
+"had" is repeated on line 165 at column 36
+-------------
+ crushing the elves, and for all intents and purposes, ignoring the magic hurled
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+"for all intents and purposes" is wordy or unneeded and is a cliche on line 173 at column 178
+-------------
+vish army here, then the few defences around the elvish kingdom itself would pro
+                         ^^^
+"few" is a weasel word on line 177 at column 52
+-------------
+He laughed, it was a just turn of events.
+            ^^^^^^
+"it was" is wordy or unneeded on line 179 at column 12
+-------------
+nd diving above the wall slowly swirled out above him, as his commands took root
+                         ^^^^^^
+"slowly" can weaken meaning on line 185 at column 43
+-------------
+hit the ground at speed, easily avoiding a startled elf, snapping his neck befor
+                         ^^^^^^
+"easily" can weaken meaning on line 187 at column 31
+-------------
+an screamed as his spine was torn free in a fluid movement before he could even 
+                         ^^^^^^^^
+"was torn" may be passive voice on line 187 at column 153
+-------------
+As Andre waited to be noticed, he saw half of the magical figures standing on th
+                   ^^^^^^^^^^
+"be noticed" may be passive voice on line 193 at column 19
+-------------
+re scratched his cheek, "Really? You're going to try and make me bow at your fee
+                         ^^^^^^
+"Really" can weaken meaning on line 205 at column 28
+-------------
+he indignation fading to be replaced with resignation, "You're going to kill me.
+                         ^^^^^^^^^^^
+"be replaced" may be passive voice on line 209 at column 64
+-------------
+xtinct creature of myth. So I can track down and destroy everyone who speaks of 
+                         ^^
+"So" adds no meaning on line 211 at column 121
+-------------
+and your family line are quite delicious." Andre said with a grin, "As I recall…
+                         ^^^^^
+"quite" is a weasel word on line 217 at column 30
+-------------
+ nodded, "Wipe them out. Only one survivor. King Applesilver. Exterminate the re
+                         ^^^^
+"Only" can weaken meaning on line 219 at column 89
+-------------
+ad finished sounding, he was gone.
+                         ^^^^^^^^
+"was gone" may be passive voice on line 221 at column 86
+-------------
+his hands, he called out loudly, "Trolls! Cease your attack!"
+                         ^^^^^^
+"loudly" can weaken meaning on line 229 at column 135
+-------------
+led out loudly, "Trolls! Cease your attack!"
+                         ^^^^^
+"Cease" is wordy or unneeded on line 229 at column 152
+-------------
+d then a length of chain was wrapped around the troll's feet, causing it to fall
+                         ^^^^^^^^^^^
+"was wrapped" may be passive voice on line 241 at column 93
+-------------
+ms cut off as its throat was cut.
+                         ^^^^^^^
+"was cut" may be passive voice on line 243 at column 34
+-------------
+ry New Roman soldier has been trained and equipped to fight vampires. We'll win 
+                         ^^^^^^^^^^^^
+"been trained" may be passive voice on line 255 at column 124
+-------------
+an break the skulls of a few monsters."
+                         ^^^
+"few" is a weasel word on line 259 at column 135
+-------------
+Abigail swallowed nervously, "This suddenly got harder."
+                  ^^^^^^^^^
+"nervously" can weaken meaning on line 265 at column 18
+-------------
+allowed nervously, "This suddenly got harder."
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 265 at column 35
+-------------
+ laughed bitterly, "Yep. So now we leave."
+                         ^^
+"So" adds no meaning on line 277 at column 32
+-------------
+e." Professor Maidr said sadly, looking at the young elf lying on a stretcher, j
+                         ^^^^^
+"sadly" can weaken meaning on line 289 at column 43
+-------------
+ed to stop all this when it was just a few assassins looking for Kilroy's head… 
+                         ^^^^^^
+"it was" is wordy or unneeded on line 295 at column 43
+-------------
+ this when it was just a few assassins looking for Kilroy's head… Because of his
+                         ^^^
+"few" is a weasel word on line 295 at column 57
+-------------
+where her throat used to be revealed the tactless and off-hand way in which a va
+                         ^^^^^^^^^^^
+"be revealed" may be passive voice on line 297 at column 78
+-------------
+Barely an adolescent by elvish standards, and she understood war and politics be
+^^^^^^
+"Barely" can weaken meaning on line 301 at column 0
+-------------
+She was gone.
+    ^^^^^^^^
+"was gone" may be passive voice on line 321 at column 4
+In 009-Chapter-Nine.md
+=============
+ the movement, "I didn't really have time to pay attention to that sort of thing
+                         ^^^^^^
+"really" can weaken meaning on line 25 at column 89
+-------------
+couldn't think straight, only one thought spinning around and around in her head
+                         ^^^^
+"only" can weaken meaning on line 39 at column 29
+-------------
+ng was wrong filled her, it was the strongest conviction she held in her life, b
+                         ^^^^^^
+"it was" is wordy or unneeded on line 41 at column 46
+-------------
+e couldn't work out what exactly was wrong.
+                         ^^^^^^^
+"exactly" can weaken meaning on line 41 at column 131
+-------------
+very time she tried, she was overwhelmed by the thought again, leaving her motio
+                         ^^^^^^^^^^^^^^^
+"was overwhelmed" may be passive voice on line 43 at column 26
+-------------
+ back from it, breathing only happened whenever she could focus all her energy o
+                         ^^^^
+"only" can weaken meaning on line 45 at column 74
+-------------
+However, strange enough, she wasn't in any pain at all.
+^^^^^^^
+"However" is wordy or unneeded on line 47 at column 0
+-------------
+na sat bolt upright, and immediately she was stabbed with more pain than she had
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 51 at column 28
+-------------
+ght, and immediately she was stabbed with more pain than she had ever felt, ever
+                         ^^^^^^^^^^^
+"was stabbed" may be passive voice on line 51 at column 44
+-------------
+e vampire winced, "We've been attacked. The Troll Hoarde has been defeated."
+                         ^^^^^^^^^^^^^
+"been attacked" may be passive voice on line 59 at column 27
+-------------
+ed. The Troll Hoarde has been defeated."
+                         ^^^^^^^^^^^^^
+"been defeated" may be passive voice on line 59 at column 63
+-------------
+e swept the groaning and only half-alive King Applesilver onto his shoulder, "So
+                         ^^^^
+"only" can weaken meaning on line 65 at column 26
+-------------
+ng above a cloud, before sharply turning and shooting out towards a distant moun
+                         ^^^^^^^
+"sharply" can weaken meaning on line 69 at column 54
+-------------
+uched down onto the soil softly, and walked inside the cave, dumping King Apples
+                         ^^^^^^
+"softly" can weaken meaning on line 71 at column 30
+-------------
+riend, and she swallowed nervously. Fiona was soaked in sweat, her teeth chatter
+                         ^^^^^^^^^
+"nervously" can weaken meaning on line 85 at column 103
+-------------
+allowed nervously. Fiona was soaked in sweat, her teeth chattered, and her eyes 
+                         ^^^^^^^^^^
+"was soaked" may be passive voice on line 85 at column 120
+-------------
+The pixie looked at her sadly, "There's nothing we can do, Abigail."
+                        ^^^^^
+"sadly" can weaken meaning on line 89 at column 24
+-------------
+nt, and he looked at her carefully, "I need your help here, Miss Inglis. We're l
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 97 at column 61
+-------------
+'t form any scar tissue. So… Breathing is an issue. I'm keeping her alive… But I
+                         ^^
+"So" adds no meaning on line 105 at column 112
+-------------
+The professor stared, "Really? That's… Impossible."
+                       ^^^^^^
+"Really" can weaken meaning on line 117 at column 23
+-------------
+er defensive spell, "No… Only highly improbable. Now are you done wasting your t
+                         ^^^^
+"Only" can weaken meaning on line 119 at column 68
+-------------
+ws remembered the school quite well, and if the flames in the distance were anyt
+                         ^^^^^
+"quite" is a weasel word on line 139 at column 39
+-------------
+That being said, the fight they were putting up couldn't be said to be overwhelm
+     ^^^^^^^^^^
+"being said" may be passive voice on line 159 at column 5
+-------------
+were putting up couldn't be said to be overwhelming. Their defeat was simply a m
+                         ^^^^^^^
+"be said" may be passive voice on line 159 at column 57
+-------------
+elming. Their defeat was simply a matter of time.
+                         ^^^^^^
+"simply" can weaken meaning on line 159 at column 102
+-------------
+ of Kyle Kilroy was also simply a matter of time.
+                         ^^^^^^
+"simply" can weaken meaning on line 161 at column 78
+-------------
+Andre had been forced to interfere, blank Kyle's mind and send him away, four ti
+          ^^^^^^^^^^^
+"been forced" may be passive voice on line 167 at column 10
+-------------
+nemy. Removing them will simply strengthen the defences of the school. To win th
+                         ^^^^^^
+"simply" can weaken meaning on line 173 at column 136
+-------------
+r, all these armies must be united. Trolls, elves, humans and vampires. A unites
+                         ^^^^^^^^^
+"be united" may be passive voice on line 173 at column 221
+-------------
+the moment that his body is destroyed... But it must be done."
+                         ^^^^^^^^^^^^
+"is destroyed" may be passive voice on line 173 at column 396
+-------------
+destroyed... But it must be done."
+                         ^^^^^^^
+"be done" may be passive voice on line 173 at column 424
+-------------
+He had only spoken the truth, and as the night fell outside, he knew that they h
+       ^^^^
+"only" can weaken meaning on line 177 at column 7
+In 010-Chapter-Ten.md
+=============
+army grinned, "Emmanual. So Balsa has finally made a decision, has it?"
+                         ^^
+"So" adds no meaning on line 7 at column 54
+-------------
+ "Emmanual. So Balsa has finally made a decision, has it?"
+                         ^^^^^^^
+"finally" can weaken meaning on line 7 at column 67
+-------------
+rors of battle. You will be replaced by a doppelganger. Your army will return ho
+                         ^^^^^^^^^^^
+"be replaced" may be passive voice on line 23 at column 93
+-------------
+as resurrected, you will be returned to your people."
+                         ^^^^^^^^^^^
+"be returned" may be passive voice on line 23 at column 195
+-------------
+He was outmatched by a man who could paralyse his throat before he could yell fo
+   ^^^^^^^^^^^^^^
+"was outmatched" may be passive voice on line 27 at column 3
+-------------
+afeteria, where once had been served poisonous substances with a small aspect of
+                         ^^^^^^^^^^^
+"been served" may be passive voice on line 43 at column 37
+-------------
+mped over those that had been injured, others turned into a slush upon the floor
+                         ^^^^^^^^^^^^
+"been injured" may be passive voice on line 45 at column 90
+-------------
+te hair, opened her eyes slowly, gasping in pain.
+                         ^^^^^^
+"slowly" can weaken meaning on line 49 at column 56
+-------------
+gail glanced around, she immediately screamed and tossed herself back into a cor
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 65 at column 28
+-------------
+g over and picking it up suspiciously, and her jaw dropped.
+                         ^^^^^^^^^^^^
+"suspiciously" can weaken meaning on line 73 at column 47
+-------------
+ey didn't get my body. A few traps. For now, you need to get out of here. I'm wi
+                         ^^^
+"few" is a weasel word on line 75 at column 60
+-------------
+She swallowed nervously, staring around.
+              ^^^^^^^^^
+"nervously" can weaken meaning on line 77 at column 14
+-------------
+It was... Ridiculous.
+^^^^^^
+"It was" is wordy or unneeded on line 81 at column 0
+-------------
+Really?
+^^^^^^
+"Really" can weaken meaning on line 83 at column 0
+-------------
+ling, and she grabbed it frantically.
+                         ^^^^^^^^^^^
+"frantically" can weaken meaning on line 89 at column 75
+-------------
+She stood up slowly, and crept over to a window, looking out.
+             ^^^^^^
+"slowly" can weaken meaning on line 97 at column 13
+-------------
+alls, and the Elven Army was camped at the gate. Behind them were trolls walking
+                         ^^^^^^^^^^
+"was camped" may be passive voice on line 99 at column 81
+-------------
+Which only left the cliff.
+      ^^^^
+"only" can weaken meaning on line 103 at column 6
+-------------
+It was utterly insane.
+^^^^^^
+"It was" is wordy or unneeded on line 107 at column 0
+-------------
+Kyle stood up slowly, turning, rage written on his face, "If Fiona dies, I will 
+              ^^^^^^
+"slowly" can weaken meaning on line 125 at column 14
+-------------
+he vampire frowned, "She was attacked by a vampire, yes?"
+                         ^^^^^^^^^^^^
+"was attacked" may be passive voice on line 127 at column 26
+-------------
+dying." The vampire said carefully, "But she won't remain that way. She'll be a 
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 131 at column 32
+-------------
+We can't bend the rules, only bend what everyone thinks are the rules. Surely yo
+                         ^^^^
+"only" can weaken meaning on line 135 at column 59
+-------------
+ing it. He couldn't know exactly what he was supposed to do, he had no idea how 
+                         ^^^^^^^
+"exactly" can weaken meaning on line 153 at column 104
+-------------
+n't know exactly what he was supposed to do, he had no idea how to heal a vampir
+                         ^^^^^^^^^^^^
+"was supposed" may be passive voice on line 153 at column 120
+-------------
+heal a vampire's attack. So instead, he gave the magic a purpose, and a small te
+                         ^^
+"So" adds no meaning on line 153 at column 187
+-------------
+Kyle smiled, it was similar to the protection spell that ended up with him stuck
+             ^^^^^^
+"it was" is wordy or unneeded on line 157 at column 13
+-------------
+Kyle smiled, it was similar to the protection spell that ended up with him stuck
+                    ^^^^^^^^^^
+"similar to" is wordy or unneeded on line 157 at column 20
+-------------
+Considering he had been struck by one of the nastier enchantments he knew of, wh
+                   ^^^^^^^^^^^
+"been struck" may be passive voice on line 159 at column 19
+-------------
+o ice, whereas Fiona was being kept alive by the enchanted strike.
+                         ^^^^^^^^^^
+"being kept" may be passive voice on line 159 at column 147
+-------------
+ind him, and Kyle turned slowly, inspecting the king. He was less haggard than h
+                         ^^^^^^
+"slowly" can weaken meaning on line 161 at column 79
+-------------
+Applesilver swallowed nervously, "What do you want?"
+                      ^^^^^^^^^
+"nervously" can weaken meaning on line 169 at column 22
+-------------
+He spoke quietly, feeling the familiar magic flowing through him.
+         ^^^^^^^
+"quietly" can weaken meaning on line 177 at column 9
+-------------
+ted, and Kyle breathed a sigh of relief, collapsing backwards, sweat cascading o
+                         ^^^^^^^^^^^^^^
+"sigh of relief" is a cliche on line 195 at column 42
+-------------
+e elf gasped, sitting up suddenly, holding her neck, and Kyle smiled, "Till now.
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 205 at column 27
+-------------
+over, grabbing her hands gently, "Hey, Fi."
+                         ^^^^^^
+"gently" can weaken meaning on line 207 at column 46
+-------------
+le to heal you. I didn't really hurt him, just the shoulder. Before everyone gan
+                         ^^^^^^
+"really" can weaken meaning on line 215 at column 120
+-------------
+ona burst out laughing, "Really? Father? You let a vampire kidnap you?"
+                         ^^^^^^
+"Really" can weaken meaning on line 217 at column 27
+-------------
+ched her fists, standing slowly, "Truly? Then why did Kyle have to forcibly take
+                         ^^^^^^
+"slowly" can weaken meaning on line 221 at column 33
+-------------
+d, touching her shoulder gently, "I'm sorry, but I need to go talk to the rest o
+                         ^^^^^^
+"gently" can weaken meaning on line 223 at column 45
+-------------
+gs stand, the school has been obliterated. Draco is dead. So are most of the pro
+                         ^^^^^^^^^^^^^^^^
+"been obliterated" may be passive voice on line 227 at column 138
+-------------
+iterated. Draco is dead. So are most of the professors. I think maybe a dozen st
+                         ^^
+"So" adds no meaning on line 227 at column 171
+-------------
+ to the ground, standing slowly, and the two elves stared at each other.
+                         ^^^^^^
+"slowly" can weaken meaning on line 239 at column 41
+-------------
+Fiona smiled softly, "Firstly, that oath? It says I must protect my nation. If I
+             ^^^^^^
+"softly" can weaken meaning on line 243 at column 13
+-------------
+. Secondly… I just died. There are no spells binding me. They're gone."
+                         ^^^^^^^^^
+"There are" is unnecessary verbiage on line 243 at column 176
+-------------
+, "You trained me? No… I was trained by a golem. I was trained by a Pyromancer. 
+                         ^^^^^^^^^^^
+"was trained" may be passive voice on line 247 at column 49
+-------------
+as trained by a golem. I was trained by a Pyromancer. I was trained by an Aimima
+                         ^^^^^^^^^^^
+"was trained" may be passive voice on line 247 at column 75
+-------------
+ained by a Pyromancer. I was trained by an Aimimancer and a Necromancer."
+                         ^^^^^^^^^^^
+"was trained" may be passive voice on line 247 at column 106
+-------------
+yle walked into the room slowly, trying to ignore what he had heard down the hal
+                         ^^^^^^
+"slowly" can weaken meaning on line 261 at column 26
+-------------
+had heard down the hall, it was Fiona's choice.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 261 at column 84
+-------------
+ people in the room were hardly as distracted, and he could count bared fangs, c
+                         ^^^^^^
+"hardly" can weaken meaning on line 265 at column 28
+-------------
+glared, looking around, "All of you came here for one reason, or another. You ca
+                         ^^^^^^
+"All of" is wordy or unneeded on line 275 at column 28
+-------------
+her to make sure my body was destroyed, or preserved. I survived. And… I'm not e
+                         ^^^^^^^^^^^^^
+"was destroyed" may be passive voice on line 275 at column 114
+-------------
+ to see the destruction. Many of my professors, who earned my respect, are dead.
+                         ^^^^
+"Many" is a weasel word and can weaken meaning on line 275 at column 209
+-------------
+even managed to kill the only dragon-human hybrid. Not really happy with any of 
+                         ^^^^
+"only" can weaken meaning on line 275 at column 294
+-------------
+dragon-human hybrid. Not really happy with any of you."
+                         ^^^^^^
+"really" can weaken meaning on line 275 at column 324
+-------------
+up again, looking around wildly, and Kyle smiled, "Enjoy your time on the Other 
+                         ^^^^^^
+"wildly" can weaken meaning on line 287 at column 72
+-------------
+n the Other Side? Meet a few people I know?"
+                         ^^^
+"few" is a weasel word on line 287 at column 140
+-------------
+"I am the only monster here!" Kyle yelled angrily, standing up, the table and ch
+          ^^^^
+"only" can weaken meaning on line 295 at column 10
+-------------
+nster here!" Kyle yelled angrily, standing up, the table and chairs melting back
+                         ^^^^^^^
+"angrily" can weaken meaning on line 295 at column 42
+-------------
+seem to understand that. So I think I need to make a point."
+                         ^^
+"So" adds no meaning on line 295 at column 184
+-------------
+Isaac Isaac looked down at Kyle, his face full of boredom, and Kyle smiled softl
+      ^^^^^
+"Isaac" is repeated on line 299 at column 6
+-------------
+boredom, and Kyle smiled softly, "Trolls are quite strong, yes?"
+                         ^^^^^^
+"softly" can weaken meaning on line 299 at column 75
+-------------
+iled softly, "Trolls are quite strong, yes?"
+                         ^^^^^
+"quite" is a weasel word on line 299 at column 95
+-------------
+The leader nodded softly, and Kyle grinned, "Do trolls have weaknesses?"
+                  ^^^^^^
+"softly" can weaken meaning on line 301 at column 18
+-------------
+Isaac Isaac sighed, "Hunger and… Not smart."
+      ^^^^^
+"Isaac" is repeated on line 303 at column 6
+-------------
+Isaac Isaac frowned, "Why compliment… Me?"
+      ^^^^^
+"Isaac" is repeated on line 307 at column 6
+-------------
+am going to hurt trolls. Badly."
+                         ^^^^^
+"Badly" can weaken meaning on line 309 at column 49
+-------------
+portant to these others. So… Trolls need some more anger at them."
+                         ^^
+"So" adds no meaning on line 313 at column 91
+-------------
+Isaac Isaac glared, "What do… You mean?"
+      ^^^^^
+"Isaac" is repeated on line 315 at column 6
+-------------
+The necromancer smiled softly, "Cum sol Troglodytarum non movebitur. Et lapis si
+                       ^^^^^^
+"softly" can weaken meaning on line 319 at column 23
+-------------
+Isaac Isaac yelled angrily, raising his fist, but he froze on the spot, the ligh
+      ^^^^^
+"Isaac" is repeated on line 321 at column 6
+-------------
+Isaac Isaac yelled angrily, raising his fist, but he froze on the spot, the ligh
+                   ^^^^^^^
+"angrily" can weaken meaning on line 321 at column 19
+-------------
+g his fist, but he froze on the spot, the light fading from his eyes.
+                         ^^^^^^^^^^^
+"on the spot" is a cliche on line 321 at column 59
+In 011-Chapter-Eleven.md
+=============
+ staring at the sun, but it was frozen, and it seemed basically dead.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 7 at column 50
+-------------
+aring at the sun, but it was frozen, and it seemed basically dead.
+                         ^^^^^^^^^^
+"was frozen" may be passive voice on line 7 at column 53
+-------------
+Professor Duke smiled softly at her, turning, "Ah, Miss Ignis. I am glad to see 
+                      ^^^^^^
+"softly" can weaken meaning on line 11 at column 22
+-------------
+yle became a Necromancer really quickly, didn't he?"
+                         ^^^^^^
+"really" can weaken meaning on line 17 at column 44
+-------------
+ame a Necromancer really quickly, didn't he?"
+                         ^^^^^^^
+"quickly" can weaken meaning on line 17 at column 51
+-------------
+The dryad looked down sadly, "I attempted to change the past. I found I could no
+                      ^^^^^
+"sadly" can weaken meaning on line 23 at column 22
+-------------
+ not. Once something has been observed, the outcome is determined. I could not c
+                         ^^^^^^^^^^^^^
+"been observed" may be passive voice on line 23 at column 102
+-------------
+en observed, the outcome is determined. I could not change that observation."
+                         ^^^^^^^^^^^^^
+"is determined" may be passive voice on line 23 at column 129
+-------------
+The nymph smiled softly, "So what now, professor?"
+                 ^^^^^^
+"softly" can weaken meaning on line 25 at column 17
+-------------
+tepped into the sunlight cautiously, as the door creaked shut behind her.
+                         ^^^^^^^^^^
+"cautiously" can weaken meaning on line 45 at column 32
+-------------
+r beating heart, but she was terrified.
+                         ^^^^^^^^^^^^^
+"was terrified" may be passive voice on line 47 at column 50
+-------------
+e... It had been kill or be killed.
+                         ^^^^^^^^^
+"be killed" may be passive voice on line 63 at column 50
+-------------
+Many had teased her, most had ignored her.
+^^^^
+"Many" is a weasel word and can weaken meaning on line 69 at column 0
+-------------
+She knew what it was to be a soldier.
+              ^^^^^^
+"it was" is wordy or unneeded on line 73 at column 14
+-------------
+c at the ready, stepping carefully around the corpses.
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 79 at column 70
+-------------
+She smiled weakly at them, "The Headmaster?"
+           ^^^^^^
+"weakly" can weaken meaning on line 85 at column 11
+-------------
+raco lies dead. Our duty is bound to his successor."
+                         ^^^^^^^^
+"is bound" may be passive voice on line 89 at column 106
+-------------
+ soldier nodded, "And it shall be rebuilt. As it has before. It is only the hear
+                         ^^^^^
+"shall" is wordy or unneeded on line 99 at column 28
+-------------
+built. As it has before. It is only the heart of a pure being, one who has reach
+                         ^^^^^
+"It is" is wordy or unneeded on line 99 at column 64
+-------------
+ As it has before. It is only the heart of a pure being, one who has reached bey
+                         ^^^^
+"only" can weaken meaning on line 99 at column 70
+-------------
+de you, wherever you go. It is our duty to protect you, however long you live."
+                         ^^^^^
+"It is" is wordy or unneeded on line 103 at column 85
+-------------
+our duty to protect you, however long you live."
+                         ^^^^^^^
+"however" is wordy or unneeded on line 103 at column 116
+-------------
+Emmanuel nodded slowly, "I understand the graveness of the situation, I assure y
+                ^^^^^^
+"slowly" can weaken meaning on line 115 at column 16
+-------------
+tuation, I assure you. I was sent to protect you, so that you might consider pro
+                         ^^^^^^^^
+"was sent" may be passive voice on line 115 at column 86
+-------------
+ and Emmanuel shrugged, "It is clear that no one could control you, Kyle Kilroy.
+                         ^^^^^
+"It is" is wordy or unneeded on line 119 at column 99
+-------------
+ be dumb enough to dare? However… Balsa is not a nation without enemies. Support
+                         ^^^^^^^
+"However" is wordy or unneeded on line 119 at column 214
+-------------
+yle burst out laughing, "Really? I can't protect them all? Did you know that one
+                         ^^^^^^
+"Really" can weaken meaning on line 121 at column 26
+-------------
+you know that one of the few people I have ever dared to call a friend, an elf, 
+                         ^^^
+"few" is a weasel word on line 121 at column 89
+-------------
+o call a friend, an elf, was poisoned by a vampire recently? Do you know what ha
+                         ^^^^^^^^^^^^
+"was poisoned" may be passive voice on line 121 at column 144
+-------------
+as poisoned by a vampire recently? Do you know what happened to her?"
+                         ^^^^^^^^
+"recently" can weaken meaning on line 121 at column 170
+-------------
+Andre glared, "Yes… How exactly can one cure a vampire?"
+                        ^^^^^^^
+"exactly" can weaken meaning on line 123 at column 24
+-------------
+Kyle looked over at him carefully, "I never said I cured her. I couldn't. The es
+                        ^^^^^^^^^
+"carefully" can weaken meaning on line 125 at column 24
+-------------
+hed heavily, "My parents were killed when I was younger… I was eleven years old.
+                         ^^^^^^^^^^^
+"were killed" may be passive voice on line 137 at column 33
+-------------
+can't undo the past… You are left with this gaping wound in your soul, this abse
+                         ^^^^^^^^
+"are left" may be passive voice on line 139 at column 225
+-------------
+Emmanuel swallowed nervously, "You plan to go to war with the vampires?"
+                   ^^^^^^^^^
+"nervously" can weaken meaning on line 143 at column 19
+-------------
+he vampiric leader, "The only reason I allow you to live, any of you, is that a 
+                         ^^^^
+"only" can weaken meaning on line 149 at column 47
+-------------
+t a close friend of mine was sired by one of your kind. Kill the sire, you kill 
+                         ^^^^^^^^^
+"was sired" may be passive voice on line 149 at column 123
+-------------
+ The Other Side… Doesn't really like it when you interfere."
+                         ^^^^^^
+"really" can weaken meaning on line 149 at column 270
+-------------
+Abigail smiled softly as she crested the hill beside the dryad, her eyes sparkli
+               ^^^^^^
+"softly" can weaken meaning on line 165 at column 15
+-------------
+o stop and swim. We have several armies wanting our heads, and they're only half
+                         ^^^^^^^
+"several" is a weasel word on line 173 at column 70
+-------------
+g our heads, and they're only half a day's march behind. If Kyle manages to piss
+                         ^^^^
+"only" can weaken meaning on line 173 at column 116
+-------------
+The two began to carefully pick their path down the mountainside, climbing down 
+                 ^^^^^^^^^
+"carefully" can weaken meaning on line 177 at column 17
+-------------
+It was her idea of heaven, and yet, twelve hours ago, she had been fighting for 
+^^^^^^
+"It was" is wordy or unneeded on line 181 at column 0
+-------------
+But now, it was just her.
+         ^^^^^^
+"it was" is wordy or unneeded on line 185 at column 9
+-------------
+from up ahead, the dryad barely pausing for breath as he walked, "You feel life.
+                         ^^^^^^
+"barely" can weaken meaning on line 193 at column 80
+-------------
+ stopped, looking at him carefully, "Kyle said something like there is no separa
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 199 at column 32
+-------------
+yad shook his head, "Not quite. All magic can use all other magic. So a necroman
+                         ^^^^^
+"quite" is a weasel word on line 201 at column 31
+-------------
+can use all other magic. So a necromancer… They have an advantage, in that we do
+                         ^^
+"So" adds no meaning on line 201 at column 73
+-------------
+normal ways to use magic are bared to us, because we have died. We're cut off… A
+                         ^^^^^^^^^
+"are bared" may be passive voice on line 201 at column 198
+In 012-Chapter-Twelve.md
+=============
+t the weight of the past few days fading as her feet touched the water.
+                         ^^^
+"few" is a weasel word on line 5 at column 36
+-------------
+ she could see the world clearly, she felt the focus she could bring to bear.
+                         ^^^^^^^
+"clearly" is a weasel word and can weaken meaning on line 9 at column 58
+-------------
+n ways most people could only dream of.
+                         ^^^^
+"only" can weaken meaning on line 19 at column 186
+-------------
+parating, and she smiled softly at the creature staring at her in disgust.
+                         ^^^^^^
+"softly" can weaken meaning on line 25 at column 61
+-------------
+ed to the dryad swimming calmly, barely in sight. He waved back.
+                         ^^^^^^
+"calmly" can weaken meaning on line 39 at column 91
+-------------
+e dryad swimming calmly, barely in sight. He waved back.
+                         ^^^^^^
+"barely" can weaken meaning on line 39 at column 99
+-------------
+with their every step... It was unnerving.
+                         ^^^^^^
+"It was" is wordy or unneeded on line 51 at column 86
+-------------
+It was terrifying, really.
+^^^^^^
+"It was" is wordy or unneeded on line 53 at column 0
+-------------
+It was terrifying, really.
+                   ^^^^^^
+"really" can weaken meaning on line 53 at column 19
+-------------
+ldiers knew it, but they simply didn't care. They had their duty, and they would
+                         ^^^^^^
+"simply" can weaken meaning on line 55 at column 57
+-------------
+ carry it through to the very end.
+                         ^^^^
+"very" is a weasel word and can weaken meaning on line 55 at column 137
+-------------
+sed to the Elvish people was gone. And now… Now she had to go and prepare them f
+                         ^^^^^^^^
+"was gone" may be passive voice on line 59 at column 101
+-------------
+With many, many dead vampires.
+     ^^^^
+"many" is a weasel word and can weaken meaning on line 73 at column 5
+-------------
+With many, many dead vampires.
+           ^^^^
+"many" is a weasel word and can weaken meaning on line 73 at column 11
+-------------
+aded through the waters, slowly and carefully, as was the way of his ancient peo
+                         ^^^^^^
+"slowly" can weaken meaning on line 83 at column 38
+-------------
+h the waters, slowly and carefully, as was the way of his ancient people.
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 83 at column 49
+-------------
+a curious race to most - simply because when they looked at a tree they saw some
+                         ^^^^^^
+"simply" can weaken meaning on line 85 at column 41
+-------------
+His own people were simply those trees that had decided to ignore the rules of n
+                    ^^^^^^
+"simply" can weaken meaning on line 97 at column 20
+-------------
+eatures that should have simply weathered the test of time, and watched on uncar
+                         ^^^^^^
+"simply" can weaken meaning on line 99 at column 62
+-------------
+f the wise had yet again been abandoned, and a few young people had begun to cha
+                         ^^^^^^^^^^^^^^
+"been abandoned" may be passive voice on line 105 at column 73
+-------------
+in been abandoned, and a few young people had begun to change the world.
+                         ^^^
+"few" is a weasel word on line 105 at column 95
+-------------
+If only they had known the cost of their few actions.
+   ^^^^
+"only" can weaken meaning on line 107 at column 3
+-------------
+ known the cost of their few actions.
+                         ^^^
+"few" is a weasel word on line 107 at column 41
+-------------
+Duke was lost within his dark brooding thoughts as he slowly crossed the river.
+     ^^^^^^^^
+"was lost" may be passive voice on line 115 at column 5
+-------------
+ brooding thoughts as he slowly crossed the river.
+                         ^^^^^^
+"slowly" can weaken meaning on line 115 at column 54
+-------------
+ould bring to bear - but it was all she had.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 127 at column 153
+-------------
+ring as she examined the various spectrums of light.
+                         ^^^^^^^
+"various" is a weasel word on line 129 at column 62
+-------------
+it wasn't, then it would likely kill her before she saw it.
+                         ^^^^^^
+"likely" can weaken meaning on line 137 at column 101
+-------------
+Whatever it was… That was a creature of destruction.
+         ^^^^^^
+"it was" is wordy or unneeded on line 139 at column 9
+-------------
+ around behind, swearing violently and dropping to the ground as a fist as large
+                         ^^^^^^^^^
+"violently" can weaken meaning on line 145 at column 102
+-------------
+It was hunting her, driving it towards a place she had no hope of escaping.
+^^^^^^
+"It was" is wordy or unneeded on line 149 at column 0
+-------------
+ng to the ground, except it was now gone, and she was falling head over heels do
+                         ^^^^^^
+"it was" is wordy or unneeded on line 167 at column 52
+-------------
+one, and she was falling head over heels down a dark abyss.
+                         ^^^^^^^^^^^^^^^
+"head over heels" is a cliche on line 167 at column 89
+-------------
+She was gone.
+    ^^^^^^^^
+"was gone" may be passive voice on line 171 at column 4
+-------------
+It was an impossible deadline for her, nearly a week from her kingdom, but she n
+^^^^^^
+"It was" is wordy or unneeded on line 209 at column 0
+-------------
+lged as she felt herself simply jerk to a stop. She looked up at the owner of th
+                         ^^^^^^
+"simply" can weaken meaning on line 219 at column 79
+-------------
+other soldiers, and they immediately began to pummel the ground, throwing up sno
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 221 at column 56
+-------------
+It was a charter, that he and the others had been arguing and discussing for nea
+^^^^^^
+"It was" is wordy or unneeded on line 235 at column 0
+-------------
+ nearly a full day - but it was nearly complete.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 235 at column 101
+-------------
+ueezing his fist so that several drops struck the paper.
+                         ^^^^^^^
+"several" is a weasel word on line 239 at column 91
+-------------
+His spell immediately took hold, and Kyle winced as he felt the unbreakable vow 
+          ^^^^^^^^^^^
+"immediately" can weaken meaning on line 241 at column 10
+-------------
+He looked up, and smiled softly, "Who's next?"
+                         ^^^^^^
+"softly" can weaken meaning on line 243 at column 25
+-------------
+ once perfect black hair was torn in places, burned in others. But if you swept 
+                         ^^^^^^^^
+"was torn" may be passive voice on line 251 at column 28
+-------------
+ainst the soil, speaking hurriedly through chattering teeth, "Crescere calor, gl
+                         ^^^^^^^^^
+"hurriedly" can weaken meaning on line 263 at column 55
+-------------
+rough the sweeping snow, barely allowing her to see a couple feet in front of he
+                         ^^^^^^
+"barely" can weaken meaning on line 267 at column 83
+In 013-Chapter-Thirteen.md
+=============
+ed on the cave. He spoke loudly, hoping the girl on her hands and knees could co
+                         ^^^^^^
+"loudly" can weaken meaning on line 5 at column 121
+-------------
+dea." The nymph shivered violently, "Think I gave myself a hallucination." 
+                         ^^^^^^^^^
+"violently" can weaken meaning on line 17 at column 86
+-------------
+e creature..." She spoke nervously, trying to hide her anxiety. 
+                         ^^^^^^^^^
+"nervously" can weaken meaning on line 21 at column 87
+-------------
+Fiona yawned, sitting up slowly, instinctively reaching for a bow that was no lo
+                         ^^^^^^
+"slowly" can weaken meaning on line 33 at column 25
+-------------
+The school really as gone - destroyed in a war to find, capture and eliminate th
+           ^^^^^^
+"really" can weaken meaning on line 39 at column 11
+-------------
+war to find, capture and eliminate the threat that a kid she had known for a cou
+                         ^^^^^^^^^
+"eliminate" is wordy or unneeded on line 39 at column 68
+-------------
+to save a world that had been destroyed by a thousand generations of the past? 
+                         ^^^^^^^^^^^^^^
+"been destroyed" may be passive voice on line 47 at column 112
+-------------
+the form of the creature simply stepped through the shrapnel, moving at impossib
+                         ^^^^^^
+"simply" can weaken meaning on line 61 at column 145
+-------------
+Peace has been found. 
+          ^^^^^^^^^^
+"been found" may be passive voice on line 72 at column 10
+-------------
+at pissy with me, due to being cursed. No sunlight for them. As to the vampires?
+                         ^^^^^^^^^^^^
+"being cursed" may be passive voice on line 76 at column 231
+-------------
+d. No sunlight for them. As to the vampires? We have declared war on their homel
+                         ^^^^^
+"As to" is wordy or unneeded on line 76 at column 267
+-------------
+However, to finish this treaty, we need a representative from your homeland. 
+^^^^^^^
+"However" is wordy or unneeded on line 78 at column 0
+-------------
+Let me know quickly, these people are really angry, and ready to lash out. 
+            ^^^^^^^
+"quickly" can weaken meaning on line 86 at column 12
+-------------
+uickly, these people are really angry, and ready to lash out. 
+                         ^^^^^^
+"really" can weaken meaning on line 86 at column 38
+-------------
+So it's the war march soon. 
+^^
+"So" adds no meaning on line 88 at column 0
+-------------
+he letter and lowered it slowly, "Tell Kyle... Tell him I have a priority to pro
+                         ^^^^^^
+"slowly" can weaken meaning on line 95 at column 42
+-------------
+ampire laughed, and then it was gone. 
+                         ^^^^^^
+"it was" is wordy or unneeded on line 97 at column 30
+-------------
+ire laughed, and then it was gone. 
+                         ^^^^^^^^
+"was gone" may be passive voice on line 97 at column 33
+-------------
+She was flung up into the open, and she hit the snowy ground running, knowing th
+    ^^^^^^^^^
+"was flung" may be passive voice on line 101 at column 4
+-------------
+lacksmith's tent, swords were scattered near the armoury, and the shatter toothp
+                         ^^^^^^^^^^^^^^
+"were scattered" may be passive voice on line 111 at column 163
+-------------
+A small, very sharp, and somewhat shiny blade appeared in his peripheral, and st
+         ^^^^
+"very" is a weasel word and can weaken meaning on line 115 at column 9
+-------------
+They nodded slowly, surprised, "That was strength, General… But it was also stup
+            ^^^^^^
+"slowly" can weaken meaning on line 121 at column 12
+-------------
+s strength, General… But it was also stupid."
+                         ^^^^^^
+"it was" is wordy or unneeded on line 121 at column 64
+-------------
+roy, and though his hand was bandaged, having sworn a vow of alliance… Kyle was 
+                         ^^^^^^^^^^^^
+"was bandaged" may be passive voice on line 131 at column 91
+-------------
+Damien yelled angrily, kicking a helmet across the campsite.
+              ^^^^^^^
+"angrily" can weaken meaning on line 147 at column 14
+-------------
+s soldiers began to move slowly and Damien shrugged, "There was once a world. It
+                         ^^^^^^
+"slowly" can weaken meaning on line 155 at column 27
+-------------
+"There was once a world. It was destroyed by ice and stupidity. Out of this worl
+                         ^^^^^^
+"It was" is wordy or unneeded on line 155 at column 80
+-------------
+ere was once a world. It was destroyed by ice and stupidity. Out of this world t
+                         ^^^^^^^^^^^^^
+"was destroyed" may be passive voice on line 155 at column 83
+-------------
+ protector, and servant. It is the unbreakable vow."
+                         ^^^^^
+"It is" is wordy or unneeded on line 159 at column 149
+-------------
+re we came to this land. So I could not be bound by another unbreakable vow."
+                         ^^
+"So" adds no meaning on line 161 at column 169
+-------------
+his land. So I could not be bound by another unbreakable vow."
+                         ^^^^^^^^
+"be bound" may be passive voice on line 161 at column 184
+-------------
+Damien smiled softly and shook his head, "We are not bound by the so-called Drac
+              ^^^^^^
+"softly" can weaken meaning on line 163 at column 14
+-------------
+ stepped out of the tent awkwardly under the weight, and looked around the froze
+                         ^^^^^^^^^
+"awkwardly" can weaken meaning on line 191 at column 84
+-------------
+to see you up and about. It was touch and go for a while there, I'm not much of 
+                         ^^^^^^
+"It was" is wordy or unneeded on line 203 at column 65
+-------------
+Candice smiled weakly, "Right… And now?"
+               ^^^^^^
+"weakly" can weaken meaning on line 209 at column 15
+-------------
+Isaac Isaac opened his eyes slowly, feeling like he was crumbling.
+      ^^^^^
+"Isaac" is repeated on line 217 at column 6
+-------------
+ac Isaac opened his eyes slowly, feeling like he was crumbling.
+                         ^^^^^^
+"slowly" can weaken meaning on line 217 at column 28
+-------------
+ints and his jaw creaked slowly. The troll slowly shook himself, fighting back h
+                         ^^^^^^
+"slowly" can weaken meaning on line 219 at column 48
+-------------
+reaked slowly. The troll slowly shook himself, fighting back his anger.
+                         ^^^^^^
+"slowly" can weaken meaning on line 219 at column 66
+-------------
+He had been encased, imprisoned.
+       ^^^^^^^^^^^^
+"been encased" may be passive voice on line 223 at column 7
+-------------
+ not bind him, and Isaac Isaac felt a great feeling stealing over him, an anger 
+                         ^^^^^
+"Isaac" is repeated on line 229 at column 48
+-------------
+"That would be called 'vengeance', Isaac Isaac."
+            ^^^^^^^^^
+"be called" may be passive voice on line 235 at column 12
+-------------
+The golem shrugged slowly, "To kill one such as ourselves, is not a task that ma
+                   ^^^^^^
+"slowly" can weaken meaning on line 239 at column 19
+-------------
+lves, is not a task that many find easy."
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 239 at column 78
+-------------
+Isaac Isaac clenched his fists suddenly, the rocks of his form scraping together
+      ^^^^^
+"Isaac" is repeated on line 241 at column 6
+-------------
+Isaac clenched his fists suddenly, the rocks of his form scraping together, "I w
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 241 at column 31
+-------------
+Adrian frowned, "Really? How would you kill him?"
+                 ^^^^^^
+"Really" can weaken meaning on line 243 at column 17
+-------------
+ Kyle Kilroy will be the only one to kill Kyle Kilroy."
+                         ^^^^
+"only" can weaken meaning on line 245 at column 152
+-------------
+The golem nodded slowly, "Be careful, Isaac Isaac. You may awaken the same feeli
+                 ^^^^^^
+"slowly" can weaken meaning on line 247 at column 17
+-------------
+But Kyle was pissed, and wanted to take it out on someone.
+         ^^^^^^^^^^
+"was pissed" may be passive voice on line 261 at column 9
+-------------
+ of nature that vampires were provided him with all the excuse in the universe t
+                         ^^^^^^^^^^^^^
+"were provided" may be passive voice on line 263 at column 44
+-------------
+So it screamed and writhed, soothing the flames of betrayal.
+^^
+"So" adds no meaning on line 265 at column 0
+-------------
+, but the creatures that were born to guard the school were trailing her.
+                         ^^^^^^^^^
+"were born" may be passive voice on line 269 at column 47
+-------------
+he screaming cut off, "I was frustrated. Vampires don't matter."
+                         ^^^^^^^^^^^^^^
+"was frustrated" may be passive voice on line 279 at column 51
+-------------
+Bellum nodded slowly, "Then why do you have to keep telling yourself that?"
+              ^^^^^^
+"slowly" can weaken meaning on line 281 at column 14
+-------------
+es from experience. From being betrayed, from making the wrong choices. From mak
+                         ^^^^^^^^^^^^^^
+"being betrayed" may be passive voice on line 289 at column 151
+-------------
+Kyle nodded slowly, "Thank you, Headmaster."
+            ^^^^^^
+"slowly" can weaken meaning on line 291 at column 12
+-------------
+doesn't know it yet, she is bound to this school. She has no choice in the matte
+                         ^^^^^^^^
+"is bound" may be passive voice on line 293 at column 223
+-------------
+Bellum nodded slowly, "What curse?"
+              ^^^^^^
+"slowly" can weaken meaning on line 311 at column 14
+-------------
+im, and Kyle swallowed, "Only four hours till sunrise. Let's get this place in o
+                         ^^^^
+"Only" can weaken meaning on line 315 at column 53
+In 014-Chapter-Fourteen.md
+=============
+She sighed heavily, "It was chaos there. I spent most of it at the front... What
+                     ^^^^^^
+"It was" is wordy or unneeded on line 7 at column 21
+-------------
+t into flames... I don't really remember how I did it... Ended up on the shore, 
+                         ^^^^^^
+"really" can weaken meaning on line 19 at column 56
+-------------
+ly, and my friends died. There is no mercy to surviving."
+                         ^^^^^^^^
+"There is" is unnecessary verbiage on line 23 at column 152
+-------------
+Brioni nodded slowly, "There is something you should know, however. Kyle Kilroy'
+              ^^^^^^
+"slowly" can weaken meaning on line 33 at column 14
+-------------
+mething you should know, however. Kyle Kilroy's parents were massacred by vampir
+                         ^^^^^^^
+"however" is wordy or unneeded on line 33 at column 59
+-------------
+r. Kyle Kilroy's parents were massacred by vampires."
+                         ^^^^^^^^^^^^^^
+"were massacred" may be passive voice on line 33 at column 90
+-------------
+Isaac Isaac yelled loudly, his voice bellowing down the hallways as he shattered
+      ^^^^^
+"Isaac" is repeated on line 45 at column 6
+-------------
+Isaac Isaac yelled loudly, his voice bellowing down the hallways as he shattered
+                   ^^^^^^
+"loudly" can weaken meaning on line 45 at column 19
+-------------
+The man calmly wiped his face, looked up at Isaac Isaac and clenched a fist.
+        ^^^^^^
+"calmly" can weaken meaning on line 57 at column 8
+-------------
+face, looked up at Isaac Isaac and clenched a fist.
+                         ^^^^^
+"Isaac" is repeated on line 57 at column 50
+-------------
+then the skin flickered, tiny scales appearing for a brief moment.
+                         ^^^^
+"tiny" is a weasel word on line 59 at column 167
+-------------
+t you from the premises. Be warned, if you return, I will gladly delight in kill
+                         ^^^^^^^^^
+"Be warned" may be passive voice on line 61 at column 137
+-------------
+d, if you return, I will gladly delight in killing you."
+                         ^^^^^^
+"gladly" can weaken meaning on line 61 at column 170
+-------------
+Isaac Isaac sneered, "Tell Kyle I will eat his flesh."
+      ^^^^^
+"Isaac" is repeated on line 63 at column 6
+-------------
+iticians happy. I didn't really listen. But he turns to stone too."
+                         ^^^^^^
+"really" can weaken meaning on line 65 at column 168
+-------------
+Isaac Isaac blinked as the nymph's magic elevated him out a nearby window, "I am
+      ^^^^^
+"Isaac" is repeated on line 67 at column 6
+-------------
+Duke groaned, sitting up slowly, his roots rebinding together from a lumpen mass
+                         ^^^^^^
+"slowly" can weaken meaning on line 75 at column 25
+-------------
+ock of his surroundings, patiently waiting for his memory to return.
+                         ^^^^^^^^^
+"patiently" can weaken meaning on line 75 at column 145
+-------------
+It was a place of magic and danger.
+^^^^^^
+"It was" is wordy or unneeded on line 79 at column 0
+-------------
+ worst thing he had ever witnessed, but he should have seen it coming. Abigail's
+                         ^^^^^^^^^
+"witnessed" is wordy or unneeded on line 83 at column 50
+-------------
+That being said, the prophecy that she would need it to save Kyle, Fiona or hers
+     ^^^^^^^^^^
+"being said" may be passive voice on line 85 at column 5
+-------------
+le, Fiona or herself… He was disturbed by how strong that had been.
+                         ^^^^^^^^^^^^^
+"was disturbed" may be passive voice on line 85 at column 88
+-------------
+or a sign of his captor, in all likelihood nothing more than another ice golem.
+                         ^^^^^^^^^^^^^^^^^
+"in all likelihood" is wordy or unneeded on line 87 at column 73
+-------------
+Duke stumbled as it was gone, and the fog faded, leaving him seemingly alone.
+                 ^^^^^^
+"it was" is wordy or unneeded on line 99 at column 17
+-------------
+Duke stumbled as it was gone, and the fog faded, leaving him seemingly alone.
+                    ^^^^^^^^
+"was gone" may be passive voice on line 99 at column 20
+-------------
+He sighed and intoned quietly, the room vibrating dangerously, "Wake tenebris an
+                      ^^^^^^^
+"quietly" can weaken meaning on line 101 at column 22
+-------------
+One was as old as time, a female skeleton, still wearing that tattered clothes o
+        ^^^^^^^^^^^^^^
+"as old as time" is a cliche on line 105 at column 8
+-------------
+Abigail swallowed nervously, "What the crap, professor?"
+                  ^^^^^^^^^
+"nervously" can weaken meaning on line 109 at column 18
+-------------
+g towards her, and lit a tiny spark.
+                         ^^^^
+"tiny" is a weasel word on line 115 at column 159
+-------------
+The spark immediately flowed across the magic, lighting up a fire Ventusamancy, 
+          ^^^^^^^^^^^
+"immediately" can weaken meaning on line 117 at column 10
+-------------
+ncy, and the room turned slowly, protecting its mother.
+                         ^^^^^^
+"slowly" can weaken meaning on line 117 at column 100
+-------------
+d, and he shook his head slowly, "I am sorry, so sorry… But that was not me…"
+                         ^^^^^^
+"slowly" can weaken meaning on line 129 at column 75
+-------------
+ts of… Well… Dying. That being said, each and every one of you were murdered, ne
+                         ^^^^^^^^^^
+"being said" may be passive voice on line 145 at column 108
+-------------
+ Dying. That being said, each and every one of you were murdered, nearly simulta
+                         ^^^^^^^^^^^^^^
+"each and every" is wordy or unneeded on line 145 at column 120
+-------------
+ach and every one of you were murdered, nearly simultaneously. Assassinated, rea
+                         ^^^^^^^^^^^^^
+"were murdered" may be passive voice on line 145 at column 146
+-------------
+taneously. Assassinated, really. Your assassins are threats to the fragile peace
+                         ^^^^^^
+"really" can weaken meaning on line 145 at column 198
+-------------
+isor sighed and stood up slowly, walking over to the men and crouched in front o
+                         ^^^^^^
+"slowly" can weaken meaning on line 149 at column 32
+-------------
+uched in front of them, "Unfortunately, I agree with our impetuous young Necroma
+                         ^^^^^^^^^^^^^
+"Unfortunately" can weaken meaning on line 149 at column 96
+-------------
+now the Truth Spell, and it is far from kind on an individual."
+                         ^^^^^
+"it is" is wordy or unneeded on line 151 at column 165
+-------------
+. Without knowing… We'll be burned and beaten."
+                         ^^^^^^^^^
+"be burned" may be passive voice on line 157 at column 66
+-------------
+ve or resist questioning was torn from them. Kyle winced, understanding the crue
+                         ^^^^^^^^
+"was torn" may be passive voice on line 161 at column 105
+-------------
+Kyle smiled and nodded, "Excellent. What did you recognise about the voice?"
+                         ^^^^^^^^^
+"Excellent" is a weasel word on line 179 at column 25
+-------------
+aster shook his head, "I only know of one alliance like this… An ancient one. Ba
+                         ^^^^
+"only" can weaken meaning on line 203 at column 37
+-------------
+us. If that alliance has been revived… Kiss your ass goodbye."
+                         ^^^^^^^^^^^^
+"been revived" may be passive voice on line 203 at column 182
+-------------
+ and Dwarf." Draco spoke slowly and shrugged, "The original Bloodbound Pact."
+                         ^^^^^^
+"slowly" can weaken meaning on line 207 at column 36
+-------------
+s one incident. It could easily be just two assassins from different histories. 
+                         ^^^^^^
+"easily" can weaken meaning on line 211 at column 76
+-------------
+rom different histories. There is no way to tell what is happening here. We need
+                         ^^^^^^^^
+"There is" is unnecessary verbiage on line 211 at column 131
+-------------
+Kyle nodded slowly, "Fi."
+            ^^^^^^
+"slowly" can weaken meaning on line 213 at column 12
+-------------
+He smiled softly, "Been working on a variation of dispersion and reconstitution.
+          ^^^^^^
+"softly" can weaken meaning on line 221 at column 10
+-------------
+ld, and move it till you are aligned with your preferred location, and reassembl
+                         ^^^^^^^^^^^
+"are aligned" may be passive voice on line 225 at column 234
+-------------
+ entire universe? That's huge. Secondly, what would the effect be on weather sys
+                         ^^^^
+"huge" is a weasel word on line 227 at column 231
+-------------
+tire universe apart. You simply need to pull apart two locations, and draw a lin
+                         ^^^^^^
+"simply" can weaken meaning on line 229 at column 135
+-------------
+ce, so that distance can be compressed."
+                         ^^^^^^^^^^^^^
+"be compressed" may be passive voice on line 229 at column 310
+-------------
+m one side to the other. So I have three holes, one in the middle, in another un
+                         ^^
+"So" adds no meaning on line 233 at column 215
+-------------
+at's asking for trouble. Seriously."
+                         ^^^^^^^^^
+"Seriously" can weaken meaning on line 235 at column 43
+-------------
+osed timelike curve… You only have two holes, the entry and the exit, but the tu
+                         ^^^^
+"only" can weaken meaning on line 243 at column 68
+-------------
+admaster shrugged, "It's only theory… Something like this would be ground-breaki
+                         ^^^^
+"only" can weaken meaning on line 247 at column 31
+-------------
+omething like this would be ground-breaking, but crazy dangerous."
+                         ^^^^^^^^^
+"be ground" may be passive voice on line 247 at column 70
+-------------
+ed, "I know… But there's only one way I can get through to Fi. By talking to her
+                         ^^^^
+"only" can weaken meaning on line 257 at column 34
+-------------
+and potential energy can be converted into magic… So I rip a hole open to the mo
+                         ^^^^^^^^^^^^
+"be converted" may be passive voice on line 261 at column 150
+-------------
+ shouldn't affect us too badly, though that sort of thing tends to ripple backwa
+                         ^^^^^
+"badly" can weaken meaning on line 263 at column 103
+-------------
+Nothing, yet." Kyle said softly and sighed, "In the long run? My soul."
+                         ^^^^^^
+"softly" can weaken meaning on line 269 at column 26
+-------------
+udent and shook his head sadly, "You are loyal, I will give you that… But none o
+                         ^^^^^
+"sadly" can weaken meaning on line 275 at column 62
+-------------
+She stood up slowly, "What remains of what guarded the School of History and Mag
+             ^^^^^^
+"slowly" can weaken meaning on line 287 at column 13
+-------------
+istory and Magic, before it was attacked."
+                         ^^^^^^
+"it was" is wordy or unneeded on line 287 at column 91
+-------------
+ory and Magic, before it was attacked."
+                         ^^^^^^^^^^^^
+"was attacked" may be passive voice on line 287 at column 94
+In 015-Chapter-Fifteen.md
+=============
+Brioni smiled softly, "It was difficult. A mix of Vitamancy, Ventusamancy and Ai
+              ^^^^^^
+"softly" can weaken meaning on line 19 at column 14
+-------------
+Brioni smiled softly, "It was difficult. A mix of Vitamancy, Ventusamancy and Ai
+                       ^^^^^^
+"It was" is wordy or unneeded on line 19 at column 23
+-------------
+. It's an ongoing spell. Slowly transforming the world in all directions... The 
+                         ^^^^^^
+"Slowly" can weaken meaning on line 23 at column 134
+-------------
+ctions... The same spell was cast at every school of magic the Founders could fi
+                         ^^^^^^^^
+"was cast" may be passive voice on line 23 at column 200
+-------------
+e Founders could find... Eventually, it should give the world a second chance."
+                         ^^^^^^^^^^
+"Eventually" can weaken meaning on line 23 at column 261
+-------------
+Brioni smiled sadly at the young Pyromancy, "No… I'm afraid it is not."
+              ^^^^^
+"sadly" can weaken meaning on line 43 at column 14
+-------------
+romancy, "No… I'm afraid it is not."
+                         ^^^^^
+"it is" is wordy or unneeded on line 43 at column 60
+-------------
+The girl curtsied quickly, "Milady, we have a disturbance outside the gates."
+                  ^^^^^^^
+"quickly" can weaken meaning on line 54 at column 18
+-------------
+gun asked me to get you. It is not something he has seen, nor understands." The 
+                         ^^^^^
+"It is" is wordy or unneeded on line 58 at column 53
+-------------
+ds." The housecarl spoke quickly, clearly terrified that she was talking to the 
+                         ^^^^^^^
+"quickly" can weaken meaning on line 58 at column 124
+-------------
+housecarl spoke quickly, clearly terrified that she was talking to the queen.
+                         ^^^^^^^
+"clearly" is a weasel word and can weaken meaning on line 58 at column 133
+-------------
+swallowed, "He said that it was impossible, and I must fetch… Your majesty."
+                         ^^^^^^
+"it was" is wordy or unneeded on line 62 at column 53
+-------------
+rtain if they had become completely inactive, or were simply waiting.
+                         ^^^^^^^^^^
+"completely" is a weasel word and can weaken meaning on line 66 at column 37
+-------------
+letely inactive, or were simply waiting.
+                         ^^^^^^
+"simply" can weaken meaning on line 66 at column 66
+-------------
+f strange calculations, "It is a… Gateway, for lack of a more scientific term. I
+                         ^^^^^
+"It is" is wordy or unneeded on line 82 at column 77
+-------------
+, allowing you to travel quickly, and certainly."
+                         ^^^^^^^
+"quickly" can weaken meaning on line 82 at column 225
+-------------
+Ilgun smiled weakly, "Yes. Like a portal… Except, portals generate particles. Ph
+             ^^^^^^
+"weakly" can weaken meaning on line 86 at column 13
+-------------
+!" The professor yelled, clearly frustrated, and he winced, remembering his posi
+                         ^^^^^^^
+"clearly" is a weasel word and can weaken meaning on line 90 at column 31
+-------------
+n fact, that is the most likely outcome."
+                         ^^^^^^
+"likely" can weaken meaning on line 90 at column 231
+-------------
+med to shake, the ground suddenly shifting beneath her in every direction, whils
+                         ^^^^^^^^
+"suddenly" can weaken meaning on line 100 at column 39
+-------------
+She heard Ilgun growl angrily, and felt rather than saw his spell backfire.
+                      ^^^^^^^
+"angrily" can weaken meaning on line 102 at column 22
+-------------
+ same feeling about it - it was exempt from normal Terramancy.
+                         ^^^^^^
+"it was" is wordy or unneeded on line 106 at column 80
+-------------
+Another voice however, a deep and powerful one, full of confidence, rang out, "F
+              ^^^^^^^
+"however" is wordy or unneeded on line 108 at column 14
+-------------
+d into the ground, which immediately stopped moving.
+                         ^^^^^^^^^^^
+"immediately" can weaken meaning on line 112 at column 40
+-------------
+e and growing trees. Not quite sure how that would actually work."
+                         ^^^^^
+"quite" is a weasel word on line 124 at column 226
+-------------
+Kyle rolled his eyes, "Seriously, Fi? I'm not your enemy. If I was, you and ever
+                       ^^^^^^^^^
+"Seriously" can weaken meaning on line 128 at column 23
+-------------
+k up at Kyle, who smiled awkwardly, and she had a flash of the powerful, and utt
+                         ^^^^^^^^^
+"awkwardly" can weaken meaning on line 134 at column 52
+-------------
+na frowned, watching him carefully, "What do you mean?"
+                         ^^^^^^^^^
+"carefully" can weaken meaning on line 140 at column 28
+-------------
+me?" Kyle asked, smiling innocently, and Fiona winced, "You're not dead."
+                         ^^^^^^^^^^
+"innocently" can weaken meaning on line 150 at column 45
+-------------
+"I died Fi!" Kyle yelled angrily, dust around them vibrating with his anger, the
+                         ^^^^^^^
+"angrily" can weaken meaning on line 152 at column 25
+-------------
+ I do. Your enchantments are broken. They broke when your father died."
+                         ^^^^^^^^^^
+"are broken" may be passive voice on line 152 at column 233
+-------------
+ead, "The Elvish Kingdom is undefended, especially against an attack of this siz
+                         ^^^^^^^^^^^^^
+"is undefended" may be passive voice on line 158 at column 63
+-------------
+h Kingdom is undefended, especially against an attack of this size."
+                         ^^^^^^^^^^
+"especially" can weaken meaning on line 158 at column 78
+-------------
+"I am." Kyle said sadly and shrugged, "I just invented a new magic that could ha
+                  ^^^^^
+"sadly" can weaken meaning on line 174 at column 18
+-------------
+avel are a load of crap. Seriously."
+                         ^^^^^^^^^
+"Seriously" can weaken meaning on line 182 at column 109
+-------------
+nage to create a portal. Seriously."
+                         ^^^^^^^^^
+"Seriously" can weaken meaning on line 190 at column 127
+-------------
+ueen… This… Necromancer… Only arrived several hours after beginning his travel. 
+                         ^^^^
+"Only" can weaken meaning on line 192 at column 89
+-------------
+ecromancer… Only arrived several hours after beginning his travel. It was not in
+                         ^^^^^^^
+"several" is a weasel word on line 192 at column 102
+-------------
+er beginning his travel. It was not instantaneous, his equations are wrong."
+                         ^^^^^^
+"It was" is wordy or unneeded on line 192 at column 144
+-------------
+and turned back, "Right. So, Kyle… What the hell is going on?"
+                         ^^
+"So" adds no meaning on line 198 at column 113
+-------------
+protect you and Abigail. It was all about you two. Unfortunately, I got stuck be
+                         ^^^^^^
+"It was" is wordy or unneeded on line 212 at column 201
+-------------
+t was all about you two. Unfortunately, I got stuck between worlds. A ghost… I f
+                         ^^^^^^^^^^^^^
+"Unfortunately" can weaken meaning on line 212 at column 227
+-------------
+tween worlds. A ghost… I finally managed to work out how to cross over into the 
+                         ^^^^^^^
+"finally" can weaken meaning on line 212 at column 281
+-------------
+ugged, "You're worth it… However, all this has set off the crapstorm that was th
+                         ^^^^^^^
+"However" is wordy or unneeded on line 216 at column 33
+-------------
+"My three human generals were assassinated by an elf, a pixie, and something els
+                         ^^^^^^^^^^^^^^^^^
+"were assassinated" may be passive voice on line 220 at column 25
+-------------
+Fiona blinked, "Wow. Really? And that would help?"
+                     ^^^^^^
+"Really" can weaken meaning on line 238 at column 21
+-------------
+The mage laughed tightly, "Just a spot of pneumonia. Nothing I haven't seen befo
+                 ^^^^^^^
+"tightly" can weaken meaning on line 282 at column 17
+-------------
+y. Used to superiors who only want to hear one thing..."
+                         ^^^^
+"only" can weaken meaning on line 286 at column 47
+-------------
+ther two, "... I... I've only worked on a dryad once before. It didn't end well.
+                         ^^^^
+"only" can weaken meaning on line 290 at column 62
+-------------
+e. It didn't end well... As to the nymph, I have no idea why she is breathing. H
+                         ^^^^^
+"As to" is wordy or unneeded on line 290 at column 120
+-------------
+main hospitable... I see only one solution. Leave her to the wastes."
+                         ^^^^
+"only" can weaken meaning on line 294 at column 192
+-------------
+e no way to contain her. So let her be frozen to solid ice."
+                         ^^
+"So" adds no meaning on line 298 at column 240
+-------------
+ contain her. So let her be frozen to solid ice."
+                         ^^^^^^^^^
+"be frozen" may be passive voice on line 298 at column 251
+-------------
+"Kyle loves the nymph. I am bound to Kyle."
+                         ^^^^^^^^
+"am bound" may be passive voice on line 304 at column 54
+-------------
+ry to interrupt, but how exactly is the nymph keeping alive?"
+                         ^^^^^^^
+"exactly" can weaken meaning on line 308 at column 65
+-------------
+The half-dragon nodded slowly, "I see it. A wooden disc in her hand, the magical
+                       ^^^^^^
+"slowly" can weaken meaning on line 312 at column 23
+-------------
+ancer learn Aimimancy so easily? It's not exactly an easy magic... Let alone for
+                         ^^^^^^
+"easily" can weaken meaning on line 318 at column 58
+-------------
+ancy so easily? It's not exactly an easy magic... Let alone for someone who feel
+                         ^^^^^^^
+"exactly" can weaken meaning on line 318 at column 75
+-------------
+It was like a corridor, made from wood, with a thatch ceiling.
+^^^^^^
+"It was" is wordy or unneeded on line 326 at column 0
+-------------
+g down houses as if they were made of leaves.
+                         ^^^^^^^^^
+"were made" may be passive voice on line 334 at column 32
+-------------
+ing you can't fight that many vampires. Not when one alone could destroy the who
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 344 at column 45
+-------------
+It was... Kyle.
+^^^^^^
+"It was" is wordy or unneeded on line 360 at column 0
+-------------
+ heard a growl, the wall was torn apart.
+                         ^^^^^^^^
+"was torn" may be passive voice on line 364 at column 33
+-------------
+ a gangly creature, that few could mistake for a man. It's face was covered in b
+                         ^^^
+"few" is a weasel word on line 366 at column 47
+-------------
+ake for a man. It's face was covered in blood, fresh rivulets ran down its cheek
+                         ^^^^^^^^^^^
+"was covered" may be passive voice on line 366 at column 86
+-------------
+ng hard, but the vampire simply caught the sword and crumpled the metal in its c
+                         ^^^^^^
+"simply" can weaken meaning on line 368 at column 73
+-------------
+agic swell, she screamed angrily, her voice going raw, directing a blast of magi
+                         ^^^^^^^
+"angrily" can weaken meaning on line 372 at column 69
+-------------
+in horror, realizing she was trapped in a memory, and saw Kyle's mother struggli
+                         ^^^^^^^^^^^
+"was trapped" may be passive voice on line 378 at column 41
+-------------
+down her face as Abigail was forced to watch.
+                         ^^^^^^^^^^
+"was forced" may be passive voice on line 384 at column 42
+-------------
+Kyle muttered quietly, and the blood floated into the air, a small bubble floati
+              ^^^^^^^
+"quietly" can weaken meaning on line 394 at column 14
+-------------
+Abigail smiled sadly, "Go, Kyle... That's it... Come on..."
+               ^^^^^
+"sadly" can weaken meaning on line 400 at column 15
+-------------
+Kyle's mother groaned quietly turning, "Hungry."
+                      ^^^^^^^
+"quietly" can weaken meaning on line 406 at column 22
+-------------
+ it's arm, putting out a tiny fire, and looked down at him in disgust, "You are 
+                         ^^^^
+"tiny" is a weasel word on line 414 at column 113
+-------------
+So did Kyle's mother, screaming as she went.
+^^
+"So" adds no meaning on line 420 at column 0
+-------------
+wearing it, and you will be expected to wear it at all times from now on, unless
+                         ^^^^^^^^^^^
+"be expected" may be passive voice on line 432 at column 271
+-------------
+ from now on, unless you are instructed to remove it."
+                         ^^^^^^^^^^^^^^
+"are instructed" may be passive voice on line 432 at column 331
+-------------
+harm, and then the world was wrenched from beneath her feet.
+                         ^^^^^^^^^^^^
+"was wrenched" may be passive voice on line 436 at column 77
+-------------
+The room was quiet, the only sounds coming from a single other occupant - a youn
+                        ^^^^
+"only" can weaken meaning on line 452 at column 24
+-------------
+It was the nymph who had been the friend of Applesilver... A friend of Kyle bloo
+^^^^^^
+"It was" is wordy or unneeded on line 456 at column 0
+-------------
+ore her, his tail moving anxiously behind him, his eyes burning orange, and star
+                         ^^^^^^^^^
+"anxiously" can weaken meaning on line 464 at column 124
+-------------
+andice glared, "Sorry, I hardly trust a half dragon."
+                         ^^^^^^
+"hardly" can weaken meaning on line 466 at column 26
+-------------
+ing her head as her fire was extinguished. She glared up at him, "How dare you?"
+                         ^^^^^^^^^^^^^^^^
+"was extinguished" may be passive voice on line 468 at column 69
+-------------
+ young Silvergate... You are talented, secure, and highly intelligent... Tell me
+                         ^^^^^^^^^^^^
+"are talented" may be passive voice on line 470 at column 152
+-------------
+She swallowed nervously, "Nearly none. But enough to run."
+              ^^^^^^^^^
+"nervously" can weaken meaning on line 472 at column 14
+-------------
+erations... The fight is being lost."
+                         ^^^^^^^^^^
+"being lost" may be passive voice on line 488 at column 152
+-------------
+t. Down to the last man, simply to give whatever soul the army was targeting, a 
+                         ^^^^^^
+"simply" can weaken meaning on line 498 at column 177
+-------------
+The dead can be remembered once their dead outnumbered your own.
+             ^^^^^^^^^^^^^
+"be remembered" may be passive voice on line 506 at column 13
+-------------
+ment, but the Headmaster was gone.
+                         ^^^^^^^^
+"was gone" may be passive voice on line 508 at column 104
+-------------
+ hallway, or what little was left of it, and let out a sad sigh.
+                         ^^^^^^^^
+"was left" may be passive voice on line 520 at column 46
+-------------
+basically frozen. Dying. So I thought my old buddy Kyle might actually be thankf
+                         ^^
+"So" adds no meaning on line 534 at column 125
+-------------
+, so he can't die... You on the other hand..."
+                         ^^^^^^^^^^^^^^^^^
+"on the other hand" is wordy or unneeded on line 534 at column 301
+-------------
+ing the magic out of it. It was one in a million, but you saved yourself."
+                         ^^^^^^
+"It was" is wordy or unneeded on line 542 at column 115
+-------------
+ magic out of it. It was one in a million, but you saved yourself."
+                         ^^^^^^^^^^^^^^^^
+"one in a million" is a cliche on line 542 at column 122
+-------------
+Abigail smiled weakly, "Explains the visions... And now... What? I'm stuck?"
+               ^^^^^^
+"weakly" can weaken meaning on line 544 at column 15
+-------------
+ands, "Awesome. Yes! You are stuck, and it'll mean Kyle will have to come to you
+                         ^^^^^^^^^
+"are stuck" may be passive voice on line 550 at column 42
+-------------
+her, "You're the Reaper? Seriously?"
+                         ^^^^^^^^^
+"Seriously" can weaken meaning on line 560 at column 39
+-------------
+and for everyone else... Simply to improve the political mood he had cursed hims
+                         ^^^^^^
+"Simply" can weaken meaning on line 580 at column 56
+-------------
+It was... Totally him.
+^^^^^^
+"It was" is wordy or unneeded on line 584 at column 0
+-------------
+c... In fact, you're the only one who can see me... So... I get to be an annoyin
+                         ^^^^
+"only" can weaken meaning on line 598 at column 144
+-------------
+She walked over slowly to him, and then swung her hand around in a world class s
+                ^^^^^^
+"slowly" can weaken meaning on line 600 at column 16
+-------------
+"It is." Kyle said, concern creasing his face, "No one can justify what I have d
+ ^^^^^
+"It is" is wordy or unneeded on line 606 at column 1
+-------------
+* Lists barely make sense.
+        ^^^^^^
+"barely" can weaken meaning on line 622 at column 8
+-------------
+* She felt completely out of control whenever it happened.
+           ^^^^^^^^^^
+"completely" is a weasel word and can weaken meaning on line 625 at column 11
+-------------
+She was cursed... And now... 
+    ^^^^^^^^^^
+"was cursed" may be passive voice on line 633 at column 4
+-------------
+She was cursed for real. 
+    ^^^^^^^^^^
+"was cursed" may be passive voice on line 635 at column 4
+-------------
+he Professor walked over slowly through the milling soldiers and crouched, "How 
+                         ^^^^^^
+"slowly" can weaken meaning on line 643 at column 26
+-------------
+Duke nodded slowly, "Anderson had used this castle as his hiding place from the 
+            ^^^^^^
+"slowly" can weaken meaning on line 651 at column 12
+-------------
+ad, stroking her cheek, "It is not anything that is wrong. It is a privilege, an
+                         ^^^^^
+"It is" is wordy or unneeded on line 655 at column 42
+-------------
+ anything that is wrong. It is a privilege, an honour, and a hard life that you 
+                         ^^^^^
+"It is" is wordy or unneeded on line 655 at column 76
+-------------
+ hard life that you have been handed... Since the ice cave, you have been awoken
+                         ^^^^^^^^^^^
+"been handed" may be passive voice on line 655 at column 136
+-------------
+e the ice cave, you have been awoken. You are a... Reaper..."
+                         ^^^^^^^^^^^
+"been awoken" may be passive voice on line 655 at column 180
+-------------
+Abigail, a Reaper hasn't been born in my lifetime. They were only legends, even 
+                         ^^^^^^^^^
+"been born" may be passive voice on line 659 at column 50
+-------------
+n my lifetime. They were only legends, even to me... But, the idea is simple. Th
+                         ^^^^
+"only" can weaken meaning on line 659 at column 86
+-------------
+werful mage, before they are born, and selects them to be their force in the wor
+                         ^^^^^^^^
+"are born" may be passive voice on line 659 at column 191
+-------------
+ontrolled it, instead of being controlled by it."
+                         ^^^^^^^^^^^^^^^^
+"being controlled" may be passive voice on line 679 at column 161
+-------------
+ you learn to control it completely... You would no longer be the will of the Ot
+                         ^^^^^^^^^^
+"completely" is a weasel word and can weaken meaning on line 683 at column 73
+-------------
+Duke nodded slowly.
+            ^^^^^^
+"slowly" can weaken meaning on line 687 at column 12
+-------------
+hed heavily, "Awesome... So now what? You resurrect me?"
+                         ^^
+"So" adds no meaning on line 689 at column 32
+-------------
+ winced, "Awesome... How many rules are there to Necromancy?"
+                         ^^^^
+"many" is a weasel word and can weaken meaning on line 693 at column 32
+-------------
+"Millions." Duke said carefully, "Necromancy is not a skill... It comes from neg
+                      ^^^^^^^^^
+"carefully" can weaken meaning on line 695 at column 22
+-------------
+rent, more pure magic... It is up to you to find it and bring yourself back. I c
+                         ^^^^^
+"It is" is wordy or unneeded on line 711 at column 125
+-------------
+ing yourself back. I can advise, but little else."
+                         ^^^^^^
+"advise" is wordy or unneeded on line 711 at column 183
+-------------
+ed and rolled his eyes, "Really do not have the time, Silvergate."
+                         ^^^^^^
+"Really" can weaken meaning on line 728 at column 59
+-------------
+He smiled tightly, "Just a projection. I don't have long. Dwarves are attacking 
+          ^^^^^^^
+"tightly" can weaken meaning on line 744 at column 10
+-------------
+Kyle winced, "Tell Isaac Isaac where I am. Get the trolls coming to us. I hope r
+                         ^^^^^
+"Isaac" is repeated on line 748 at column 25
+-------------
+. But the trolls are the only ones who can help."
+                         ^^^^
+"only" can weaken meaning on line 748 at column 136
+In CONTRIBUTING.md
+=============
+resent, to see if it has been addressed.
+                         ^^^^^^^^^^^^^^
+"been addressed" may be passive voice on line 4 at column 139
+-------------
+sue]() and your fork can be added to the README
+                         ^^^^^^^^
+"be added" may be passive voice on line 13 at column 97
+-------------
+ appropriate credit, and indicate if you made changes.
+                         ^^^^^^^^
+"indicate" is wordy or unneeded on line 15 at column 48
+-------------
+    * You are allowed to use the repository for commercial purposes.
+          ^^^^^^^^^^^
+"are allowed" may be passive voice on line 17 at column 10
+In index.md
+=============
+The world was born in fire.
+          ^^^^^^^^
+"was born" may be passive voice on line 12 at column 10
+-------------
+It was destroyed by ice.
+^^^^^^
+"It was" is wordy or unneeded on line 14 at column 0
+-------------
+It was destroyed by ice.
+   ^^^^^^^^^^^^^
+"was destroyed" may be passive voice on line 14 at column 3
+-------------
+It was rebuilt by blood.
+^^^^^^
+"It was" is wordy or unneeded on line 16 at column 0
+In LICENSE.md
+=============
+ You accept and agree to be bound by the terms and conditions of this Creative C
+                         ^^^^^^^^
+"be bound" may be passive voice on line 3 at column 75
+-------------
+ this Public License may be interpreted as a contract, You are granted the Licen
+                         ^^^^^^^^^^^^^^
+"be interpreted" may be passive voice on line 3 at column 251
+-------------
+reted as a contract, You are granted the Licensed Rights in consideration of You
+                         ^^^^^^^^^^^
+"are granted" may be passive voice on line 3 at column 285
+-------------
+ and Similar Rights that is derived from or based upon the Licensed Material and
+                         ^^^^^^^^^^
+"is derived" may be passive voice on line 7 at column 79
+-------------
+ch the Licensed Material is translated, altered, arranged, transformed, or other
+                         ^^^^^^^^^^^^^
+"is translated" may be passive voice on line 7 at column 166
+-------------
+re the Licensed Material is synched in timed relation with a moving image.
+                         ^^^^^^^^^^
+"is synched" may be passive voice on line 7 at column 510
+-------------
+ions to Adapted Material in accordance with the terms and conditions of this Pub
+                         ^^^^^^^^^^^^^^^^^^
+"in accordance with" is wordy or unneeded on line 9 at column 127
+-------------
+mmons as essentially the equivalent of this Public License.
+                         ^^^^^^^^^^
+"equivalent" is wordy or unneeded on line 11 at column 142
+-------------
+ht and/or similar rights closely related to copyright including, without limitat
+                         ^^^^^^^
+"closely" can weaken meaning on line 13 at column 69
+-------------
+regard to how the rights are labeled or categorized. For purposes of this Public
+                         ^^^^^^^^^^^
+"are labeled" may be passive voice on line 13 at column 236
+-------------
+roper authority, may not be circumvented under laws fulfilling obligations under
+                         ^^^^^^^^^^^^^^^
+"be circumvented" may be passive voice on line 15 at column 106
+-------------
+is Public License, which are limited to all Copyright and Similar Rights that ap
+                         ^^^^^^^^^^^
+"are limited" may be passive voice on line 23 at column 116
+-------------
+ell as other essentially equivalent rights anywhere in the world.
+                         ^^^^^^^^^^
+"equivalent" is wordy or unneeded on line 29 at column 256
+-------------
+, and You do not need to comply with its terms and conditions.
+                         ^^^^^^^^^^^
+"comply with" is wordy or unneeded on line 37 at column 169
+-------------
+m of this Public License is specified in Section 6(a).
+                         ^^^^^^^^^^^^
+"is specified" may be passive voice on line 38 at column 40
+-------------
+ of this Public License, simply making modifications authorized by this Section 
+                         ^^^^^^
+"simply" can weaken meaning on line 39 at column 528
+-------------
+B.Additional offer from the Licensor – Adapted Material. Every recipient of Adap
+  ^^^^^^^^^^
+"Additional" is wordy or unneeded on line 42 at column 2
+-------------
+ not offer or impose any additional or different terms or conditions on, or appl
+                         ^^^^^^^^^^
+"additional" is wordy or unneeded on line 43 at column 62
+-------------
+g in this Public License constitutes or may be construed as permission to assert
+                         ^^^^^^^^^^^
+"constitutes" is wordy or unneeded on line 45 at column 49
+-------------
+cense constitutes or may be construed as permission to assert or imply that You 
+                         ^^^^^^^^^^^^
+"be construed" may be passive voice on line 45 at column 68
+-------------
+ilar personality rights; however, to the extent possible, the Licensor waives an
+                         ^^^^^^^
+"however" is wordy or unneeded on line 49 at column 161
+-------------
+A.retain the following if it is supplied by the Licensor with the Licensed Mater
+  ^^^^^^
+"retain" is wordy or unneeded on line 61 at column 2
+-------------
+.retain the following if it is supplied by the Licensor with the Licensed Materi
+                         ^^^^^
+"it is" is wordy or unneeded on line 61 at column 26
+-------------
+tain the following if it is supplied by the Licensor with the Licensed Material:
+                         ^^^^^^^^^^^
+"is supplied" may be passive voice on line 61 at column 29
+-------------
+B.indicate if You modified the Licensed Material and retain an indication of any
+  ^^^^^^^^
+"indicate" is wordy or unneeded on line 67 at column 2
+-------------
+he Licensed Material and retain an indication of any previous modifications; and
+                         ^^^^^^
+"retain" is wordy or unneeded on line 67 at column 53
+-------------
+d Material and retain an indication of any previous modifications; and
+                         ^^^^^^^^^^
+"indication" is wordy or unneeded on line 67 at column 63
+-------------
+C.indicate the Licensed Material is licensed under this Public License, and incl
+  ^^^^^^^^
+"indicate" is wordy or unneeded on line 68 at column 2
+-------------
+te the Licensed Material is licensed under this Public License, and include the 
+                         ^^^^^^^^^^^
+"is licensed" may be passive voice on line 68 at column 33
+-------------
+2.You may satisfy the conditions in Section 3(a)(1) in any reasonable manner bas
+          ^^^^^^^
+"satisfy" is wordy or unneeded on line 70 at column 10
+-------------
+ it may be reasonable to satisfy the conditions by providing a URI or hyperlink 
+                         ^^^^^^^
+"satisfy" is wordy or unneeded on line 70 at column 196
+-------------
+In addition to the conditions in Section 3(a), if You Share Adapted Material You
+^^^^^^^^^^^
+"In addition" is wordy or unneeded on line 74 at column 0
+-------------
+cense You apply. You may satisfy this condition in any reasonable manner based o
+                         ^^^^^^^
+"satisfy" is wordy or unneeded on line 76 at column 101
+-------------
+ not offer or impose any additional or different terms or conditions on, or appl
+                         ^^^^^^^^^^
+"additional" is wordy or unneeded on line 77 at column 34
+-------------
+duce, and Share all or a substantial portion of the contents of the database;
+                         ^^^^^^^^^^^
+"substantial" is wordy or unneeded on line 83 at column 116
+-------------
+are all or a substantial portion of the contents of the database;
+                         ^^^^^^^
+"portion" is wordy or unneeded on line 83 at column 128
+-------------
+.if You include all or a substantial portion of the database contents in a datab
+                         ^^^^^^^^^^^
+"substantial" is wordy or unneeded on line 84 at column 26
+-------------
+ude all or a substantial portion of the database contents in a database in which
+                         ^^^^^^^
+"portion" is wordy or unneeded on line 84 at column 38
+-------------
+its individual contents) is Adapted Material, including for purposes of Section 
+                         ^^^^^^^^^^
+"is Adapted" may be passive voice on line 84 at column 230
+-------------
+c.You must comply with the conditions in Section 3(a) if You Share all or a subs
+           ^^^^^^^^^^^
+"comply with" is wordy or unneeded on line 85 at column 11
+-------------
+a) if You Share all or a substantial portion of the contents of the database.
+                         ^^^^^^^^^^^
+"substantial" is wordy or unneeded on line 85 at column 76
+-------------
+are all or a substantial portion of the contents of the database.
+                         ^^^^^^^
+"portion" is wordy or unneeded on line 85 at column 88
+-------------
+r warranties of any kind concerning the Licensed Material, whether express, impl
+                         ^^^^^^^^^^
+"concerning" is wordy or unneeded on line 88 at column 203
+-------------
+ce or absence of errors, whether or not known or discoverable. Where disclaimers
+                         ^^^^^^^^^^^^^^
+"whether or not" is wordy or unneeded on line 88 at column 493
+-------------
+even if the Licensor has been advised of the possibility of such losses, costs, 
+                         ^^^^^^^^^^^^
+"been advised" may be passive voice on line 89 at column 371
+-------------
+liability provided above shall be interpreted in a manner that, to the extent po
+                         ^^^^^
+"shall" is wordy or unneeded on line 90 at column 74
+-------------
+ity provided above shall be interpreted in a manner that, to the extent possible
+                         ^^^^^^^^^^^^^^
+"be interpreted" may be passive voice on line 90 at column 80
+-------------
+he extent possible, most closely approximates an absolute disclaimer and waiver 
+                         ^^^^^^^
+"closely" can weaken meaning on line 90 at column 142
+-------------
+ar Rights licensed here. However, if You fail to comply with this Public License
+                         ^^^^^^^
+"However" is wordy or unneeded on line 94 at column 94
+-------------
+ However, if You fail to comply with this Public License, then Your rights under
+                         ^^^^^^^^^^^
+"comply with" is wordy or unneeded on line 94 at column 118
+-------------
+nder this Public License terminate automatically.
+                         ^^^^^^^^^
+"terminate" is wordy or unneeded on line 94 at column 194
+-------------
+f the date the violation is cured, provided it is cured within 30 days of Your d
+                         ^^^^^^^^
+"is cured" may be passive voice on line 100 at column 45
+-------------
+ation is cured, provided it is cured within 30 days of Your discovery of the vio
+                         ^^^^^
+"it is" is wordy or unneeded on line 100 at column 64
+-------------
+on is cured, provided it is cured within 30 days of Your discovery of the violat
+                         ^^^^^^^^
+"is cured" may be passive voice on line 100 at column 67
+-------------
+ed Material at any time; however, doing so will not terminate this Public Licens
+                         ^^^^^^^
+"however" is wordy or unneeded on line 105 at column 171
+-------------
+wever, doing so will not terminate this Public License.
+                         ^^^^^^^^^
+"terminate" is wordy or unneeded on line 105 at column 198
+-------------
+a.The Licensor shall not be bound by any additional or different terms or condit
+               ^^^^^
+"shall" is wordy or unneeded on line 111 at column 15
+-------------
+a.The Licensor shall not be bound by any additional or different terms or condit
+                         ^^^^^^^^
+"be bound" may be passive voice on line 111 at column 25
+-------------
+hall not be bound by any additional or different terms or conditions communicate
+                         ^^^^^^^^^^
+"additional" is wordy or unneeded on line 111 at column 41
+-------------
+standings, or agreements regarding the Licensed Material not stated herein are s
+                         ^^^^^^^^^
+"regarding" is wordy or unneeded on line 113 at column 50
+-------------
+ic License does not, and shall not be interpreted to, reduce, limit, restrict, o
+                         ^^^^^
+"shall" is wordy or unneeded on line 118 at column 64
+-------------
+ does not, and shall not be interpreted to, reduce, limit, restrict, or impose c
+                         ^^^^^^^^^^^^^^
+"be interpreted" may be passive voice on line 118 at column 74
+-------------
+rial that could lawfully be made without permission under this Public License.
+                         ^^^^^^^
+"be made" may be passive voice on line 118 at column 195
+-------------
+n of this Public License is deemed unenforceable, it shall be automatically refo
+                         ^^^^^^^^^
+"is deemed" may be passive voice on line 120 at column 66
+-------------
+deemed unenforceable, it shall be automatically reformed to the minimum extent n
+                         ^^^^^
+"shall" is wordy or unneeded on line 120 at column 94
+-------------
+atically reformed to the minimum extent necessary to make it enforceable. If the
+                         ^^^^^^^
+"minimum" is wordy or unneeded on line 120 at column 133
+-------------
+ If the provision cannot be reformed, it shall be severed from this Public Licen
+                         ^^^^^^^^^^^
+"be reformed" may be passive voice on line 120 at column 206
+-------------
+n cannot be reformed, it shall be severed from this Public License without affec
+                         ^^^^^
+"shall" is wordy or unneeded on line 120 at column 222
+-------------
+ot be reformed, it shall be severed from this Public License without affecting t
+                         ^^^^^^^^^^
+"be severed" may be passive voice on line 120 at column 228
+-------------
+this Public License will be waived and no failure to comply consented to unless 
+                         ^^^^^^^^^
+"be waived" may be passive voice on line 122 at column 51
+-------------
+g in this Public License constitutes or may be interpreted as a limitation upon,
+                         ^^^^^^^^^^^
+"constitutes" is wordy or unneeded on line 124 at column 33
+-------------
+cense constitutes or may be interpreted as a limitation upon, or waiver of, any 
+                         ^^^^^^^^^^^^^^
+"be interpreted" may be passive voice on line 124 at column 52
