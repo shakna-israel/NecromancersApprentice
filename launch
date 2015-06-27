@@ -5,7 +5,6 @@ cp docs/CONTRIBUTING.md CONTRIBUTING.md
 cp docs/LICENSE.md LICENSE.md
 cp docs/index.md README.md
 mkdocs build --clean
-mkdocs json
 cd site
 echo "necromancersapprentice.shaknaisrael.com" >> CNAME
 git init
