@@ -1,12 +1,12 @@
 ![Chapters](https://img.shields.io/badge/Chapters-20%2F20-brightgreen.svg)
 
-![Necromancer's Apprentice](http://necromancersapprentice.shaknaisrael.com/img/frontCover.jpg)
+![Necromancer's Apprentice](https://shakna-israel.github.io/NecromancersApprentice/img/frontCover.jpg)
 
 ## Read
 
 <a href="http://store.kobobooks.com/en-US/ebook/necromancer-s-apprentice" target="_blank"><img src="https://i.imgur.com/Xpk99ZH.png" alt="KoboBooks" width="25%"></a>
 
-[PDF](https://www.gitbook.com/download/pdf/book/shakna-israel/necromancer-s-apprentice), [ePub](https://www.gitbook.com/download/epub/book/shakna-israel/necromancer-s-apprentice), [Mobi](https://www.gitbook.com/download/mobi/book/shakna-israel/necromancer-s-apprentice), or [Read Online](http://necromancersapprentice.shaknaisrael.com)
+[PDF](https://www.gitbook.com/download/pdf/book/shakna-israel/necromancer-s-apprentice), [ePub](https://www.gitbook.com/download/epub/book/shakna-israel/necromancer-s-apprentice), [Mobi](https://www.gitbook.com/download/mobi/book/shakna-israel/necromancer-s-apprentice), or [Read Online](https://shakna-israel.github.io/NecromancersApprentice/)
 
 *Logos belong to their respective copyright owners.*
 
