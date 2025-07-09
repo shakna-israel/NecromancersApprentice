@@ -11,8 +11,12 @@ cp docs/index.md README.md
 
 cat pre.md > book.md
 cat docs/index.md >> book.md
-
+cat docs/CONTRIBUTING.md >> book.md
+cat $(find docs -name '[0-9]*' | sort | tr '\n' ' ') >> book.md
+cat docs/Ancillaries/*.md >> book.md
+cat docs/LICENSE.md >> book.md
 
 mv book.md docs/
 cd docs
 pandoc book.md -o book.pdf
+pandoc book.md -o book.epub

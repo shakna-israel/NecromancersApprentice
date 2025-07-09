@@ -5,11 +5,11 @@ author:
 language: en
 papersize: a5
 geometry: "left=18mm,right=26mm,top=22mm,bottom=22mm,twoside"
-toc: false
+toc: true
 fontfamily: marcellus
 mainfont: sans-serif
 classoption: twoside
-cover-image: "img/frontCover.png"
+cover-image: "img/frontCover.jpg"
 rights: © 2018 James Milne
 include-before:
 - '`\newpage{}`{=latex}'

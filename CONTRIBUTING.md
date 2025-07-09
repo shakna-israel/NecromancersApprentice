@@ -10,10 +10,8 @@
 
 * Forking
     * You are free to fork the repository, and use it for your own purposes.
-    * If you would like, you can notify *@shakna-israel*, through an [Issue]() and your fork can be added to the README
+    * If you would like, you can notify *@shakna-israel*, through an [Issue](https://github.com/shakna-israel/NecromancersApprentice/issues?q=is%3Aissue) and your fork can be added to the README
     * There are some limitations to the LICENSE:
         * You must give appropriate credit, and indicate if you made changes.
         * You must use the Creative Commons Attribution-ShareAlike 4.0 International license when licensing your own work.
     * You are allowed to use the repository for commercial purposes.
-
-![Front cover](img/frontCover.jpg)
