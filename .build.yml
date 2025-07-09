@@ -4,6 +4,7 @@ packages:
   - pandoc
   - texlive-latex-recommended
   - texlive-fonts-extra
+  - texlive-latex-extra
 sources:
   - https://git.sr.ht/~shakna/NecromancersApprentice
 tasks:
