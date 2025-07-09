@@ -3,6 +3,7 @@ packages:
   - git
   - pandoc
   - texlive-latex-base
+  - texlive-fonts-extra
 sources:
   - https://git.sr.ht/~shakna/NecromancersApprentice
 tasks:
