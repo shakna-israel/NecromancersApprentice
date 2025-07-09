@@ -1,6 +1,6 @@
 ## Chapter Eight
 
-![Pyromancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Pyromancy.svg)
+![Pyromancy](img/Symbol_Pyromancy.svg)
 
 Bateman swore, leaping from the wall, surrounding himself in flames as he fell.
 
@@ -32,7 +32,7 @@ Abigail roared, and the elves exploded from the inside out as their organs becam
 
 ---
 
-![Mundane](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Mundane.svg)
+![Mundane](img/Symbol_Mundane.svg)
 
 Trolls can't creep.
 
@@ -64,7 +64,7 @@ Isaac shrugged and sat down cross-legged, "I am troll. I wait."
 
 ---
 
-![Ventusamancy](http://necromancersapprentice.shaknaisrael.com/img/Symbol_Ventusamancy.svg)
+![Ventusamancy](img/Symbol_Ventusamancy.svg)
 
 He could feel his other nature, the one he was ashamed of, the one that was his heritage and power, beginning to overwhelm him.
 
