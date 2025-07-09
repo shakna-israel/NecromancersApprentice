@@ -2,7 +2,7 @@ image: debian/stable
 packages:
   - git
   - pandoc
-  - texlive-latex-base
+  - texlive-latex-recommended
   - texlive-fonts-extra
 sources:
   - https://git.sr.ht/~shakna/NecromancersApprentice
