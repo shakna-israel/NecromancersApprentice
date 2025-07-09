@@ -1,0 +1,10 @@
+image: debian/stable
+packages:
+  - git
+  - pandoc
+sources:
+  - https://git.sr.ht/~shakna/necromancersapprentice
+tasks:
+  - build: |
+      cd necromancersapprentice
+      sh launch
