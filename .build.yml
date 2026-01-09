@@ -1,0 +1,13 @@
+image: debian/stable
+packages:
+  - git
+  - pandoc
+  - texlive-latex-recommended
+  - texlive-fonts-extra
+  - texlive-latex-extra
+sources:
+  - https://git.sr.ht/~shakna/NecromancersApprentice
+tasks:
+  - build: |
+      cd NecromancersApprentice
+      sh launch
